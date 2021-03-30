@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <title>ASP.NET Korea Docs</title>  
+  <link rel="shortcut icon" type="image/x-icon" href="/image/static/aspnetkoreadocs_favicon.ico" />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="description" content="ASP.NET Korea 에서 운영하는 Docs 사이트로 프로그래밍 관련 정보와 강좌, 번역 문서 등을 제공합니다.">
+  <meta name="keywords" content="ASP.NET Korea, ASP.NET, ASP.NET Core, .NET, .NET Core, 웹프로그래머, 웹개발자">  
+  <meta property="og:title" content="ASP.NET Korea Docs" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="ASP.NET Korea 에서 운영하는 Docs 사이트로 프로그래밍 관련 정보와 강좌, 번역 문서 등을 제공합니다." />
+  <meta property="og:image" content="https://docs.aspnet.kr/image/static/aspnetkoreadocs_logo.png" />
+  <meta property="og:url" content="https://docs.aspnet.kr111" />
+  <meta name="twitter:card" content="summary" />
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" href="css/site.css?v=20210325" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+  <script src="js/site.js?v=20210325"></script>
+</head>
+<body>
+  <div id="app">Loading....</div>
+  <script>
+    window.$docsify = {
+      // 기본 설정
+      // -----------------------------------------------------------------
+      name: 'ASP.NET Korea Docs',
+      nameLink: '/',
+      logo: '/image/static/aspnetkoreadocs_logo.png',
+      repo: 'itistnet/AspNetKorea.Docs',
+      loadSidebar: true,
+      notFoundPage: true,
+      executeScript: true,
+      // -----------------------------------------------------------------    
+
+      // 사이드바 설정
+      // -----------------------------------------------------------------      
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 4,
+      // -----------------------------------------------------------------
+
+      // 플러그인 설정
+      // -----------------------------------------------------------------      
+      search: {
+        placeholder: '검색어를 입력해 주세요.',
+        noData: '검색 결과가 없습니다.',
+        depth: 6,
+        hideOtherSidebarContent: true
+      },
+      ga: 'UA-178235941-1',
+      toc: {
+        tocMaxLevel: 5,
+        target: 'h2, h3, h4, h5, h6'
+      },
+      copyCode: {
+        buttonText: '소스코드 복사하기',
+        errorText: '에러가 발생하였습니다.',
+        successText: '복사되었습니다.'
+      },
+      pagination: {
+        previousText: '이전',
+        nextText: '다음',
+        crossChapter: true,
+        crossChapterText: true,
+      }
+      // -----------------------------------------------------------------      
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <script src="//unpkg.com/docsify-plugin-toc"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'de2f15b0c9d587589254',
+      clientSecret: '40948ac056fe856290097f445dad72c87a8d0940',
+      repo: 'AspNetKorea.Docs',
+      owner: 'itistnet',
+      admin: ['itistnet'],
+      distractionFreeMode: true
+    })
+  </script>
+</body>
+</html>
