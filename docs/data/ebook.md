@@ -1,7 +1,7 @@
 # e-Book
 
 > e-Book 모음입니다.<br><br>
-[Microsoft Docs](https://docs.microsoft.com/ko-kr/?WT.mc_id=DOP-MVP-4027259) 로 연결되는 경우에는 한국어 번역(기계 번역 포함)이 제공되기도 하니 참고 바라며, 버전 업데이트는 확인되는 대로 반영됩니다. 무료 위주로 소개하고 있으며 유료는 별도로 표시됩니다. 알고 계신 좋은 정보가 있다면 어서 빨리 추천해 주세요.:smile: 
+[Microsoft Docs](https://docs.microsoft.com/ko-kr/?WT.mc_id=DOP-MVP-4027259) 로 연결되는 경우에는 한국어 번역(기계 번역 포함)이 제공되기도 하니 참고 바라며, 버전 업데이트는 확인되는 대로 반영됩니다. 무료 위주로 소개하고 있으며 유료는 별도로 표시됩니다. 알고 계신 좋은 정보가 있다면 어서 빨리 추천해 주세요:smile:. 
 
 ## ASP.NET
 - <img src="image/ebook/web-application-guide-cover-image.png" class="imgEbookCover"> [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/modern-web-apps-azure/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>

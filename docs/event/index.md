@@ -1,6 +1,6 @@
 # 행사 소식
 
-> 컨퍼런스나 세미나, 이벤트 등의 행사 소식입니다.
+> 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
 - [Microsoft Power Platform Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/249033/157-GQE-382) <small>(2021.04.01)</small> <span class="spnBadgeType1">온라인</span>
