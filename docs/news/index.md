@@ -5,6 +5,7 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Monitoring and Observability in Cloud-Native ASP.NET Core apps](https://devblogs.microsoft.com/aspnet/monitoring-and-observability-in-cloud-native-asp-net-core-apps/?WT.mc_id=DOP-MVP-4027259) <small>(2021.03.31)</small>
 - [Loop alignment in .NET 6](https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.03.25)</small>
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/?WT.mc_id=DOP-MVP-4027259) <small>(2021.03.22)</small>
 - [OpenTelemetry .NET reaches v1.0](https://devblogs.microsoft.com/dotnet/opentelemetry-net-reaches-v1-0/?WT.mc_id=DOP-MVP-4027259) <small>(2021.03.18)</small>
