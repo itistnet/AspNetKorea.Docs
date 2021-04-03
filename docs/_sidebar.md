@@ -3,7 +3,7 @@
 * [.NET 관련 소식](news/index)
 * [행사 소식](event/index)
 * **강좌 & 정보 & 팁**
-* [강좌 모음](post/index)
+* [강좌() 모음](post/index)
 * [정보 & 팁 모음](info/index)
 * **추천 자료**
 * [e-Book](data/ebook)
