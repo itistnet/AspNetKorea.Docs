@@ -11,6 +11,7 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 10개)</small>
+* `행사 소식` - [Azure Everywhere](https://aka.ms/Azure2021)
 * `.NET 관련 소식` - [Announcing Open Source C# standardization](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104)
 * `.NET 관련 소식` - [Monitoring and Observability in Cloud-Native ASP.NET Core apps](https://devblogs.microsoft.com/aspnet/monitoring-and-observability-in-cloud-native-asp-net-core-apps/?WT.mc_id=DOP-MVP-4027259)
@@ -20,8 +21,8 @@
 * `.NET 관련 소식` - [OpenTelemetry .NET reaches v1.0](https://devblogs.microsoft.com/dotnet/opentelemetry-net-reaches-v1-0/?WT.mc_id=DOP-MVP-4027259)
 * `e-Book` - [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/modern-web-apps-azure/?WT.mc_id=DOP-MVP-4027259)
 * `e-Book` - [ASP.NET Core gRPC for WCF Developers](https://docs.microsoft.com/ko-kr/dotnet/architecture/grpc-for-wcf-developers/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259)
-* `행사 소식` - [Microsoft Open Azure Day](https://info.microsoft.com/AP-AzureMig-CATALOG-FY21-03Mar-30-MicrosoftOpenAzureDay-SRDEM63396_CatalogDisplayPage.html)
-<!--* `e-Book` - [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/ko-kr/dotnet/architecture/modernize-with-azure-containers/?WT.mc_id=AZ-MVP-4027259)
+<!--* `행사 소식` - [Microsoft Open Azure Day](https://info.microsoft.com/AP-AzureMig-CATALOG-FY21-03Mar-30-MicrosoftOpenAzureDay-SRDEM63396_CatalogDisplayPage.html)
+* `e-Book` - [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/ko-kr/dotnet/architecture/modernize-with-azure-containers/?WT.mc_id=AZ-MVP-4027259)
 * `e-Book` - [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/cloud-native/?WT.mc_id=AZ-MVP-4027259)
 * `.NET 관련 소식` - [The path to .NET 5 and Blazor WebAssembly with some fun sprinkled in](https://devblogs.microsoft.com/dotnet/the-path-to-net-5-and-blazor-webassembly-with-some-fun-sprinkled-in/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ML.NET and Model Builder March Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-march-updates/?WT.mc_id=DOP-MVP-4027259)
