@@ -11,9 +11,9 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 10개)</small>
-* `행사 소식` - [NDC-Nexon Developers Conference](https://ndc.nexon.com/)
+* `행사 소식` - [NDC-Nexon Developers Conference 21](https://ndc.nexon.com/)
 * `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/254750/157-GQE-382)
-* `행사 소식` - [Google I/O 2020](https://events.google.com/io)
+* `행사 소식` - [Google I/O 2021](https://events.google.com/io)
 * `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/255685/157-GQE-382)
 * `행사 소식` - [AWS Summit Online Korea 2021](https://aws.amazon.com/ko/events/summits/online/korea/)
 * `행사 소식` - [Azure Everywhere](https://aka.ms/Azure2021)
