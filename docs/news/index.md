@@ -5,6 +5,12 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.09)</small>
+- [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.09)</small>
+- [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.08)</small>
+- [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.08)</small>
+- [Your Top .NET Microservices Questions Answered](https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.07)</small>
+- [.NET April 2021 Updates – .NET 5.0.5, .NET Core 3.1.14, .NET Core 2.1.27](https://devblogs.microsoft.com/dotnet/net-april-2021-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.06)</small>
 - [Announcing Open Source C# standardization](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.05)</small>
 - [Monitoring and Observability in Cloud-Native ASP.NET Core apps](https://devblogs.microsoft.com/aspnet/monitoring-and-observability-in-cloud-native-asp-net-core-apps/?WT.mc_id=DOP-MVP-4027259) <small>(2021.03.31)</small>
 - [Loop alignment in .NET 6](https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.03.25)</small>
