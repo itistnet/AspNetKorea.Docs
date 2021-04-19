@@ -5,6 +5,7 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.15)</small>
 - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.09)</small>
 - [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.09)</small>
 - [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.08)</small>
