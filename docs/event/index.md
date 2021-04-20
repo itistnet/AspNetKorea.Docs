@@ -8,6 +8,7 @@
 - [Google I/O 2021](https://events.google.com/io) <small>(2021.05.18 ~ 20)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/255685/157-GQE-382) <small>(2021.05.11 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
 - [AWS Summit Online Korea 2021](https://aws.amazon.com/ko/events/summits/online/korea/) <small>(2021.05.10 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
+- [Global Azure 2021 Korea](https://github.com/krazure/ga2021kr) <small>(2021.04.24)</small> <span class="spnBadgeType1">온라인</span>
 - [Azure Everywhere](https://aka.ms/Azure2021) <small>(2021.04.20 ~ 22)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/248952/157-GQE-382) <small>(2021.04.06 ~ 07)</small> <span class="spnBadgeType1">온라인</span>
 - [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) <small>(2021.04.04)</small> <span class="spnBadgeType1">온라인</span>

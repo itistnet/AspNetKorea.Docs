@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 10개)</small>
 
+* `행사 소식` - [Global Azure 2021 Korea](https://github.com/krazure/ga2021kr)
 * `.NET 관련 소식` - [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259)
@@ -22,8 +23,8 @@
 * `.NET 관련 소식` - [.NET April 2021 Updates – .NET 5.0.5, .NET Core 3.1.14, .NET Core 2.1.27](https://devblogs.microsoft.com/dotnet/net-april-2021-updates/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [NDC-Nexon Developers Conference 21](https://ndc.nexon.com/)
 * `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/254750/157-GQE-382)
-* `행사 소식` - [Google I/O 2021](https://events.google.com/io)
-<!--* `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/255685/157-GQE-382)
+<!--* `행사 소식` - [Google I/O 2021](https://events.google.com/io)
+* `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/255685/157-GQE-382)
 * `행사 소식` - [AWS Summit Online Korea 2021](https://aws.amazon.com/ko/events/summits/online/korea/)
 * `행사 소식` - [Azure Everywhere](https://aka.ms/Azure2021)
 * `.NET 관련 소식` - [Announcing Open Source C# standardization](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/?WT.mc_id=DOP-MVP-4027259)
