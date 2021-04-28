@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 10개)</small>
 
+* `행사 소식` - [Microsoft Build 2021](https://register.build.microsoft.com/)
 * `.NET 관련 소식` - [Conversation about crossgen2](https://devblogs.microsoft.com/dotnet/conversation-about-crossgen2/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [What’s new in dotnet monitor](https://devblogs.microsoft.com/dotnet/whats-new-in-dotnet-monitor/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Global Azure 2021 Korea](https://github.com/krazure/ga2021kr)

@@ -5,6 +5,7 @@
 ## 2021
 - [NDC-Nexon Developers Conference 21](https://ndc.nexon.com/) <small>(2021.06.09 ~ 11)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/254750/157-GQE-382) <small>(2021.06.01 ~ 02)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Build 2021](https://register.build.microsoft.com/) <small>(2021.05.25 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [Google I/O 2021](https://events.google.com/io) <small>(2021.05.18 ~ 20)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/255685/157-GQE-382) <small>(2021.05.11 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
 - [AWS Summit Online Korea 2021](https://aws.amazon.com/ko/events/summits/online/korea/) <small>(2021.05.10 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
