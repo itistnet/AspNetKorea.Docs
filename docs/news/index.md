@@ -5,6 +5,7 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.10)</small>
 - [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.07)</small>
 - [.NET Framework 4.5.2, 4.6, 4.6.1 will reach End of Support on April 26, 2022](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.26)</small>
 - [Conversation about crossgen2](https://devblogs.microsoft.com/dotnet/conversation-about-crossgen2/?WT.mc_id=DOP-MVP-4027259) <small>(2021.04.22)</small>
