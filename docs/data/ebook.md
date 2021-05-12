@@ -22,3 +22,6 @@
 ## .NET
 - <img src="image/ebook/dapr-for-net-developers.png" class="imgEbookCover"> [Dapr for .NET Developers (Preview Edition)](https://docs.microsoft.com/ko-kr/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=DOP-MVP-4027259) <small>(2021)</small>
 - <img src="image/ebook/net-microservices-architecture-for-containerized-net.png" class="imgEbookCover"> [.NET Microservices: Architecture for Containerized .NET](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259/?WT.mc_id=DOP-MVP-4027259) <small>(2020~ 지속적으로 업데이트 진행)</small>
+
+## Power Platform
+- <img src="image/ebook/fusion-development-approach-to-building-apps-using-power-apps.png" class="imgEbookCover"> [Fusion development approach to building apps using Power Apps](https://docs.microsoft.com/ko-kr/powerapps/guidance/fusion-dev-ebook/?WT.mc_id=DOP-MVP-4027259) <small>(2021)</small>
