@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [Develop production-scale modern web apps quickly with Azure Static Web Apps](https://azure.microsoft.com/ko-kr/blog/develop-production-scale-modern-web-apps-quickly-with-azure-static-web-apps/?WT.mc_id=AZ-MVP-4027259)
 * `e-Book` - [Fusion development approach to building apps using Power Apps](https://docs.microsoft.com/ko-kr/powerapps/guidance/fusion-dev-ebook/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/?WT.mc_id=DOP-MVP-4027259)
@@ -26,8 +27,8 @@
 * `.NET 관련 소식` - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Your Top .NET Microservices Questions Answered](https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Your Top .NET Microservices Questions Answered](https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET April 2021 Updates – .NET 5.0.5, .NET Core 3.1.14, .NET Core 2.1.27](https://devblogs.microsoft.com/dotnet/net-april-2021-updates/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [NDC-Nexon Developers Conference 21](https://ndc.nexon.com/)
 * `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/254750/157-GQE-382)
