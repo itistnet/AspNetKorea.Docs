@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [Developing on a M1 Mac with Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/developing-on-a-m1-mac-with-visual-studio-for-mac/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework May 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28](https://devblogs.microsoft.com/dotnet/net-may-2021/?WT.mc_id=DOP-MVP-4027259)
 
@@ -27,8 +28,8 @@
 * `행사 소식` - [Global Azure 2021 Korea](https://github.com/krazure/ga2021kr)
 * `.NET 관련 소식` - [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Your Top .NET Microservices Questions Answered](https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/?WT.mc_id=DOP-MVP-4027259)
