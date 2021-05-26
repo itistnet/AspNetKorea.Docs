@@ -5,6 +5,14 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [Announcing .NET MAUI Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [Announcing .NET 6 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [Visual Studio 2019 v16.10 and v16.11 Preview 1 are Available Today!](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-10-and-v16-11-preview-1-are-available-today/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
+- [.NET Framework May 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.20)</small>
 - [Developing on a M1 Mac with Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/developing-on-a-m1-mac-with-visual-studio-for-mac/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.19)</small>
 - [.NET Framework May 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.12)</small>
 - [.NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28](https://devblogs.microsoft.com/dotnet/net-may-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.11)</small>

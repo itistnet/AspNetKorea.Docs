@@ -12,15 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing .NET MAUI Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing .NET 6 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2019 v16.10 and v16.11 Preview 1 are Available Today!](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-10-and-v16-11-preview-1-are-available-today/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Developing on a M1 Mac with Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/developing-on-a-m1-mac-with-visual-studio-for-mac/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework May 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28](https://devblogs.microsoft.com/dotnet/net-may-2021/?WT.mc_id=DOP-MVP-4027259)
-
 * `.NET 관련 소식` - [Develop production-scale modern web apps quickly with Azure Static Web Apps](https://azure.microsoft.com/ko-kr/blog/develop-production-scale-modern-web-apps-quickly-with-azure-static-web-apps/?WT.mc_id=AZ-MVP-4027259)
 * `e-Book` - [Fusion development approach to building apps using Power Apps](https://docs.microsoft.com/ko-kr/powerapps/guidance/fusion-dev-ebook/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/?WT.mc_id=DOP-MVP-4027259)
-* `행사 소식` - [Blazor Day 2021](https://blazorday.net/)
+<!--* `행사 소식` - [Blazor Day 2021](https://blazorday.net/)
 * `.NET 관련 소식` - [.NET Framework 4.5.2, 4.6, 4.6.1 will reach End of Support on April 26, 2022](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Microsoft Build 2021](https://register.build.microsoft.com/)
 * `.NET 관련 소식` - [Conversation about crossgen2](https://devblogs.microsoft.com/dotnet/conversation-about-crossgen2/?WT.mc_id=DOP-MVP-4027259)
@@ -28,7 +35,7 @@
 * `행사 소식` - [Global Azure 2021 Korea](https://github.com/krazure/ga2021kr)
 * `.NET 관련 소식` - [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Show dotnet: Build your own unit test platform? The true story of .NET nanoFramework](https://devblogs.microsoft.com/dotnet/show-dotnet-build-your-own-unit-test-platform-the-true-story-of-net-nanoframework/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Show dotnet: Animating 40 LEDs with charlieplexing](https://devblogs.microsoft.com/dotnet/show-dotnet-animating-40-leds-with-charlieplexing/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/?WT.mc_id=DOP-MVP-4027259)
