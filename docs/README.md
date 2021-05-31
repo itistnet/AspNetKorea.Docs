@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [F# and F# tools update for Visual Studio 16.10](https://devblogs.microsoft.com/dotnet/f-and-f-tools-update-for-visual-studio-16-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/?WT.mc_id=DOP-MVP-4027259)
@@ -26,8 +27,8 @@
 * `.NET 관련 소식` - [Develop production-scale modern web apps quickly with Azure Static Web Apps](https://azure.microsoft.com/ko-kr/blog/develop-production-scale-modern-web-apps-quickly-with-azure-static-web-apps/?WT.mc_id=AZ-MVP-4027259)
 * `e-Book` - [Fusion development approach to building apps using Power Apps](https://docs.microsoft.com/ko-kr/powerapps/guidance/fusion-dev-ebook/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/?WT.mc_id=DOP-MVP-4027259)
-<!--* `행사 소식` - [Blazor Day 2021](https://blazorday.net/)
+<!--* `.NET 관련 소식` - [ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/?WT.mc_id=DOP-MVP-4027259)
+* `행사 소식` - [Blazor Day 2021](https://blazorday.net/)
 * `.NET 관련 소식` - [.NET Framework 4.5.2, 4.6, 4.6.1 will reach End of Support on April 26, 2022](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Microsoft Build 2021](https://register.build.microsoft.com/)
 * `.NET 관련 소식` - [Conversation about crossgen2](https://devblogs.microsoft.com/dotnet/conversation-about-crossgen2/?WT.mc_id=DOP-MVP-4027259)
