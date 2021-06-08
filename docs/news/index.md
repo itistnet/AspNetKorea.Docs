@@ -5,7 +5,12 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.03)</small>
+- [Visual Studio 2019 for Mac version 8.10 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-10-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.02)</small>
+- [Announcing Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.01)</small>
+- [Conversation about .NET interop](https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.01)</small>
 - [F# and F# tools update for Visual Studio 16.10](https://devblogs.microsoft.com/dotnet/f-and-f-tools-update-for-visual-studio-16-10/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.26)</small>
+- [Building Contextual Experiences w/ Blazor](https://devblogs.microsoft.com/aspnet/building-contextual-experiences-w-blazor/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.30)</small>
 - [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
 - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
 - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/?WT.mc_id=DOP-MVP-4027259) <small>(2021.05.25)</small>
