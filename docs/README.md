@@ -12,6 +12,12 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Learn What’s New in .NET Productivity](https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Build apps for Microsoft Teams with .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2019 for Mac version 8.10 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-10-is-now-available/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/?WT.mc_id=DOP-MVP-4027259)
@@ -21,13 +27,13 @@
 * `행사 소식` - [MVP Microsoft Build Watch Party(ASP.NET Korea)](https://bit.ly/3goieZt)
 * `.NET 관련 소식` - [F# and F# tools update for Visual Studio 16.10](https://devblogs.microsoft.com/dotnet/f-and-f-tools-update-for-visual-studio-16-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2019 v16.10 and v16.11 Preview 1 are Available Today!](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-10-and-v16-11-preview-1-are-available-today/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Developing on a M1 Mac with Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/developing-on-a-m1-mac-with-visual-studio-for-mac/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework May 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET May 2021 Updates – 5.0.6, 3.1.15, 2.1.28](https://devblogs.microsoft.com/dotnet/net-may-2021/?WT.mc_id=DOP-MVP-4027259)

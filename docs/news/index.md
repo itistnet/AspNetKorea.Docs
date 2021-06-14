@@ -5,6 +5,12 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+- [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+- [Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+- [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+- [Learn What’s New in .NET Productivity](https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+- [Build apps for Microsoft Teams with .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.07)</small>
 - [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.03)</small>
 - [Visual Studio 2019 for Mac version 8.10 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-10-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.02)</small>
 - [Announcing Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.01)</small>
