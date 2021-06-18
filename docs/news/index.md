@@ -5,6 +5,17 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Visual Studio 2022 Preview 1 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-1-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+- [Type less, code more with IntelliCode completions](https://devblogs.microsoft.com/visualstudio/type-less-code-more-with-intellicode-completions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+- [Announcing .NET MAUI Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+- [Announcing Entity Framework Core 6.0 Preview 5: Compiled Models](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-5-compiled-models/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+- [ASP.NET Core updates in .NET 6 Preview 5](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+- [Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/conversation-about-networking/?WT.mc_id=DOP-MVP-4027259?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+- [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/?WT.mc_id=DOP-MVP-4027259?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.16)</small>
+- [Visual Studio 2019 16.11 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-16-11-preview-2/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
+- [.NET Framework June 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
+- [Migration of Bing’s Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
+- [Conversation about diagnostics](https://devblogs.microsoft.com/dotnet/conversation-about-diagnostics/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.14)</small>
 - [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
 - [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
 - [Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>

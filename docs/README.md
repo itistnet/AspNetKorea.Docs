@@ -12,11 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [Visual Studio 2022 Preview 1 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-1-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [Type less, code more with IntelliCode completions](https://devblogs.microsoft.com/visualstudio/type-less-code-more-with-intellicode-completions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [Announcing .NET MAUI Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 5: Compiled Models](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-5-compiled-models/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 5](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/conversation-about-networking/?WT.mc_id=DOP-MVP-4027259?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/?WT.mc_id=DOP-MVP-4027259?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.16)</small>
+* `.NET 관련 소식` - [Visual Studio 2019 16.11 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-16-11-preview-2/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
+* `.NET 관련 소식` - [.NET Framework June 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
+* `.NET 관련 소식` - [Migration of Bing’s Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
+* `.NET 관련 소식` - [Conversation about diagnostics](https://devblogs.microsoft.com/dotnet/conversation-about-diagnostics/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.14)</small>
 * `.NET 관련 소식` - [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Learn What’s New in .NET Productivity](https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Learn What’s New in .NET Productivity](https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Build apps for Microsoft Teams with .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2019 for Mac version 8.10 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-10-is-now-available/?WT.mc_id=DOP-MVP-4027259)
@@ -27,7 +38,7 @@
 * `행사 소식` - [MVP Microsoft Build Watch Party(ASP.NET Korea)](https://bit.ly/3goieZt)
 * `.NET 관련 소식` - [F# and F# tools update for Visual Studio 16.10](https://devblogs.microsoft.com/dotnet/f-and-f-tools-update-for-visual-studio-16-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework May 2021 Cumulative Update Preview for Windows 10, versions 2004, 20H2, 21H1](https://devblogs.microsoft.com/dotnet/net-framework-may-2021-cumulative-update-preview-for-windows-10-versions-2004-20h2-21h1/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 4: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-4-performance-edition/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET Hot Reload experience for editing code at runtime](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/?WT.mc_id=DOP-MVP-4027259)
