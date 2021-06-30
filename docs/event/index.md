@@ -3,6 +3,7 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
+- [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/282367/157-GQE-382) <small>(2021.07.08 ~ 09)</small> <span class="spnBadgeType1">온라인</span>
 - [Blazor Day 2021](https://blazorday.net/) <small>(2021.06.17)</small> <span class="spnBadgeType1">온라인</span>
 - [NDC-Nexon Developers Conference 21](https://ndc.nexon.com/) <small>(2021.06.04)</small> <span class="spnBadgeType1">온라인</span>
 - [MVP Microsoft Build Watch Party(ASP.NET Korea)](https://bit.ly/3goieZt) <small>(2021.06.09 ~ 11)</small> <span class="spnBadgeType1">온라인</span>

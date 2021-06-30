@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `행사 소식` - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/282367/157-GQE-382) <small>(2021.07.08 ~ 09)</small>
 * `.NET 관련 소식` - [ML.NET June Updates](https://devblogs.microsoft.com/dotnet/ml-net-june-updates-model-builder/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [Visual Studio 2022 Preview 1 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-1-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [Type less, code more with IntelliCode completions](https://devblogs.microsoft.com/visualstudio/type-less-code-more-with-intellicode-completions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
@@ -24,10 +25,10 @@
 * `.NET 관련 소식` - [.NET Framework June 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
 * `.NET 관련 소식` - [Migration of Bing’s Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.15)</small>
 * `.NET 관련 소식` - [Conversation about diagnostics](https://devblogs.microsoft.com/dotnet/conversation-about-diagnostics/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.14)</small>
-* `.NET 관련 소식` - [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Framework June 2021 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+* `.NET 관련 소식` - [.NET June 2021 Updates – 5.0.7 and 3.1.16](https://devblogs.microsoft.com/dotnet/net-june-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.08)</small>
+<!--* `.NET 관련 소식` - [Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Learn What’s New in .NET Productivity](https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Build apps for Microsoft Teams with .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/?WT.mc_id=DOP-MVP-4027259)
