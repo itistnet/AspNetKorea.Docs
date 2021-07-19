@@ -5,6 +5,16 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Design your Web Forms apps with Web Live Preview in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.16)</small>
+- [Visual Studio 2022 Preview 2 is out!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-2-is-out/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
+- [.NET Framework July 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
+- [Announcing Entity Framework Core 6.0 Preview 6: Configure Conventions](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-6-configure-conventions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
+- [ASP.NET Core updates in .NET 6 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
+- [Announcing .NET 6 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
+- [Announcing .NET MAUI Preview 6](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
+- [.NET July 2021 Updates – 5.0.8 and 3.1.17](https://devblogs.microsoft.com/dotnet/net-july-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.13)</small>
+- [.NET Framework June 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview-2/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.24)</small>
+- [What’s new in Windows Forms in .NET 6.0 Preview 5](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.23)</small>
 - [ML.NET June Updates](https://devblogs.microsoft.com/dotnet/ml-net-june-updates-model-builder/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.22)</small>
 - [Visual Studio 2022 Preview 1 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-1-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 - [Type less, code more with IntelliCode completions](https://devblogs.microsoft.com/visualstudio/type-less-code-more-with-intellicode-completions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
