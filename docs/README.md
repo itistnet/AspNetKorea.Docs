@@ -13,6 +13,14 @@
 ## 신규 업데이트 <small>(최근 15개)</small>
 
 
+* `.NET 관련 소식` - [Speed up your .NET and C++ development with Hot Reload in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/speed-up-your-dotnet-and-cplusplus-development-with-hot-reload-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.29)</small>
+* `.NET 관련 소식` - [.NET Framework July 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.29)</small>
+* `.NET 관련 소식` - [Conversation about the .NET open source project](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.28)</small>
+* `.NET 관련 소식` - [Tune in July 29 for .NET Conf: Focus on F#](https://devblogs.microsoft.com/dotnet/tune-in-july-29-for-net-conf-focus-on-f/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.26)</small>
+* `.NET 관련 소식` - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.22)</small>
+* `.NET 관련 소식` - [Join the Visual Studio 2022 for Mac Private Preview](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.21)</small>
+
+
 * `.NET 관련 소식` - [Design your Web Forms apps with Web Live Preview in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.16)</small>
 * `.NET 관련 소식` - [Visual Studio 2022 Preview 2 is out!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-2-is-out/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
 * `.NET 관련 소식` - [.NET Framework July 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.14)</small>
