@@ -6,6 +6,18 @@
 
 ## 2021
 
+- [The New JavaScript/TypeScript Experience in Visual Studio 2022 Preview 3](https://devblogs.microsoft.com/visualstudio/the-new-javascript-typescript-experience-in-vs-2022-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.12)</small>
+- [Multi-repo Support in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-repo-support-in-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
+- [Personalize Your Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
+- [ASP.NET Core updates in .NET 6 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [Announcing .NET MAUI Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [Preview Features in .NET 6 – Generic Math](https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [Announcing .NET 6 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [String Interpolation in C# 10 and .NET 6](https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [Visual Studio 2022 Preview 3 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-3-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [Visual Studio 2019 v16.11 is Available Now!](https://devblogs.microsoft.com/visualstudio/visual-studio-16-11/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [.NET August 2021 Updates – 5.0.9, 3.1.18, 2.1.29](https://devblogs.microsoft.com/dotnet/net-august-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+- [.NET Framework August 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-august-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
 - [Speed up your .NET and C++ development with Hot Reload in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/speed-up-your-dotnet-and-cplusplus-development-with-hot-reload-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.29)</small>
 - [.NET Framework July 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.29)</small>
 - [Conversation about the .NET open source project](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.28)</small>

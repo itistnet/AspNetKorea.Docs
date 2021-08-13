@@ -12,11 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-
+* `.NET 관련 소식` - [The New JavaScript/TypeScript Experience in Visual Studio 2022 Preview 3](https://devblogs.microsoft.com/visualstudio/the-new-javascript-typescript-experience-in-vs-2022-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.12)</small>
+* `.NET 관련 소식` - [Multi-repo Support in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-repo-support-in-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
+* `.NET 관련 소식` - [Personalize Your Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
+* `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [Announcing .NET MAUI Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [Preview Features in .NET 6 – Generic Math](https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [Announcing .NET 6 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [String Interpolation in C# 10 and .NET 6](https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [Visual Studio 2022 Preview 3 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-3-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [Visual Studio 2019 v16.11 is Available Now!](https://devblogs.microsoft.com/visualstudio/visual-studio-16-11/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [.NET August 2021 Updates – 5.0.9, 3.1.18, 2.1.29](https://devblogs.microsoft.com/dotnet/net-august-2021/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [.NET Framework August 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-august-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
 * `.NET 관련 소식` - [Speed up your .NET and C++ development with Hot Reload in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/speed-up-your-dotnet-and-cplusplus-development-with-hot-reload-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.29)</small>
 * `.NET 관련 소식` - [.NET Framework July 2021 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-july-2021-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.29)</small>
 * `.NET 관련 소식` - [Conversation about the .NET open source project](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.28)</small>
-* `.NET 관련 소식` - [Tune in July 29 for .NET Conf: Focus on F#](https://devblogs.microsoft.com/dotnet/tune-in-july-29-for-net-conf-focus-on-f/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.26)</small>
+<!--* `.NET 관련 소식` - [Tune in July 29 for .NET Conf: Focus on F#](https://devblogs.microsoft.com/dotnet/tune-in-july-29-for-net-conf-focus-on-f/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.26)</small>
 * `.NET 관련 소식` - [Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.22)</small>
 * `.NET 관련 소식` - [Join the Visual Studio 2022 for Mac Private Preview](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.21)</small>
 * `.NET 관련 소식` - [Design your Web Forms apps with Web Live Preview in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.07.16)</small>
@@ -34,7 +45,7 @@
 * `.NET 관련 소식` - [Visual Studio 2022 Preview 1 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-1-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [Type less, code more with IntelliCode completions](https://devblogs.microsoft.com/visualstudio/type-less-code-more-with-intellicode-completions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.22)</small>
-<!--* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 5: Compiled Models](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-5-compiled-models/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
+* `.NET 관련 소식` - [Announcing Entity Framework Core 6.0 Preview 5: Compiled Models](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-6-0-preview-5-compiled-models/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 5](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.17)</small>
 * `.NET 관련 소식` - [Conversation about networking](https://devblogs.microsoft.com/dotnet/conversation-about-networking/?WT.mc_id=DOP-MVP-4027259?WT.mc_id=DOP-MVP-4027259) <small>(2021.06.16)</small>
