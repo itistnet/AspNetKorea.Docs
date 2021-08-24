@@ -12,8 +12,6 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-
-
 * `행사 소식` - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small>
 * `.NET 관련 소식` - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.23)</small>
 * `.NET 관련 소식` - [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
