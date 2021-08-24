@@ -3,6 +3,7 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
+- [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/284296/157-GQE-382) <small>(2021.08.12 ~ 13)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/282367/157-GQE-382) <small>(2021.07.08 ~ 09)</small> <span class="spnBadgeType1">온라인</span>
 - [Blazor Day 2021](https://blazorday.net/) <small>(2021.06.17)</small> <span class="spnBadgeType1">온라인</span>

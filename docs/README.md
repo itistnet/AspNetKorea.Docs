@@ -14,6 +14,7 @@
 
 
 
+* `행사 소식` - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small>
 * `.NET 관련 소식` - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.23)</small>
 * `.NET 관련 소식` - [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
 * `.NET 관련 소식` - [Revamped Project Properties UI](https://devblogs.microsoft.com/visualstudio/revamped-project-properties-ui/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
@@ -28,8 +29,8 @@
 * `.NET 관련 소식` - [Personalize Your Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
-* `.NET 관련 소식` - [Preview Features in .NET 6 – Generic Math](https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
-<!-- * `.NET 관련 소식` - [Announcing .NET 6 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+<!--* `.NET 관련 소식` - [Preview Features in .NET 6 – Generic Math](https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
+* `.NET 관련 소식` - [Announcing .NET 6 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
 * `.NET 관련 소식` - [String Interpolation in C# 10 and .NET 6](https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
 * `.NET 관련 소식` - [Visual Studio 2022 Preview 3 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-3-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
 * `.NET 관련 소식` - [Visual Studio 2019 v16.11 is Available Now!](https://devblogs.microsoft.com/visualstudio/visual-studio-16-11/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.10)</small>
