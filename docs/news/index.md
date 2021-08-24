@@ -6,6 +6,15 @@
 
 ## 2021
 
+- [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.23)</small>
+- [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
+- [Revamped Project Properties UI](https://devblogs.microsoft.com/visualstudio/revamped-project-properties-ui/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
+- [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
+- [Flexible theming capabilities for Visual Studio](https://devblogs.microsoft.com/visualstudio/flexible-theming-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
+- [Improving developer security with Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/improving-developer-security-with-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
+- [.NET Core 2.1 container images will be deleted from Docker Hub](https://devblogs.microsoft.com/dotnet/net-core-2-1-container-images-will-be-deleted-from-docker-hub/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
+- [Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
+- [Debugging External Sources with Visual Studio](https://devblogs.microsoft.com/visualstudio/debugging-external-sources-with-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
 - [The New JavaScript/TypeScript Experience in Visual Studio 2022 Preview 3](https://devblogs.microsoft.com/visualstudio/the-new-javascript-typescript-experience-in-vs-2022-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.12)</small>
 - [Multi-repo Support in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-repo-support-in-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
 - [Personalize Your Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.11)</small>
