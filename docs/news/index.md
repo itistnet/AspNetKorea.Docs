@@ -6,6 +6,7 @@
 
 ## 2021
 
+- [New Improved Attach to Process Dialog Experience](https://devblogs.microsoft.com/visualstudio/new-improved-attach-to-process-dialog-experience/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.07)</small>
 - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.01)</small>
 - [Introducing the .NET MAUI Community Toolkit (Preview)](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.31)</small>
 - [Boost your productivity with Productivity Power Tools Extensions in Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/boost-your-productivity-with-productivity-power-tools-extensions-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.31)</small>
