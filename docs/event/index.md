@@ -3,6 +3,7 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
+- [Teams App Development(Teams 기반 어플리케이션 개발) Training](https://mktoevents.com/Microsoft+Event/296277/157-GQE-382) <small>(2021.09.27 ~ 10.18(주 1회))</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Security Virtual Training Day: Protect Sensitive Information and Manage Data Risk](https://mktoevents.com/Microsoft+Event/284589/157-GQE-382) <small>(2021.09.14 ~ 15)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Power Platform Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/284452/157-GQE-382) <small>(2021.08.24)</small> <span class="spnBadgeType1">온라인</span>

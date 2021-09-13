@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `행사 소식` - [Teams App Development(Teams 기반 어플리케이션 개발) Training](https://mktoevents.com/Microsoft+Event/296277/157-GQE-382) <small>(2021.09.27 ~ 10.18(주 1회))</small>
+* `.NET 관련 소식` - [The Future of Visual Studio Extensibility is Here!](https://devblogs.microsoft.com/visualstudio/the-future-of-visual-studio-extensibility-is-here/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.09)</small>
+* `.NET 관련 소식` - [Taking the EF Core Azure Cosmos DB Provider for a Test Drive](https://devblogs.microsoft.com/dotnet/taking-the-ef-core-azure-cosmos-db-provider-for-a-test-drive/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.08)</small>
 * `.NET 관련 소식` - [New Improved Attach to Process Dialog Experience](https://devblogs.microsoft.com/visualstudio/new-improved-attach-to-process-dialog-experience/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.07)</small>
 * `행사 소식` - [Microsoft Security Virtual Training Day: Protect Sensitive Information and Manage Data Risk](https://mktoevents.com/Microsoft+Event/284589/157-GQE-382) <small>(2021.09.14 ~ 15)</small>
 * `.NET 관련 소식` - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.01)</small>
@@ -25,9 +28,9 @@
 * `.NET 관련 소식` - [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
 * `.NET 관련 소식` - [Revamped Project Properties UI](https://devblogs.microsoft.com/visualstudio/revamped-project-properties-ui/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
 * `.NET 관련 소식` - [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
-* `.NET 관련 소식` - [Flexible theming capabilities for Visual Studio](https://devblogs.microsoft.com/visualstudio/flexible-theming-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
+<!--* `.NET 관련 소식` - [Flexible theming capabilities for Visual Studio](https://devblogs.microsoft.com/visualstudio/flexible-theming-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
 * `.NET 관련 소식` - [Improving developer security with Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/improving-developer-security-with-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.17)</small>
-<!--* `.NET 관련 소식` - [.NET Core 2.1 container images will be deleted from Docker Hub](https://devblogs.microsoft.com/dotnet/net-core-2-1-container-images-will-be-deleted-from-docker-hub/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
+* `.NET 관련 소식` - [.NET Core 2.1 container images will be deleted from Docker Hub](https://devblogs.microsoft.com/dotnet/net-core-2-1-container-images-will-be-deleted-from-docker-hub/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
 * `.NET 관련 소식` - [Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
 * `.NET 관련 소식` - [Debugging External Sources with Visual Studio](https://devblogs.microsoft.com/visualstudio/debugging-external-sources-with-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.16)</small>
 * `.NET 관련 소식` - [The New JavaScript/TypeScript Experience in Visual Studio 2022 Preview 3](https://devblogs.microsoft.com/visualstudio/the-new-javascript-typescript-experience-in-vs-2022-preview-3/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.12)</small>
