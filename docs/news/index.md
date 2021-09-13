@@ -6,6 +6,8 @@
 
 ## 2021
 
+- [The Future of Visual Studio Extensibility is Here!](https://devblogs.microsoft.com/visualstudio/the-future-of-visual-studio-extensibility-is-here/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.09)</small>
+- [Taking the EF Core Azure Cosmos DB Provider for a Test Drive](https://devblogs.microsoft.com/dotnet/taking-the-ef-core-azure-cosmos-db-provider-for-a-test-drive/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.08)</small>
 - [New Improved Attach to Process Dialog Experience](https://devblogs.microsoft.com/visualstudio/new-improved-attach-to-process-dialog-experience/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.07)</small>
 - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.01)</small>
 - [Introducing the .NET MAUI Community Toolkit (Preview)](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.31)</small>
