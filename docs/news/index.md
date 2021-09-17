@@ -6,6 +6,12 @@
 
 ## 2021
 
+- [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.15)</small>
+- [Visual Studio 2022 Preview 4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-4-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
+- [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
+- [Announcing .NET 6 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-release-candidate-1/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
+- [.NET September 2021 Updates – 5.0.10 and 3.1.19](https://devblogs.microsoft.com/dotnet/september-2021-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
+- [Update on .NET Multi-platform App UI (.NET MAUI)](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
 - [The Future of Visual Studio Extensibility is Here!](https://devblogs.microsoft.com/visualstudio/the-future-of-visual-studio-extensibility-is-here/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.09)</small>
 - [Taking the EF Core Azure Cosmos DB Provider for a Test Drive](https://devblogs.microsoft.com/dotnet/taking-the-ef-core-azure-cosmos-db-provider-for-a-test-drive/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.08)</small>
 - [New Improved Attach to Process Dialog Experience](https://devblogs.microsoft.com/visualstudio/new-improved-attach-to-process-dialog-experience/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.07)</small>
