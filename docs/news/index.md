@@ -6,6 +6,8 @@
 
 ## 2021
 
+- [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.20)</small>
+- [HTTP/3 support in .NET 6e](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.17)</small>
 - [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.15)</small>
 - [Visual Studio 2022 Preview 4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-4-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
 - [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>

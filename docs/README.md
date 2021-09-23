@@ -12,7 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-
+* `.NET 관련 소식` - [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [HTTP/3 support in .NET 6e](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식`- [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식`- [Visual Studio 2022 Preview 4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-4-is-now-available/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식`- [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/?WT.mc_id=DOP-MVP-4027259)
@@ -27,9 +28,9 @@
 * `.NET 관련 소식` - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET MAUI Community Toolkit (Preview)](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Boost your productivity with Productivity Power Tools Extensions in Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/boost-your-productivity-with-productivity-power-tools-extensions-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Learn to build applications with F#](https://devblogs.microsoft.com/dotnet/learn-to-build-applications-with-fsharp/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Learn to build applications with F#](https://devblogs.microsoft.com/dotnet/learn-to-build-applications-with-fsharp/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Optimizing toolbars for your workflow](https://devblogs.microsoft.com/visualstudio/optimizing-toolbars-for-your-workflow/?WT.mc_id=DOP-MVP-4027259)
-<!--* `행사 소식` - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small>
+* `행사 소식` - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small>
 * `행사 소식` - [Microsoft Power Platform Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/284452/157-GQE-382) <small>(2021.08.24)</small>
 * `.NET 관련 소식` - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.23)</small>
 * `.NET 관련 소식` - [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.08.18)</small>
