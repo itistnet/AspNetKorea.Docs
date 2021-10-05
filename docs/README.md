@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [ML.NET and Model Builder October Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 1 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-1-is-now-available/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [HTTP/3 support in .NET 6e](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식`- [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/?WT.mc_id=DOP-MVP-4027259)
@@ -24,11 +28,11 @@
 * `.NET 관련 소식` - [The Future of Visual Studio Extensibility is Here!](https://devblogs.microsoft.com/visualstudio/the-future-of-visual-studio-extensibility-is-here/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Taking the EF Core Azure Cosmos DB Provider for a Test Drive](https://devblogs.microsoft.com/dotnet/taking-the-ef-core-azure-cosmos-db-provider-for-a-test-drive/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [New Improved Attach to Process Dialog Experience](https://devblogs.microsoft.com/visualstudio/new-improved-attach-to-process-dialog-experience/?WT.mc_id=DOP-MVP-4027259)
-* `행사 소식` - [Microsoft Security Virtual Training Day: Protect Sensitive Information and Manage Data Risk](https://mktoevents.com/Microsoft+Event/284589/157-GQE-382)
+<!--* `행사 소식` - [Microsoft Security Virtual Training Day: Protect Sensitive Information and Manage Data Risk](https://mktoevents.com/Microsoft+Event/284589/157-GQE-382)
 * `.NET 관련 소식` - [File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET MAUI Community Toolkit (Preview)](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Boost your productivity with Productivity Power Tools Extensions in Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/boost-your-productivity-with-productivity-power-tools-extensions-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Learn to build applications with F#](https://devblogs.microsoft.com/dotnet/learn-to-build-applications-with-fsharp/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Learn to build applications with F#](https://devblogs.microsoft.com/dotnet/learn-to-build-applications-with-fsharp/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Optimizing toolbars for your workflow](https://devblogs.microsoft.com/visualstudio/optimizing-toolbars-for-your-workflow/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small>
 * `행사 소식` - [Microsoft Power Platform Virtual Training Day: Fundamentals](https://mktoevents.com/Microsoft+Event/284452/157-GQE-382) <small>(2021.08.24)</small>
