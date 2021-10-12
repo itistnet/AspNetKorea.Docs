@@ -6,12 +6,15 @@
 
 ## 2021
 
+- [Prime your flux capacitor: SQL Server temporal tables in EF Core 6.0](https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.11)</small>
+- [Bring VS Code themes to Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/vs-code-themes-in-vs/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.07)</small>
+- [ML.NET Updates & Announcing Notebooks in Visual Studio](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.04)</small>
 - [ML.NET and Model Builder October Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.04)</small>
 - [Visual Studio 2022 for Mac Preview 1 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-1-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.30)</small>
 - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.28)</small>
 - [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.24)</small>
 - [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.20)</small>
-- [HTTP/3 support in .NET 6e](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.17)</small>
+- [HTTP/3 support in .NET 6](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.17)</small>
 - [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.15)</small>
 - [Visual Studio 2022 Preview 4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-preview-4-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
 - [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/?WT.mc_id=DOP-MVP-4027259) <small>(2021.09.14)</small>
