@@ -3,6 +3,7 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
+- [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
 - [Visual Studio 2022 출시 이벤트](https://visualstudio.microsoft.com/ko/launch/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.02 ~ 04)</small> <span class="spnBadgeType1">온라인</span>
 - [Teams App Development(Teams 기반 어플리케이션 개발) Training](https://mktoevents.com/Microsoft+Event/296277/157-GQE-382) <small>(2021.09.27 ~ 10.18(주 1회))</small> <span class="spnBadgeType1">온라인</span>

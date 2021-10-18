@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `행사 소식` - [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Visual Studio 2022 출시 이벤트](https://visualstudio.microsoft.com/ko/launch/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework October 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-october-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259)
@@ -27,8 +28,8 @@
 * `.NET 관련 소식` - [ML.NET Updates & Announcing Notebooks in Visual Studio](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ML.NET and Model Builder October Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 1 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-1-is-now-available/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [HTTP/3 support in .NET 6](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식`- [Discover quick actions for common tasks as you type, with IntelliCode](https://devblogs.microsoft.com/visualstudio/discover-quick-action-intellicode/?WT.mc_id=DOP-MVP-4027259)
