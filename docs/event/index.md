@@ -3,6 +3,9 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
+https://event-us.kr/nhncloud/event/38170
+
+- [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170) <small>(2021.11.10)</small> <span class="spnBadgeType1">온라인</span>
 - [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
 - [Visual Studio 2022 출시 이벤트](https://visualstudio.microsoft.com/ko/launch/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.02 ~ 04)</small> <span class="spnBadgeType1">온라인</span>
