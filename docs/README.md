@@ -12,6 +12,12 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [Women IC engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [What’s new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [We’ve upgraded the UI in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/weve-upgraded-the-ui-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Contributing to .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Visual Studio 2022 출시 이벤트](https://visualstudio.microsoft.com/ko/launch/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259)
@@ -22,13 +28,13 @@
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Release Candidate 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-2/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-net-6-release-candidate-2/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 9](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Join us November 8 for the Launch of Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/join-us-november-8th-for-the-launch-of-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Join us November 8 for the Launch of Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/join-us-november-8th-for-the-launch-of-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Prime your flux capacitor: SQL Server temporal tables in EF Core 6.0](https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Bring VS Code themes to Visual Studio 2022!](https://devblogs.microsoft.com/visualstudio/vs-code-themes-in-vs/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ML.NET Updates & Announcing Notebooks in Visual Studio](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ML.NET and Model Builder October Updates](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 1 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-1-is-now-available/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/dotnet/ml-net-and-model-builder-october-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Avoiding Memory Leaks in Visual Studio Editor Extensions](https://devblogs.microsoft.com/visualstudio/avoiding-memory-leaks-in-visual-studio-editor-extensions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing Collection of New Visual Studio Themes!](https://devblogs.microsoft.com/visualstudio/custom-themes/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [HTTP/3 support in .NET 6](https://devblogs.microsoft.com/dotnet/http-3-support-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)

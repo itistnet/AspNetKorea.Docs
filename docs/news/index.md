@@ -6,6 +6,13 @@
 
 ## 2021
 
+
+- [Women IC engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.24)</small>
+- [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.23)</small>
+- [Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.20)</small>
+- [What’s new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.19)</small>
+- [We’ve upgraded the UI in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/weve-upgraded-the-ui-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.18)</small>
+- [Contributing to .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.15)</small>
 - [.NET Framework October 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-october-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.13)</small>
 - [Visual Studio 2022 for Mac Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-2-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.13)</small>
 - [Learn to write Visual Studio extensions](https://devblogs.microsoft.com/visualstudio/learn-to-write-visual-studio-extensions/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.13)</small>
