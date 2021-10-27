@@ -3,12 +3,12 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2021
-https://event-us.kr/nhncloud/event/38170
 
 - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170) <small>(2021.11.10)</small> <span class="spnBadgeType1">온라인</span>
 - [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
 - [Visual Studio 2022 출시 이벤트](https://visualstudio.microsoft.com/ko/launch/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
-- [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.02 ~ 04)</small> <span class="spnBadgeType1">온라인</span>
+- [AWS Innovate - 현대적 애플리케이션 특집](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/) <small>(2021.10.27 ~ 28)</small> <span class="spnBadgeType1">온라인</span>
+- [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
 - [Teams App Development(Teams 기반 어플리케이션 개발) Training](https://mktoevents.com/Microsoft+Event/296277/157-GQE-382) <small>(2021.09.27 ~ 10.18(주 1회))</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Security Virtual Training Day: Protect Sensitive Information and Manage Data Risk](https://mktoevents.com/Microsoft+Event/284589/157-GQE-382) <small>(2021.09.14 ~ 15)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Data Fundamentals](https://mktoevents.com/Microsoft+Event/284238/157-GQE-382) <small>(2021.08.26 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
