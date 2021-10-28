@@ -13,7 +13,7 @@
 ## 신규 업데이트 <small>(최근 15개)</small>
 
 * `행사 소식` - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170)
-* `.NET 관련 소식` - [Women IC engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Women IC(Individual Contributor) engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [What’s new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/?WT.mc_id=DOP-MVP-4027259)
