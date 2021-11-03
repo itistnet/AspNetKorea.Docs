@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Build client web assets for your Razor Class Library](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170)
 * `.NET 관련 소식` - [Women IC(Individual Contributor) engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/?WT.mc_id=DOP-MVP-4027259)
@@ -24,10 +27,10 @@
 * `행사 소식` - [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [AWS Innovate - 현대적 애플리케이션 특집](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)
 * `.NET 관련 소식` - [.NET Framework October 2021 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-october-2021-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-2-is-now-available/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-2-is-now-available/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Learn to write Visual Studio extensions](https://devblogs.microsoft.com/visualstudio/learn-to-write-visual-studio-extensions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET October 2021 Updates – 5.0.11 and 3.1.20](https://devblogs.microsoft.com/dotnet/october-2021-updates/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Release Candidate 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-2/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [ASP.NET Core updates in .NET 6 Release Candidate 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-2/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-net-6-release-candidate-2/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 9](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Join us November 8 for the Launch of Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/join-us-november-8th-for-the-launch-of-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
