@@ -19,7 +19,7 @@
 * `.NET 관련 소식` - [What’s new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [We’ve upgraded the UI in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/weve-upgraded-the-ui-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Contributing to .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/?WT.mc_id=DOP-MVP-4027259)
-* `행사 소식` - [.NET Conf 2021](https://www.dotnetconf.net/WT.mc_id=DOP-MVP-4027259)
+* `행사 소식` - [.NET Conf 2021](https://www.dotnetconf.net)
 * `행사 소식` - [Visual Studio 2022 출시 이벤트](https://visualstudio.microsoft.com/ko/launch/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [Microsoft Ignite](https://myignite.microsoft.com/home/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [AWS Innovate - 현대적 애플리케이션 특집](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)

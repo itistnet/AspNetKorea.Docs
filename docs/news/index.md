@@ -6,7 +6,9 @@
 
 ## 2021
 
-
+- [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.01)</small>
+- [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.01)</small>
+- [Build client web assets for your Razor Class Library](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.01)</small>
 - [Women IC(Individual Contributor) engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.24)</small>
 - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.23)</small>
 - [Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=DOP-MVP-4027259) <small>(2021.10.20)</small>
