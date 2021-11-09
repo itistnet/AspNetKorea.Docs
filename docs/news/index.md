@@ -5,7 +5,16 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
-
+- [Announcing .NET MAUI Preview 10](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [.NET November 2021 Updates – 5.0.12 and 3.1.21](https://devblogs.microsoft.com/dotnet/november-2021-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [What’s New for Visual Basic in Visual Studio 2022](https://devblogs.microsoft.com/dotnet/whats-new-for-visual-basic-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [Announcing ASP.NET Core in .NET 6](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [Visual Studio 2022 for Mac Preview 3, and Upcoming Native M1 Processor Support](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-3-and-upcoming-native-m1-processor-support/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.08)</small>
+- [Introducing the .NET Tech Community Forums](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.04)</small>
+- [More flexible and inclusive ways to manage your documents](https://devblogs.microsoft.com/visualstudio/personalize-docs/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.03)</small>
 - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.01)</small>
 - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.01)</small>
 - [Build client web assets for your Razor Class Library](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.01)</small>
