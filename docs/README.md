@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [MSBuild and 64-bit Visual Studio 2022](https://devblogs.microsoft.com/dotnet/msbuild-and-64-bit-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing YARP 1.0 Release](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 10](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET November 2021 Updates – 5.0.12 and 3.1.21](https://devblogs.microsoft.com/dotnet/november-2021-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/?WT.mc_id=DOP-MVP-4027259)
