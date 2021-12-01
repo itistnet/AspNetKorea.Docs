@@ -5,6 +5,7 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.29)</small>
 - [What’s new in Windows Forms in .NET 6.0](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.16)</small>
 - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.16)</small>
 - [Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/?WT.mc_id=DOP-MVP-4027259) <small>(2021.11.15)</small>

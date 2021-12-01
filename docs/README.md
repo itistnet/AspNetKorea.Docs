@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [What’s new in Windows Forms in .NET 6.0](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/?WT.mc_id=DOP-MVP-4027259)
@@ -28,8 +29,8 @@
 * `.NET 관련 소식` - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET Tech Community Forums](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [More flexible and inclusive ways to manage your documents](https://devblogs.microsoft.com/visualstudio/personalize-docs/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Build client web assets for your Razor Class Library](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170)
 * `.NET 관련 소식` - [Women IC(Individual Contributor) engineer mentoring ring](https://devblogs.microsoft.com/dotnet/women-ic-engineer-mentoring-ring/?WT.mc_id=DOP-MVP-4027259)
