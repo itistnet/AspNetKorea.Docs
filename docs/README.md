@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+* `.NET 관련 소식` - [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Conf 2021 Recap – Videos, Slides, Demos, and More](https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Introducing the new Razor editor in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/introducing-the-new-razor-editor-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [What’s new in Windows Forms in .NET 6.0](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/?WT.mc_id=DOP-MVP-4027259)
@@ -26,10 +29,10 @@
 * `.NET 관련 소식` - [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing ASP.NET Core in .NET 6](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 3, and Upcoming Native M1 Processor Support](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-3-and-upcoming-native-m1-processor-support/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Introducing the .NET Tech Community Forums](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [More flexible and inclusive ways to manage your documents](https://devblogs.microsoft.com/visualstudio/personalize-docs/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET 6 Launches at .NET Conf, November 9-11](https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 Launch Event Agenda](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-launch-event-agenda/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Build client web assets for your Razor Class Library](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/?WT.mc_id=DOP-MVP-4027259)
 * `행사 소식` - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170)
