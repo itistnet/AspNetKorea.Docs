@@ -11,6 +11,7 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `행사 소식` - [NHN FORWARD 2021](https://forward.nhn.com/2021/home)
 * `.NET 관련 소식` - [VS 2022 Launch Recap: Extensibility](https://devblogs.microsoft.com/visualstudio/vs-2022-launch-recap-extensibility/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing dot.net in Japanese and Simplified Chinese](https://devblogs.microsoft.com/dotnet/dotnet-website-translation-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [How Can We Improve Extensibility in Visual Studio?](https://devblogs.microsoft.com/visualstudio/how-can-we-improve-extensibility-in-visual-studio/?WT.mc_id=DOP-MVP-4027259)
@@ -27,8 +28,8 @@
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 10](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET November 2021 Updates – 5.0.12 and 3.1.21](https://devblogs.microsoft.com/dotnet/november-2021-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [What’s New for Visual Basic in Visual Studio 2022](https://devblogs.microsoft.com/dotnet/whats-new-for-visual-basic-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [What’s New for Visual Basic in Visual Studio 2022](https://devblogs.microsoft.com/dotnet/whats-new-for-visual-basic-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing ASP.NET Core in .NET 6](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 3, and Upcoming Native M1 Processor Support](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-3-and-upcoming-native-m1-processor-support/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/?WT.mc_id=DOP-MVP-4027259)
