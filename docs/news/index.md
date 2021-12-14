@@ -5,6 +5,8 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [.NET 6 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-6-networking-improvements/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.13)</small>
+- [Become a master at Git and Open Source](https://devblogs.microsoft.com/visualstudio/become-a-master-at-git-and-open-source/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.13)</small>
 - [VS 2022 Launch Recap: Extensibility](https://devblogs.microsoft.com/visualstudio/vs-2022-launch-recap-extensibility/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.08)</small>
 - [Announcing dot.net in Japanese and Simplified Chinese](https://devblogs.microsoft.com/dotnet/dotnet-website-translation-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.07)</small>
 - [How Can We Improve Extensibility in Visual Studio?](https://devblogs.microsoft.com/visualstudio/how-can-we-improve-extensibility-in-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.07)</small>
