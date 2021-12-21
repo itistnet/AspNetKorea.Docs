@@ -11,6 +11,7 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `.NET 관련 소식` - [Test tools for .NET and cross-platform apps](https://devblogs.microsoft.com/visualstudio/vs22-test-tools-for-net-and-cross-platform-apps/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [What’s new in .NET Productivity with Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing the Plan for EF7](https://devblogs.microsoft.com/dotnet/announcing-the-plan-for-ef7/?WT.mc_id=DOP-MVP-4027259)
@@ -27,8 +28,8 @@
 * `.NET 관련 소식` - [Get to Know EF Core 6](https://devblogs.microsoft.com/dotnet/get-to-know-ef-core-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [What’s new in Windows Forms in .NET 6.0](https://devblogs.microsoft.com/dotnet/whats-new-in-windows-forms-in-net-6-0/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Writing extensions just got easier](https://devblogs.microsoft.com/visualstudio/writing-extensions-just-got-easier/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Where Are My Favorite Extensions in Visual Studio 2022?](https://devblogs.microsoft.com/visualstudio/where-are-my-favorite-extensions-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Where Are My Favorite Extensions in Visual Studio 2022?](https://devblogs.microsoft.com/visualstudio/where-are-my-favorite-extensions-in-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [MSBuild and 64-bit Visual Studio 2022](https://devblogs.microsoft.com/dotnet/msbuild-and-64-bit-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing YARP 1.0 Release](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 10](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/?WT.mc_id=DOP-MVP-4027259)

@@ -5,6 +5,7 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2021
+- [Test tools for .NET and cross-platform apps](https://devblogs.microsoft.com/visualstudio/vs22-test-tools-for-net-and-cross-platform-apps/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.20)</small>
 - [Visual Studio 2022 for Mac Preview 4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.15)</small>
 - [What’s new in .NET Productivity with Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.15)</small>
 - [Announcing the Plan for EF7](https://devblogs.microsoft.com/dotnet/announcing-the-plan-for-ef7/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.15)</small>
