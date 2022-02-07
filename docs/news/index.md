@@ -4,7 +4,14 @@
 <br><br>
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
-## 2021
+## 2022
+- [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.01)</small>
+- [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.28)</small>
+- [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.27)</small>
+- [Code search in Visual Studio 2022 is about to get much faster](https://devblogs.microsoft.com/visualstudio/code-search-in-visual-studio-is-about-to-get-much-faster/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.26)</small>
+- [.NET Framework January 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.25)</small>
+- [Visual Studio 2022 for Mac Preview 5](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.25)</small>
+- [Announcing .NET MAUI Preview 12](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-12/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.19)</small>
 - [State of the Windows Forms Designer for .NET Applications](https://devblogs.microsoft.com/dotnet/state-of-the-windows-forms-designer-for-net-applications/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.13)</small>
 - [.NET Framework January 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.12)</small>
 - [Bringing Code Cleanup on Save To Visual Studio 2022 17.1 Preview 2](https://devblogs.microsoft.com/visualstudio/bringing-code-cleanup-on-save-to-visual-studio-2022-17-1-preview-2/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.10)</small>
@@ -13,6 +20,8 @@
 - [Visual Studio 17.1 Preview 2 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.05)</small>
 - [Announcing .NET MAUI Preview 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.05)</small>
 - [A Comprehensive Guide to Port from EF6 to EF Core](https://devblogs.microsoft.com/dotnet/a-comprehensive-guide-to-port-from-ef6-to-ef-core/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.03)</small>
+
+## 2021
 - [Your Visual Studio Dashboard](https://devblogs.microsoft.com/visualstudio/your-visual-studio-dashboard/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.21)</small>
 - [Test tools for .NET and cross-platform apps](https://devblogs.microsoft.com/visualstudio/vs22-test-tools-for-net-and-cross-platform-apps/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.20)</small>
 - [Visual Studio 2022 for Mac Preview 4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.15)</small>
