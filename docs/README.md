@@ -11,13 +11,13 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
-* `.NET 관련 소식` - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.01)</small>
-* `.NET 관련 소식` - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.28)</small>
-* `.NET 관련 소식` - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.27)</small>
-* `.NET 관련 소식` - [Code search in Visual Studio 2022 is about to get much faster](https://devblogs.microsoft.com/visualstudio/code-search-in-visual-studio-is-about-to-get-much-faster/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.26)</small>
-* `.NET 관련 소식` - [.NET Framework January 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.25)</small>
-* `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 5](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-5/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.25)</small>
-* `.NET 관련 소식` - [Announcing .NET MAUI Preview 12](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-12/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.19)</small>
+* `.NET 관련 소식` - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Code search in Visual Studio 2022 is about to get much faster](https://devblogs.microsoft.com/visualstudio/code-search-in-visual-studio-is-about-to-get-much-faster/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Framework January 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 5](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-5/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing .NET MAUI Preview 12](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-12/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [State of the Windows Forms Designer for .NET Applications](https://devblogs.microsoft.com/dotnet/state-of-the-windows-forms-designer-for-net-applications/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework January 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-security-and-quality-rollup-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Bringing Code Cleanup on Save To Visual Studio 2022 17.1 Preview 2](https://devblogs.microsoft.com/visualstudio/bringing-code-cleanup-on-save-to-visual-studio-2022-17-1-preview-2/?WT.mc_id=DOP-MVP-4027259)
