@@ -5,6 +5,19 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [Early peek at C# 11 features](https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.22)</small>
+- [Announcing Entity Framework 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-1/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.17)</small>
+- [Announcing .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-7-preview-1/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.17)</small>
+- [ASP.NET Core updates in .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-net-7-preview-1/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.17)</small>
+- [Visual Studio 2022 for Mac Preview 6](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.16)</small>
+- [Typing Less, Coding More: How we delivered IntelliCode whole line completions with a transformer model](https://devblogs.microsoft.com/visualstudio/typing-less-coding-more-how-we-delivered-intellicode-whole-line-completions-with-a-transformer-model/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.16)</small>
+- [Visual Studio 2022 17.1 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-1-is-now-available/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.15)</small>
+- [.NET Framework February 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-february-2022-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.15)</small>
+- [Announcing .NET MAUI Preview 13](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.15)</small>
+- [Happy 20th Anniversary, .NET!](https://devblogs.microsoft.com/dotnet/happy-20th-anniversary-net/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.13)</small>
+- [.NET Framework February 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-february-2022-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.10)</small>
+- [Support ends for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-ends-for-older-versions-of-visual-studio-feb2022/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.10)</small>
+- [.NET February 2022 Updates – 6.0.2 and 5.0.14](https://devblogs.microsoft.com/dotnet/february-2022-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.08)</small>
 - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.01)</small>
 - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.28)</small>
 - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.27)</small>
