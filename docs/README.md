@@ -11,6 +11,8 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `.NET 관련 소식` - [Training a ML.NET Model with Azure ML](https://devblogs.microsoft.com/dotnet/training-a-ml-dotnet-model-with-azure-ml/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Early peek at C# 11 features](https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing Entity Framework 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-1/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-7-preview-1/?WT.mc_id=DOP-MVP-4027259)
@@ -24,9 +26,9 @@
 * `.NET 관련 소식` - [.NET Framework February 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-february-2022-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Support ends for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-ends-for-older-versions-of-visual-studio-feb2022/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET February 2022 Updates – 6.0.2 and 5.0.14](https://devblogs.microsoft.com/dotnet/february-2022-updates/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Code search in Visual Studio 2022 is about to get much faster](https://devblogs.microsoft.com/visualstudio/code-search-in-visual-studio-is-about-to-get-much-faster/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework January 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-january-2022-cumulative-update-preview/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 5](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-5/?WT.mc_id=DOP-MVP-4027259)
