@@ -11,6 +11,7 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `.NET 관련 소식` - [Sharing code between ASP.NET and ASP.NET Core](https://devblogs.microsoft.com/dotnet/sharing-code-between-aspnet-and-aspnetcore/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Training a ML.NET Model with Azure ML](https://devblogs.microsoft.com/dotnet/training-a-ml-dotnet-model-with-azure-ml/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Early peek at C# 11 features](https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/?WT.mc_id=DOP-MVP-4027259)
@@ -25,8 +26,8 @@
 * `.NET 관련 소식` - [Happy 20th Anniversary, .NET!](https://devblogs.microsoft.com/dotnet/happy-20th-anniversary-net/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET Framework February 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/net-framework-february-2022-security-and-quality-rollup/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Support ends for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-ends-for-older-versions-of-visual-studio-feb2022/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [.NET February 2022 Updates – 6.0.2 and 5.0.14](https://devblogs.microsoft.com/dotnet/february-2022-updates/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [.NET February 2022 Updates – 6.0.2 and 5.0.14](https://devblogs.microsoft.com/dotnet/february-2022-updates/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Databinding with the OOP Windows Forms Designer](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Code search in Visual Studio 2022 is about to get much faster](https://devblogs.microsoft.com/visualstudio/code-search-in-visual-studio-is-about-to-get-much-faster/?WT.mc_id=DOP-MVP-4027259)

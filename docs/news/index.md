@@ -5,6 +5,7 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [Sharing code between ASP.NET and ASP.NET Core](https://devblogs.microsoft.com/dotnet/sharing-code-between-aspnet-and-aspnetcore/?WT.mc_id=DOP-MVP-4027259) <small>(2022.03.02)</small>
 - [Training a ML.NET Model with Azure ML](https://devblogs.microsoft.com/dotnet/training-a-ml-dotnet-model-with-azure-ml/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.28)</small>
 - [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.25)</small>
 - [Early peek at C# 11 features](https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.22)</small>
