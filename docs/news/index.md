@@ -5,6 +5,9 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [Automate code metrics and class diagrams with GitHub Actions](https://devblogs.microsoft.com/dotnet/automate-code-metrics-and-class-diagrams-with-github-actions/?WT.mc_id=DOP-MVP-4027259) <small>(2022.03.09)</small>
+- [.NET March 2022 Updates – .NET 6.0.3, .NET 5.0.15 and, .NET 3.1.23](https://devblogs.microsoft.com/dotnet/march-2022-updates/?WT.mc_id=DOP-MVP-4027259) <small>(2022.03.08)</small>
+- [Edge Developer Tools for Visual Studio (Preview)](https://devblogs.microsoft.com/visualstudio/edge-developer-tools-for-visual-studio-preview/?WT.mc_id=DOP-MVP-4027259) <small>(2022.03.07)</small>
 - [Sharing code between ASP.NET and ASP.NET Core](https://devblogs.microsoft.com/dotnet/sharing-code-between-aspnet-and-aspnetcore/?WT.mc_id=DOP-MVP-4027259) <small>(2022.03.02)</small>
 - [Training a ML.NET Model with Azure ML](https://devblogs.microsoft.com/dotnet/training-a-ml-dotnet-model-with-azure-ml/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.28)</small>
 - [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/?WT.mc_id=DOP-MVP-4027259) <small>(2022.02.25)</small>
