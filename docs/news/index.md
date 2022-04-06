@@ -5,6 +5,9 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [.NET Framework 4.5.2, 4.6, and 4.6.1 will reach End of Support on Apr 26, 2022](https://devblogs.microsoft.com/dotnet/dotnet-framework-45-46-461-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.04)</small>
+- [Visual Studio 2022 for Mac Preview 8](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-8/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.31)</small>
+- [.NET 5.0 will reach End of Support on May 08, 2022](https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.24)</small>
 - [Go To Definition improvements for external source in Roslyn](https://devblogs.microsoft.com/dotnet/go-to-definition-improvements-for-external-source-in-roslyn/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.22)</small>
 - [Suffer from Ctrl+S fatigue? We have a feature for you](https://devblogs.microsoft.com/visualstudio/suffer-from-ctrls-fatigue-we-have-a-feature-for-you/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.21)</small>
 - [Announcing .NET MAUI Preview 14](https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.16)</small>

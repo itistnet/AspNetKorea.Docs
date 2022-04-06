@@ -11,6 +11,9 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `.NET 관련 소식` - [.NET Framework 4.5.2, 4.6, and 4.6.1 will reach End of Support on Apr 26, 2022](https://devblogs.microsoft.com/dotnet/dotnet-framework-45-46-461-end-of-support/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 8](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-8/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET 5.0 will reach End of Support on May 08, 2022](https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Go To Definition improvements for external source in Roslyn](https://devblogs.microsoft.com/dotnet/go-to-definition-improvements-for-external-source-in-roslyn/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Suffer from Ctrl+S fatigue? We have a feature for you](https://devblogs.microsoft.com/visualstudio/suffer-from-ctrls-fatigue-we-have-a-feature-for-you/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET MAUI Preview 14](https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/?WT_mc_id=DOP-MVP-4027259)
@@ -23,10 +26,10 @@
 * `.NET 관련 소식` - [.NET March 2022 Updates – .NET 6.0.3, .NET 5.0.15 and, .NET 3.1.23](https://devblogs.microsoft.com/dotnet/march-2022-updates/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Edge Developer Tools for Visual Studio (Preview)](https://devblogs.microsoft.com/visualstudio/edge-developer-tools-for-visual-studio-preview/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Sharing code between ASP.NET and ASP.NET Core](https://devblogs.microsoft.com/dotnet/sharing-code-between-aspnet-and-aspnetcore/?WT.mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Training a ML.NET Model with Azure ML](https://devblogs.microsoft.com/dotnet/training-a-ml-dotnet-model-with-azure-ml/?WT.mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Training a ML.NET Model with Azure ML](https://devblogs.microsoft.com/dotnet/training-a-ml-dotnet-model-with-azure-ml/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Early peek at C# 11 features](https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/?WT.mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Announcing Entity Framework 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-1/?WT.mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing Entity Framework 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-1/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-7-preview-1/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 7 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-net-7-preview-1/?WT.mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Preview 6](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/?WT.mc_id=DOP-MVP-4027259)
