@@ -5,6 +5,15 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [Announcing .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.13)</small>
+- [Announcing Entity Framework Core 7 (EF7) Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.13)</small>
+- [Supercharge your Git experience in VS](https://devblogs.microsoft.com/visualstudio/supercharge-your-git-experience-in-vs/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.13)</small>
+- [Visual Studio 2022 for Mac Preview 9](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-9/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.12)</small>
+- [ASP.NET Core updates in .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.12)</small>
+- [.NET April 2022 Updates – .NET 6.0.4, .NET 5.0.16 and, .NET Core 3.1.24](https://devblogs.microsoft.com/dotnet/april-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.12)</small>
+- [.NET Framework April 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.12)</small>
+- [.NET Automatic Updates for Server Operating Systems](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.12)</small>
+- [.NET MAUI Release Candidate – Ready for cross-platform app development](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.12)</small>
 - [.NET Framework 4.5.2, 4.6, and 4.6.1 will reach End of Support on Apr 26, 2022](https://devblogs.microsoft.com/dotnet/dotnet-framework-45-46-461-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.04)</small>
 - [Visual Studio 2022 for Mac Preview 8](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-8/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.31)</small>
 - [.NET 5.0 will reach End of Support on May 08, 2022](https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/?WT_mc_id=DOP-MVP-4027259) <small>(2022.03.24)</small>
