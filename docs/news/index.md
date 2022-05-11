@@ -5,6 +5,22 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [.NET MAUI Release Candidate 3](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [Announcing Entity Framework 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [ASP.NET Core updates in .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [Announcing .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [.NET May 2022 Updates – .NET 6.0.5, .NET 5.0.17 and, .NET Core 3.1.25](https://devblogs.microsoft.com/dotnet/may-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [.NET Framework May 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/framework-may-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [Visual Studio 2022 17.2 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-2-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
+- [Update all Visual Studio installations with a single click!](https://devblogs.microsoft.com/visualstudio/update-all-visual-studio-installations-with-a-single-click/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.09)</small>
+- [Visual Studio on an ultra-wide monitor](https://devblogs.microsoft.com/visualstudio/visual-studio-on-an-ultra-wide-monitor/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.05)</small>
+- [Upgrading a WCF service to .NET 6 with CoreWCF](https://devblogs.microsoft.com/dotnet/upgrading-a-wcf-service-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.05)</small>
+- [Microsoft Graph’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.03)</small>
+- [YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.02)</small>
+- [CoreWCF 1.0 has been Released, WCF for .NET Core and .NET 5+](https://devblogs.microsoft.com/dotnet/corewcf-v1-released/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.28)</small>
+- [Visual Studio 2022 for Mac Release Candidate](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.26)</small>
+- [View .NET collections with the new IEnumerable Debugger Visualizer](https://devblogs.microsoft.com/visualstudio/view-net-collections-with-the-new-ienumerable-debugger-visualizer/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.21)</small>
+- [Introducing a New Way to Search Your Code and Visual Studio Features](https://devblogs.microsoft.com/visualstudio/introducing-a-new-way-to-search-your-code-and-visual-studio-features/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.20)</small>
 - [Announcing .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.13)</small>
 - [Announcing Entity Framework Core 7 (EF7) Preview 3](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.13)</small>
 - [Supercharge your Git experience in VS](https://devblogs.microsoft.com/visualstudio/supercharge-your-git-experience-in-vs/?WT_mc_id=DOP-MVP-4027259) <small>(2022.04.13)</small>
