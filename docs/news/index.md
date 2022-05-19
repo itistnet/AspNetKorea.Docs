@@ -5,6 +5,13 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [What’s new with ML.NET Automated ML (AutoML) and tooling](https://devblogs.microsoft.com/dotnet/whats-new-with-mldotnet-automl/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.17)</small>
+- [All-In-One Search Is Getting Slicker](https://devblogs.microsoft.com/visualstudio/all-in-one-search-is-getting-slicker/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.17)</small>
+- [The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.12)</small>
+- [Regular Expression Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.12)</small>
+- [Announcing gRPC JSON transcoding for .NET](https://devblogs.microsoft.com/dotnet/announcing-grpc-json-transcoding-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.11)</small>
+- [Visual Studio 2022 for Mac Release Candidate 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.11)</small>
+- [Just-in-time refactoring made even easier with IntelliCode auto suggested code for C#](https://devblogs.microsoft.com/visualstudio/just-in-time-refactoring-intellicode-suggestions/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.11)</small>
 - [.NET MAUI Release Candidate 3](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-3/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
 - [Announcing Entity Framework 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
 - [ASP.NET Core updates in .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.10)</small>
