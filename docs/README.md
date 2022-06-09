@@ -11,6 +11,15 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `.NET 관련 소식` - [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Exchange Online Journey to .NET Core](https://devblogs.microsoft.com/dotnet/exchange-online-journey-to-net-core/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Improved doc management personalization](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Incremental ASP.NET to ASP.NET Core Migration](https://devblogs.microsoft.com/dotnet/incremental-asp-net-to-asp-net-core-migration/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [.NET Framework May 2022 Cumulative Update](https://devblogs.microsoft.com/dotnet/net-framework-may-2022-cumulative-update/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio at Microsoft Build 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Introducing the private preview of port tunneling in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/introducing-private-preview-port-tunneling-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Visual Studio 2022 for Mac is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.23)</small>
+* `.NET 관련 소식` - [Introducing .NET MAUI – One Codebase, Many Platforms](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.23)</small>
 * `.NET 관련 소식` - [What’s new with ML.NET Automated ML (AutoML) and tooling](https://devblogs.microsoft.com/dotnet/whats-new-with-mldotnet-automl/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [All-In-One Search Is Getting Slicker](https://devblogs.microsoft.com/visualstudio/all-in-one-search-is-getting-slicker/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/?WT_mc_id=DOP-MVP-4027259)
@@ -18,7 +27,7 @@
 * `.NET 관련 소식` - [Announcing gRPC JSON transcoding for .NET](https://devblogs.microsoft.com/dotnet/announcing-grpc-json-transcoding-for-dotnet/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio 2022 for Mac Release Candidate 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate-2/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Just-in-time refactoring made even easier with IntelliCode auto suggested code for C#](https://devblogs.microsoft.com/visualstudio/just-in-time-refactoring-intellicode-suggestions/?WT_mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [.NET MAUI Release Candidate 3](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-3/?WT_mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [.NET MAUI Release Candidate 3](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-3/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing Entity Framework 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-7-preview-4/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [ASP.NET Core updates in .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-4/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-4/?WT_mc_id=DOP-MVP-4027259)
@@ -27,7 +36,7 @@
 * `.NET 관련 소식` - [Visual Studio 2022 17.2 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-2-is-now-available/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Update all Visual Studio installations with a single click!](https://devblogs.microsoft.com/visualstudio/update-all-visual-studio-installations-with-a-single-click/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Visual Studio on an ultra-wide monitor](https://devblogs.microsoft.com/visualstudio/visual-studio-on-an-ultra-wide-monitor/?WT_mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Upgrading a WCF service to .NET 6 with CoreWCF](https://devblogs.microsoft.com/dotnet/upgrading-a-wcf-service-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Upgrading a WCF service to .NET 6 with CoreWCF](https://devblogs.microsoft.com/dotnet/upgrading-a-wcf-service-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Microsoft Graph’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [CoreWCF 1.0 has been Released, WCF for .NET Core and .NET 5+](https://devblogs.microsoft.com/dotnet/corewcf-v1-released/?WT_mc_id=DOP-MVP-4027259)

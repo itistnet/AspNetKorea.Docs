@@ -5,6 +5,15 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.07)</small>
+- [Exchange Online Journey to .NET Core](https://devblogs.microsoft.com/dotnet/exchange-online-journey-to-net-core/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.07)</small>
+- [Improved doc management personalization](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.01)</small>
+- [Incremental ASP.NET to ASP.NET Core Migration](https://devblogs.microsoft.com/dotnet/incremental-asp-net-to-asp-net-core-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.31)</small>
+- [.NET Framework May 2022 Cumulative Update](https://devblogs.microsoft.com/dotnet/net-framework-may-2022-cumulative-update/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.26)</small>
+- [Visual Studio at Microsoft Build 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.26)</small>
+- [Introducing the private preview of port tunneling in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/introducing-private-preview-port-tunneling-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.25)</small>
+- [Visual Studio 2022 for Mac is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.23)</small>
+- [Introducing .NET MAUI – One Codebase, Many Platforms](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.23)</small>
 - [What’s new with ML.NET Automated ML (AutoML) and tooling](https://devblogs.microsoft.com/dotnet/whats-new-with-mldotnet-automl/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.17)</small>
 - [All-In-One Search Is Getting Slicker](https://devblogs.microsoft.com/visualstudio/all-in-one-search-is-getting-slicker/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.17)</small>
 - [The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.05.12)</small>
