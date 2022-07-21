@@ -5,6 +5,37 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [Customizing Controls in .NET MAUI](https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.14)</small>
+- [IEnumerable Debugger Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/ienumerable-visualizer-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.14)</small>
+- [Announcing Rate Limiting for .NET](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.13)</small>
+- [.NET Framework July 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [Announcing .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [ASP.NET Core updates in .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [Announcing Entity Framework Core 7 Preview 6: Performance Edition](https://devblogs.microsoft.com/dotnet/announcing-ef7-preview6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [.NET Core 3.1 will reach End of Support on December 13, 2022](https://devblogs.microsoft.com/dotnet/net-core-3-1-will-reach-end-of-support-on-december-13-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [.NET July 2022 Updates – .NET 6.0.7 and .NET Core 3.1.27](https://devblogs.microsoft.com/dotnet/july-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [Analysis Services and Reporting Services extensions for Visual Studio 2022 are here!](https://devblogs.microsoft.com/visualstudio/analysis-services-and-reporting-services-extensions-for-visual-studio-2022-are-here/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.12)</small>
+- [VS2022 Performance Enhancements: Git Branch Switching](https://devblogs.microsoft.com/visualstudio/vs2022-performance-enhancements-git-branch-switching/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.11)</small>
+- [CoreWCF 1.1.0 and project templates](https://devblogs.microsoft.com/dotnet/corewcf-1-1-0-and-project-templates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.05)</small>
+- [Getting Started with DevOps and .NET MAUI](https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.28)</small>
+- [Sneak Peek and Edit Your Code While You Search](https://devblogs.microsoft.com/visualstudio/sneak-peek-and-edit-your-code-while-you-search/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.27)</small>
+- [Incremental ASP.NET Migration Tooling Preview 2](https://devblogs.microsoft.com/dotnet/incremental-asp-net-migration-tooling-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.23)</small>
+- [Listen Up, Visual Studio has a new feature you need to hear about!](https://devblogs.microsoft.com/visualstudio/audio-cues-in-visual-studio-2022-17-3-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.22)</small>
+- [Improving .NET host error messages and supportability](https://devblogs.microsoft.com/dotnet/dotnet-apphost-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.21)</small>
+- [New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.16)</small>
+- [What’s New in Visual Studio: Make it Your Home](https://devblogs.microsoft.com/visualstudio/whats-new-vs/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.15)</small>
+- [Arm64 Visual Studio](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [Visual Studio for Mac 17.3 Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-3-preview-2-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [.NET Framework June 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/net-framework-june-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [Introducing the ML.NET Text Classification API (preview)](https://devblogs.microsoft.com/dotnet/introducing-the-ml-dotnet-text-classification-api-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [.NET June 2022 Updates – .NET 6.0.6 and .NET Core 3.1.26](https://devblogs.microsoft.com/dotnet/june-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [Announcing .NET 7 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [Announcing Entity Framework 7 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-ef7-preview5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [ASP.NET Core updates in .NET 7 Preview 5](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.14)</small>
+- [OneService Journey to .NET 6](https://devblogs.microsoft.com/dotnet/one-service-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.13)</small>
+- [New Profiler feature in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-profiler-feature-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.09)</small>
+- [.NET 7 Preview 5 – Generic Math](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.09)</small>
+- [Exchange Online Journey to .NET Core](https://devblogs.microsoft.com/dotnet/exchange-online-journey-to-net-core/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.07)</small>
 - [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.07)</small>
 - [Exchange Online Journey to .NET Core](https://devblogs.microsoft.com/dotnet/exchange-online-journey-to-net-core/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.07)</small>
 - [Improved doc management personalization](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/?WT_mc_id=DOP-MVP-4027259) <small>(2022.06.01)</small>
