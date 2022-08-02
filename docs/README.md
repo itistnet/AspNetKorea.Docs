@@ -11,6 +11,8 @@
 * [운영진에게 메일 보내기](mailto://itist@live.co.kr)
 
 ## 신규 업데이트 <small>(최근 15개)</small>
+* `.NET 관련 소식` - [.NET Framework July 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Announcing .NET Conf – Focus on .NET MAUI, Reactor, and Community Events](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Customizing Controls in .NET MAUI](https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [IEnumerable Debugger Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/ienumerable-visualizer-improvements/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Announcing Rate Limiting for .NET](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/?WT_mc_id=DOP-MVP-4027259)
@@ -24,9 +26,9 @@
 * `.NET 관련 소식` - [VS2022 Performance Enhancements: Git Branch Switching](https://devblogs.microsoft.com/visualstudio/vs2022-performance-enhancements-git-branch-switching/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [CoreWCF 1.1.0 and project templates](https://devblogs.microsoft.com/dotnet/corewcf-1-1-0-and-project-templates/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Getting Started with DevOps and .NET MAUI](https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/?WT_mc_id=DOP-MVP-4027259)
-* `.NET 관련 소식` - [Sneak Peek and Edit Your Code While You Search](https://devblogs.microsoft.com/visualstudio/sneak-peek-and-edit-your-code-while-you-search/?WT_mc_id=DOP-MVP-4027259)
+<!--* `.NET 관련 소식` - [Sneak Peek and Edit Your Code While You Search](https://devblogs.microsoft.com/visualstudio/sneak-peek-and-edit-your-code-while-you-search/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Incremental ASP.NET Migration Tooling Preview 2](https://devblogs.microsoft.com/dotnet/incremental-asp-net-migration-tooling-preview-2/?WT_mc_id=DOP-MVP-4027259)
-<!--* `.NET 관련 소식` - [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259)
+* `.NET 관련 소식` - [Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Exchange Online Journey to .NET Core](https://devblogs.microsoft.com/dotnet/exchange-online-journey-to-net-core/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Improved doc management personalization](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/?WT_mc_id=DOP-MVP-4027259)
 * `.NET 관련 소식` - [Incremental ASP.NET to ASP.NET Core Migration](https://devblogs.microsoft.com/dotnet/incremental-asp-net-to-asp-net-core-migration/?WT_mc_id=DOP-MVP-4027259)

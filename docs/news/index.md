@@ -5,6 +5,8 @@
 [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+- [.NET Framework July 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.26)</small>
+- [Announcing .NET Conf – Focus on .NET MAUI, Reactor, and Community Events](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.26)</small>
 - [Customizing Controls in .NET MAUI](https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.14)</small>
 - [IEnumerable Debugger Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/ienumerable-visualizer-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.14)</small>
 - [Announcing Rate Limiting for .NET](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.13)</small>
