@@ -1,10 +1,12 @@
 # .NET 관련 소식
 
 > .NET 관련 새로운 소식과 이슈 모음입니다.
-<br><br>
-[Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
+> <br><br> > [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
 ## 2022
+
+- [Differentiating Visual Studio instances](https://devblogs.microsoft.com/visualstudio/differentiating-visual-studio-instances/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.04)</small>
+- [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.04)</small>
 - [.NET Framework July 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.26)</small>
 - [Announcing .NET Conf – Focus on .NET MAUI, Reactor, and Community Events](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.26)</small>
 - [Customizing Controls in .NET MAUI](https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.14)</small>
@@ -126,6 +128,7 @@
 - [A Comprehensive Guide to Port from EF6 to EF Core](https://devblogs.microsoft.com/dotnet/a-comprehensive-guide-to-port-from-ef6-to-ef-core/?WT.mc_id=DOP-MVP-4027259) <small>(2022.01.03)</small>
 
 ## 2021
+
 - [Your Visual Studio Dashboard](https://devblogs.microsoft.com/visualstudio/your-visual-studio-dashboard/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.21)</small>
 - [Test tools for .NET and cross-platform apps](https://devblogs.microsoft.com/visualstudio/vs22-test-tools-for-net-and-cross-platform-apps/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.20)</small>
 - [Visual Studio 2022 for Mac Preview 4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/?WT.mc_id=DOP-MVP-4027259) <small>(2021.12.15)</small>
@@ -318,6 +321,7 @@
 - [.NET 5 Networking Improvements](https://devblogs.microsoft.com/dotnet/net-5-new-networking-improvements/?WT.mc_id=DOP-MVP-4027259) <small>(2021.01.11)</small>
 
 ## 2020
+
 - [.NET December 2020 Updates – 5.0.1](https://devblogs.microsoft.com/dotnet/net-december-2020/?WT.mc_id=DOP-MVP-4027259) <small>(2020.12.08)</small>
 - [.NET Core 2.1, 3.1, and .NET 5.0 updates are coming to Microsoft Update](https://devblogs.microsoft.com/dotnet/net-core-updates-coming-to-microsoft-update/?WT.mc_id=DOP-MVP-4027259) <small>(2020.12.03)</small>
 - [Announcing Microsoft Q&A for .NET](https://devblogs.microsoft.com/dotnet/announcing-microsoft-q-and-a-for-dotnet/?WT.mc_id=DOP-MVP-4027259) <small>(2020.11.25)</small>
