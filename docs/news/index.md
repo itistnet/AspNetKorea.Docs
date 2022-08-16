@@ -5,6 +5,20 @@
 
 ## 2022
 
+- [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.15)</small>
+- [Choosing a .NET Memory Profiler in Visual Studio – part 1](https://devblogs.microsoft.com/visualstudio/choosing-a-net-memory-profiler-in-visual-studio-part-1/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.11)</small>
+- [.NET Framework August 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.10)</small>
+- [Visual Studio for Mac 17.3 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Visual Studio 2022 17.3 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Announcing .NET Framework 4.8.1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-framework-481/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Productivity comes to .NET MAUI in Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-maui-visualstudio-2022-release/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Announcing .NET 7 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [ASP.NET Core updates in .NET 7 Preview 7](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Announcing Entity Framework 7 Preview 7: Interceptors!](https://devblogs.microsoft.com/dotnet/announcing-ef7-preview7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [.NET August 2022 Updates – .NET 6.0.8 and .NET Core 3.1.28](https://devblogs.microsoft.com/dotnet/august-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Announcing SynapseML for .NET – Large Scale ML with a Simple API](https://devblogs.microsoft.com/dotnet/announcing-synapseml-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.09)</small>
+- [Migrating from ASP.NET to ASP.NET Core in Visual Studio](https://devblogs.microsoft.com/dotnet/introducing-project-migrations-visual-studio-extension/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.08)</small>
+- [Announcing the .NET MAUI Beautiful UI Challenge](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-beautiful-ui-challenge/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.08)</small>
 - [Differentiating Visual Studio instances](https://devblogs.microsoft.com/visualstudio/differentiating-visual-studio-instances/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.04)</small>
 - [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.04)</small>
 - [.NET Framework July 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.07.26)</small>
