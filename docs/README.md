@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/?WT_mc_id=DOP-MVP-4027259/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Choosing a .NET Memory Profiler in Visual Studio – part 1](https://devblogs.microsoft.com/visualstudio/choosing-a-net-memory-profiler-in-visual-studio-part-1/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET Framework August 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259)
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [Announcing Entity Framework 7 Preview 7: Interceptors!](https://devblogs.microsoft.com/dotnet/announcing-ef7-preview7/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET August 2022 Updates – .NET 6.0.8 and .NET Core 3.1.28](https://devblogs.microsoft.com/dotnet/august-2022-updates/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing SynapseML for .NET – Large Scale ML with a Simple API](https://devblogs.microsoft.com/dotnet/announcing-synapseml-for-dotnet/?WT_mc_id=DOP-MVP-4027259)
-- `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core in Visual Studio](https://devblogs.microsoft.com/dotnet/introducing-project-migrations-visual-studio-extension/?WT_mc_id=DOP-MVP-4027259)
+<!--- `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core in Visual Studio](https://devblogs.microsoft.com/dotnet/introducing-project-migrations-visual-studio-extension/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing the .NET MAUI Beautiful UI Challenge](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-beautiful-ui-challenge/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Differentiating Visual Studio instances](https://devblogs.microsoft.com/visualstudio/differentiating-visual-studio-instances/?WT_mc_id=DOP-MVP-4027259)
-<!--- `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET Framework July 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-july-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing .NET Conf – Focus on .NET MAUI, Reactor, and Community Events](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Customizing Controls in .NET MAUI](https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/?WT_mc_id=DOP-MVP-4027259)

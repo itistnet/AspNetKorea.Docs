@@ -5,6 +5,9 @@
 
 ## 2022
 
+- [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.17)</small>
+- [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.16)</small>
+- [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/?WT_mc_id=DOP-MVP-4027259/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.16)</small>
 - [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.15)</small>
 - [Choosing a .NET Memory Profiler in Visual Studio – part 1](https://devblogs.microsoft.com/visualstudio/choosing-a-net-memory-profiler-in-visual-studio-part-1/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.11)</small>
 - [.NET Framework August 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.10)</small>
