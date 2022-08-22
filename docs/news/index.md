@@ -5,6 +5,14 @@
 
 ## 2022
 
+- [.NET Conf Focus on MAUI – That’s a wrap!](https://devblogs.microsoft.com/dotnet/dotnet-conf-focus-on-maui-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.19)</small>
+- [Write a Python data layer with Azure Cosmos DB and FastAPI](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-python-and-fastapi/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.19)</small>
+- [The AArch64 processor (aka arm64), part 18: Return address protection](https://devblogs.microsoft.com/oldnewthing/20220819-00/?p=107020&WT_mc_id=DOP-MVP-4027259) <small>(2022.08.19)</small>
+- [Java on Azure Tooling 的更新 – 2022 年 8 月](https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-2022-08/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.18)</small>
+- [droidcon Berlin and Surface Duo video collection](https://devblogs.microsoft.com/surface-duo/droidcon-berlin-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.18)</small>
+- [Updates to Visual Studio Build Tools license for C and C++ Open-Source projects](https://devblogs.microsoft.com/cppblog/updates-to-visual-studio-build-tools-license-for-c-and-cpp-open-source-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.18)</small>
+- [The AArch64 processor (aka arm64), part 17: Manipulating flags](https://devblogs.microsoft.com/oldnewthing/20220818-00/?p=107005&WT_mc_id=DOP-MVP-4027259) <small>(2022.08.18)</small>
+- [Azure SDK Release (August 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.17)</small>
 - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.17)</small>
 - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.16)</small>
 - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/?WT_mc_id=DOP-MVP-4027259/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.16)</small>

@@ -12,6 +12,14 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [.NET Conf Focus on MAUI – That’s a wrap!](https://devblogs.microsoft.com/dotnet/dotnet-conf-focus-on-maui-recap/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Write a Python data layer with Azure Cosmos DB and FastAPI](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-python-and-fastapi/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 18: Return address protection](https://devblogs.microsoft.com/oldnewthing/20220819-00/?p=107020&WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Java on Azure Tooling 的更新 – 2022 年 8 月](https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-2022-08/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [droidcon Berlin and Surface Duo video collection](https://devblogs.microsoft.com/surface-duo/droidcon-berlin-2022/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Updates to Visual Studio Build Tools license for C and C++ Open-Source projects](https://devblogs.microsoft.com/cppblog/updates-to-visual-studio-build-tools-license-for-c-and-cpp-open-source-projects/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 17: Manipulating flags](https://devblogs.microsoft.com/oldnewthing/20220818-00/?p=107005&WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Azure SDK Release (August 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2022/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/?WT_mc_id=DOP-MVP-4027259/?WT_mc_id=DOP-MVP-4027259)
@@ -19,7 +27,7 @@
 - `.NET 관련 소식` - [Choosing a .NET Memory Profiler in Visual Studio – part 1](https://devblogs.microsoft.com/visualstudio/choosing-a-net-memory-profiler-in-visual-studio-part-1/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET Framework August 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Visual Studio for Mac 17.3 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259)
-- `.NET 관련 소식` - [Visual Studio 2022 17.3 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259)
+<!-- - `.NET 관련 소식` - [Visual Studio 2022 17.3 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing .NET Framework 4.8.1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-framework-481/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Productivity comes to .NET MAUI in Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-maui-visualstudio-2022-release/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing .NET 7 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-7/?WT_mc_id=DOP-MVP-4027259)
@@ -27,7 +35,7 @@
 - `.NET 관련 소식` - [Announcing Entity Framework 7 Preview 7: Interceptors!](https://devblogs.microsoft.com/dotnet/announcing-ef7-preview7/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET August 2022 Updates – .NET 6.0.8 and .NET Core 3.1.28](https://devblogs.microsoft.com/dotnet/august-2022-updates/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing SynapseML for .NET – Large Scale ML with a Simple API](https://devblogs.microsoft.com/dotnet/announcing-synapseml-for-dotnet/?WT_mc_id=DOP-MVP-4027259)
-<!--- `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core in Visual Studio](https://devblogs.microsoft.com/dotnet/introducing-project-migrations-visual-studio-extension/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core in Visual Studio](https://devblogs.microsoft.com/dotnet/introducing-project-migrations-visual-studio-extension/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing the .NET MAUI Beautiful UI Challenge](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-beautiful-ui-challenge/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Differentiating Visual Studio instances](https://devblogs.microsoft.com/visualstudio/differentiating-visual-studio-instances/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/?WT_mc_id=DOP-MVP-4027259)
