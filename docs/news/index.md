@@ -5,6 +5,12 @@
 
 ## 2022
 
+- [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>
+- [.NET Framework August 2022 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.26)</small>
+- [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.25)</small>
+- [.NET MAUI eBook Now Available – Enterprise Application Patterns](https://devblogs.microsoft.com/dotnet/dotnet-maui-ebook-released/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.25)</small>
+- [A Heavy Lift: Bringing Kestrel + YARP to Azure App Services](https://devblogs.microsoft.com/dotnet/bringing-kestrel-and-yarp-to-azure-app-services/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.24)</small>
+- [C# 11 preview: generic math, required members, and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-august-update/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.22)</small>
 - [.NET Conf Focus on MAUI – That’s a wrap!](https://devblogs.microsoft.com/dotnet/dotnet-conf-focus-on-maui-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.19)</small>
 - [Write a Python data layer with Azure Cosmos DB and FastAPI](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-python-and-fastapi/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.19)</small>
 - [The AArch64 processor (aka arm64), part 18: Return address protection](https://devblogs.microsoft.com/oldnewthing/20220819-00/?p=107020&WT_mc_id=DOP-MVP-4027259) <small>(2022.08.19)</small>

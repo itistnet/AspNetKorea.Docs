@@ -12,6 +12,12 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [.NET Framework August 2022 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [.NET MAUI eBook Now Available – Enterprise Application Patterns](https://devblogs.microsoft.com/dotnet/dotnet-maui-ebook-released/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [A Heavy Lift: Bringing Kestrel + YARP to Azure App Services](https://devblogs.microsoft.com/dotnet/bringing-kestrel-and-yarp-to-azure-app-services/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [C# 11 preview: generic math, required members, and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-august-update/?WT_mc_id=DOP-MVP-4027259)
 - `e-Book` - [Enterprise Application Patterns Using .NET MAUI](https://docs.microsoft.com/ko-kr/dotnet/architecture/maui/?WT.mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET Conf Focus on MAUI – That’s a wrap!](https://devblogs.microsoft.com/dotnet/dotnet-conf-focus-on-maui-recap/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Write a Python data layer with Azure Cosmos DB and FastAPI](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-python-and-fastapi/?WT_mc_id=DOP-MVP-4027259)
@@ -21,13 +27,13 @@
 - `.NET 관련 소식` - [Updates to Visual Studio Build Tools license for C and C++ Open-Source projects](https://devblogs.microsoft.com/cppblog/updates-to-visual-studio-build-tools-license-for-c-and-cpp-open-source-projects/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 17: Manipulating flags](https://devblogs.microsoft.com/oldnewthing/20220818-00/?p=107005&WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Azure SDK Release (August 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2022/?WT_mc_id=DOP-MVP-4027259)
-- `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
+<!--- `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/?WT_mc_id=DOP-MVP-4027259/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Choosing a .NET Memory Profiler in Visual Studio – part 1](https://devblogs.microsoft.com/visualstudio/choosing-a-net-memory-profiler-in-visual-studio-part-1/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET Framework August 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259)
-<!--- `.NET 관련 소식` - [Visual Studio for Mac 17.3 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Visual Studio for Mac 17.3 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Visual Studio 2022 17.3 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-3-is-now-available/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing .NET Framework 4.8.1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-framework-481/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Productivity comes to .NET MAUI in Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-maui-visualstudio-2022-release/?WT_mc_id=DOP-MVP-4027259)
