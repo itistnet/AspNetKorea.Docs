@@ -5,6 +5,7 @@
 
 ## 2022
 
+- [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>
 - [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>
 - [.NET Framework August 2022 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.26)</small>
 - [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.25)</small>

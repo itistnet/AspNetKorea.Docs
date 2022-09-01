@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET Framework August 2022 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259)
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [droidcon Berlin and Surface Duo video collection](https://devblogs.microsoft.com/surface-duo/droidcon-berlin-2022/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Updates to Visual Studio Build Tools license for C and C++ Open-Source projects](https://devblogs.microsoft.com/cppblog/updates-to-visual-studio-build-tools-license-for-c-and-cpp-open-source-projects/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 17: Manipulating flags](https://devblogs.microsoft.com/oldnewthing/20220818-00/?p=107005&WT_mc_id=DOP-MVP-4027259)
-- `.NET 관련 소식` - [Azure SDK Release (August 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2022/?WT_mc_id=DOP-MVP-4027259)
-<!--- `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
+<!--- `.NET 관련 소식` - [Azure SDK Release (August 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2022/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [What’s New in Visual Studio 2022 17.4 Preview 1](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-1/?WT_mc_id=DOP-MVP-4027259/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Git Line-staging Released!](https://devblogs.microsoft.com/visualstudio/git-line-staging-released/?WT_mc_id=DOP-MVP-4027259)
