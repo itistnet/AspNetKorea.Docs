@@ -5,6 +5,7 @@
 
 ## 2022
 
+- [Adding color to bracket pairs](https://devblogs.microsoft.com/visualstudio/adding-color-to-bracket-pairs/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.07)</small>
 - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>
 - [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>
 - [.NET Framework August 2022 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-august-2022-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.26)</small>
