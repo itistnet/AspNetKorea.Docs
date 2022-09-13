@@ -5,6 +5,9 @@
 
 ## 2022
 
+- [Arm64 Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/arm64-performance-improvements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.12)</small>
+- [.NET now on Windows Package Manager](https://devblogs.microsoft.com/dotnet/dotnet-now-on-windows-package-manager/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.12)</small>
+- [.NET 7 comes to Azure Functions & Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-7-comes-to-azure-functions/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.09)</small>
 - [Adding color to bracket pairs](https://devblogs.microsoft.com/visualstudio/adding-color-to-bracket-pairs/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.07)</small>
 - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>
 - [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259) <small>(2022.08.29)</small>

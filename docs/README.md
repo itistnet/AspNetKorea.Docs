@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Arm64 Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/arm64-performance-improvements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [.NET now on Windows Package Manager](https://devblogs.microsoft.com/dotnet/dotnet-now-on-windows-package-manager/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [.NET 7 comes to Azure Functions & Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-7-comes-to-azure-functions/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Adding color to bracket pairs](https://devblogs.microsoft.com/visualstudio/adding-color-to-bracket-pairs/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET MAUI Cloud Skills Challenge – Learn .NET MAUI, Get Stickers!](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/?WT_mc_id=DOP-MVP-4027259)
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [.NET Conf Focus on MAUI – That’s a wrap!](https://devblogs.microsoft.com/dotnet/dotnet-conf-focus-on-maui-recap/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Write a Python data layer with Azure Cosmos DB and FastAPI](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-python-and-fastapi/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 18: Return address protection](https://devblogs.microsoft.com/oldnewthing/20220819-00/?p=107020&WT_mc_id=DOP-MVP-4027259)
-- `.NET 관련 소식` - [Java on Azure Tooling 的更新 – 2022 年 8 月](https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-2022-08/?WT_mc_id=DOP-MVP-4027259)
+<!--- `.NET 관련 소식` - [Java on Azure Tooling 的更新 – 2022 年 8 月](https://devblogs.microsoft.com/java-ch/java-on-azure-tooling-2022-08/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [droidcon Berlin and Surface Duo video collection](https://devblogs.microsoft.com/surface-duo/droidcon-berlin-2022/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Updates to Visual Studio Build Tools license for C and C++ Open-Source projects](https://devblogs.microsoft.com/cppblog/updates-to-visual-studio-build-tools-license-for-c-and-cpp-open-source-projects/?WT_mc_id=DOP-MVP-4027259)
-<!--- `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 17: Manipulating flags](https://devblogs.microsoft.com/oldnewthing/20220818-00/?p=107005&WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [The AArch64 processor (aka arm64), part 17: Manipulating flags](https://devblogs.microsoft.com/oldnewthing/20220818-00/?p=107005&WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Azure SDK Release (August 2022)](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-august-2022/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Live Share: Enterprise Policies are here!](https://devblogs.microsoft.com/visualstudio/ls-policies/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
