@@ -5,6 +5,17 @@
 
 ## 2022
 
+- [.NET Framework September 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.20)</small>
+- [DataTable Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/datatable-visualizer-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [Visual Studio 2022 17.4 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [It’s finally here. Bicep is in Visual Studio!](https://devblogs.microsoft.com/visualstudio/bicepforvs/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [.NET MAUI in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [Announcing .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [Announcing Entity Framework 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-ef7-rc1/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [Microsoft Teams Assignments Service’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-assignments-service-dotnet-6-journey/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
+- [.NET Framework September 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.13)</small>
+- [.NET September 2022 Updates – .NET 6.0.9 and .NET Core 3.1.29](https://devblogs.microsoft.com/dotnet/september-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.13)</small>
 - [Arm64 Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/arm64-performance-improvements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.12)</small>
 - [.NET now on Windows Package Manager](https://devblogs.microsoft.com/dotnet/dotnet-now-on-windows-package-manager/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.12)</small>
 - [.NET 7 comes to Azure Functions & Visual Studio 2022](https://devblogs.microsoft.com/dotnet/dotnet-7-comes-to-azure-functions/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.09)</small>
