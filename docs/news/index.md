@@ -5,6 +5,12 @@
 
 ## 2022
 
+- [Migrating from ASP.NET to ASP.NET Core (Part 4)](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.29)</small>
+- [Experimental WebTransport over HTTP/3 support in Kestrel](https://devblogs.microsoft.com/dotnet/experimental-webtransport-over-http-3-support-in-kestrel/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.29)</small>
+- [Microsoft Teams’ Infrastructure and Azure Communication Services’ Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-infrastructure-and-azure-communication-services-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.28)</small>
+- [Visual Studio for Mac 17.4 Preview 2.1 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-4-preview-2-1-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.27)</small>
+- [Microsoft Commerce’s .NET 6 Migration Journey](https://devblogs.microsoft.com/dotnet/microsoft-commerce-dotnet-6-migration-journey/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.26)</small>
+- [Now Introducing Arm64 Support for VS Extensions!](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.22)</small>
 - [.NET Framework September 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.20)</small>
 - [DataTable Visualizer Improvements](https://devblogs.microsoft.com/visualstudio/datatable-visualizer-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
 - [Visual Studio 2022 17.4 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.14)</small>
