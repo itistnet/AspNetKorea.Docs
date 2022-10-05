@@ -2,6 +2,12 @@
 
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
+## 2022
+- [JetBrains .NET Days + GameDev Day Online 2022](https://blog.jetbrains.com/ko/dotnet/2022/09/28/join-us-for-dotnet-days-and-gamedev-day-online-2022/) <small>(2022.10.25 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Ignite 2022](https://ignite.microsoft.com/en-US/home) <small>(2022.10.12 ~ 14)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/17259/) <small>(2022.10.12)</small> <span class="spnBadgeType1">온라인</span>
+- [.NET Conf Mini 22.09](https://www.dotnetconf.kr/mini/2209) <small>(2022.09.30)</small> <span class="spnBadgeType1">온라인</span>
+
 ## 2021
 - [NHN FORWARD 2021](https://forward.nhn.com/2021/home) <small>(2021.12.14)</small> <span class="spnBadgeType1">온라인</span>
 - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170) <small>(2021.11.10)</small> <span class="spnBadgeType1">온라인</span>

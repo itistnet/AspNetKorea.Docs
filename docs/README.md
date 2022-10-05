@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+
+- `행사 소식` - [JetBrains .NET Days + GameDev Day Online 2022](https://blog.jetbrains.com/ko/dotnet/2022/09/28/join-us-for-dotnet-days-and-gamedev-day-online-2022/)
+- `행사 소식` - [Microsoft Ignite 2022](https://ignite.microsoft.com/en-US/home)
+- `행사 소식` - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/17259/)
+- `행사 소식` - [.NET Conf Mini 22.09](https://www.dotnetconf.kr/mini/2209)
 - `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core (Part 4)](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-4/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Experimental WebTransport over HTTP/3 support in Kestrel](https://devblogs.microsoft.com/dotnet/experimental-webtransport-over-http-3-support-in-kestrel/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Microsoft Teams’ Infrastructure and Azure Communication Services’ Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-infrastructure-and-azure-communication-services-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259)
@@ -23,11 +28,11 @@
 - `.NET 관련 소식` - [Visual Studio 2022 17.4 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-2/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [It’s finally here. Bicep is in Visual Studio!](https://devblogs.microsoft.com/visualstudio/bicepforvs/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET MAUI in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/?WT_mc_id=DOP-MVP-4027259)
-- `.NET 관련 소식` - [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/?WT_mc_id=DOP-MVP-4027259)
+<!--- `.NET 관련 소식` - [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Announcing Entity Framework 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-ef7-rc1/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Microsoft Teams Assignments Service’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-assignments-service-dotnet-6-journey/?WT_mc_id=DOP-MVP-4027259)
-<!--- `.NET 관련 소식` - [.NET Framework September 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [.NET Framework September 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET September 2022 Updates – .NET 6.0.9 and .NET Core 3.1.29](https://devblogs.microsoft.com/dotnet/september-2022-updates/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Arm64 Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/arm64-performance-improvements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [.NET now on Windows Package Manager](https://devblogs.microsoft.com/dotnet/dotnet-now-on-windows-package-manager/?WT_mc_id=DOP-MVP-4027259)
