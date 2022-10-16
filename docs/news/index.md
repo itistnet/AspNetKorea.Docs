@@ -5,6 +5,19 @@
 
 ## 2022
 
+- [What’s new in System.Text.Json in .NET 7](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.13)</small>
+- [Announcing .NET MAUI support for Xcode 14 and iOS 16](https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- [.NET October 2022 Updates – .NET 6.0.10 and .NET Core 3.1.30](https://devblogs.microsoft.com/dotnet/october-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- [Announcing Entity Framework Core 7 RC2: JSON Columns](https://devblogs.microsoft.com/dotnet/announcing-ef7-release-candidate-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- [Announcing .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- [ASP.NET Core updates in .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- [.NET Framework October 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- [Console.ReadKey improvements in .NET 7](https://devblogs.microsoft.com/dotnet/console-readkey-improvements-in-net-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.10)</small>
+- [Bing Ads Campaign Platform – Journey to .NET 6](https://devblogs.microsoft.com/dotnet/bing-ads-campaign-platform-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.07)</small>
+- [Authentication for .NET MAUI Apps with MSAL.NET](https://devblogs.microsoft.com/dotnet/authentication-in-dotnet-maui-apps-msal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.06)</small>
+- [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
+- [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
+- [Comparing files in Visual Studio](https://devblogs.microsoft.com/visualstudio/comparing-files-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.04)</small>
 - [Migrating from ASP.NET to ASP.NET Core (Part 4)](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.29)</small>
 - [Experimental WebTransport over HTTP/3 support in Kestrel](https://devblogs.microsoft.com/dotnet/experimental-webtransport-over-http-3-support-in-kestrel/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.29)</small>
 - [Microsoft Teams’ Infrastructure and Azure Communication Services’ Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-infrastructure-and-azure-communication-services-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.28)</small>
