@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small>
+- `행사 소식` - [Microsoft 365 Virtual Training Day: Enable Hybrid Work with Microsoft Teams](https://mktoevents.com/Microsoft+Event/360527/157-GQE-382) <small>(2022.11.29 ~ 30)</small>
+- `행사 소식` - [Microsoft Security Virtual Training Day: 보안 현대화 및 위협 방어](https://mktoevents.com/Microsoft+Event/360275/157-GQE-382) <small>(2022.10.26 ~ 27)</small>
 - `.NET 관련 소식` - [What’s new in System.Text.Json in .NET 7](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.13)</small>
 - `.NET 관련 소식` - [Announcing .NET MAUI support for Xcode 14 and iOS 16](https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
 - `.NET 관련 소식` - [.NET October 2022 Updates – .NET 6.0.10 and .NET Core 3.1.30](https://devblogs.microsoft.com/dotnet/october-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
@@ -23,11 +27,11 @@
 - `.NET 관련 소식` - [Bing Ads Campaign Platform – Journey to .NET 6](https://devblogs.microsoft.com/dotnet/bing-ads-campaign-platform-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.07)</small>
 - `.NET 관련 소식` - [Authentication for .NET MAUI Apps with MSAL.NET](https://devblogs.microsoft.com/dotnet/authentication-in-dotnet-maui-apps-msal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.06)</small>
 - `.NET 관련 소식` - [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
-- `.NET 관련 소식` - [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
+<!--- `.NET 관련 소식` - [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
 - `.NET 관련 소식` - [Comparing files in Visual Studio](https://devblogs.microsoft.com/visualstudio/comparing-files-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.04)</small>
 - `행사 소식` - [JetBrains .NET Days + GameDev Day Online 2022](https://blog.jetbrains.com/ko/dotnet/2022/09/28/join-us-for-dotnet-days-and-gamedev-day-online-2022/)
 - `행사 소식` - [Microsoft Ignite 2022](https://ignite.microsoft.com/en-US/home)
-<!--- `행사 소식` - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/17259/)
+- `행사 소식` - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/17259/)
 - `행사 소식` - [.NET Conf Mini 22.09](https://www.dotnetconf.kr/mini/2209)
 - `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core (Part 4)](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-4/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Experimental WebTransport over HTTP/3 support in Kestrel](https://devblogs.microsoft.com/dotnet/experimental-webtransport-over-http-3-support-in-kestrel/?WT_mc_id=DOP-MVP-4027259)

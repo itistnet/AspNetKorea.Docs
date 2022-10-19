@@ -3,6 +3,10 @@
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
 ## 2022
+- [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft 365 Virtual Training Day: Enable Hybrid Work with Microsoft Teams](https://mktoevents.com/Microsoft+Event/360527/157-GQE-382) <small>(2022.11.29 ~ 30)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Security Virtual Training Day: 보안 현대화 및 위협 방어](https://mktoevents.com/Microsoft+Event/360275/157-GQE-382) <small>(2022.10.26 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [JetBrains .NET Days + GameDev Day Online 2022](https://blog.jetbrains.com/ko/dotnet/2022/09/28/join-us-for-dotnet-days-and-gamedev-day-online-2022/) <small>(2022.10.25 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Ignite 2022](https://ignite.microsoft.com/en-US/home) <small>(2022.10.12 ~ 14)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/17259/) <small>(2022.10.12)</small> <span class="spnBadgeType1">온라인</span>
