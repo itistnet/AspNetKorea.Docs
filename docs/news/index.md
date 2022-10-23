@@ -5,6 +5,7 @@
 
 ## 2022
 
+- [Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.20)</small>
 - [What’s new in System.Text.Json in .NET 7](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.13)</small>
 - [Announcing .NET MAUI support for Xcode 14 and iOS 16](https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
 - [.NET October 2022 Updates – .NET 6.0.10 and .NET Core 3.1.30](https://devblogs.microsoft.com/dotnet/october-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
@@ -16,7 +17,7 @@
 - [Bing Ads Campaign Platform – Journey to .NET 6](https://devblogs.microsoft.com/dotnet/bing-ads-campaign-platform-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.07)</small>
 - [Authentication for .NET MAUI Apps with MSAL.NET](https://devblogs.microsoft.com/dotnet/authentication-in-dotnet-maui-apps-msal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.06)</small>
 - [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
-- [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
+- [Announcing the .NET MAUI Community Toolkit v1.3](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-maui-community-toolkit-v13/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.04)</small>
 - [Comparing files in Visual Studio](https://devblogs.microsoft.com/visualstudio/comparing-files-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.04)</small>
 - [Migrating from ASP.NET to ASP.NET Core (Part 4)](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.29)</small>
 - [Experimental WebTransport over HTTP/3 support in Kestrel](https://devblogs.microsoft.com/dotnet/experimental-webtransport-over-http-3-support-in-kestrel/?WT_mc_id=DOP-MVP-4027259) <small>(2022.09.29)</small>
