@@ -5,6 +5,8 @@
 
 ## 2022
 
+- [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.25)</small>
+- [Copy with proper indentation](https://devblogs.microsoft.com/visualstudio/copy-with-proper-indentation/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.25)</small>
 - [Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.20)</small>
 - [What’s new in System.Text.Json in .NET 7](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.13)</small>
 - [Announcing .NET MAUI support for Xcode 14 and iOS 16](https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
