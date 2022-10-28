@@ -15,6 +15,7 @@
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small>
 - `행사 소식` - [Microsoft 365 Virtual Training Day: Enable Hybrid Work with Microsoft Teams](https://mktoevents.com/Microsoft+Event/360527/157-GQE-382) <small>(2022.11.29 ~ 30)</small>
+- `행사 소식` - [Microsoft Ignite Spotlight on Korea](https://msevents.microsoft.com/event?id=1595073679) <small>(2022.11.15)</small>
 - `행사 소식` - [.NET Conf 2022](https://www.dotnetconf.net/) <small>(2022.11.08 ~ 10)</small>
 - `.NET 관련 소식` - [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.25)</small>
 - `.NET 관련 소식` - [Copy with proper indentation](https://devblogs.microsoft.com/visualstudio/copy-with-proper-indentation/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.25)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Announcing Entity Framework Core 7 RC2: JSON Columns](https://devblogs.microsoft.com/dotnet/announcing-ef7-release-candidate-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
 - `.NET 관련 소식` - [Announcing .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
 - `.NET 관련 소식` - [ASP.NET Core updates in .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
-- `.NET 관련 소식` - [.NET Framework October 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
-<!--- `.NET 관련 소식` - [Console.ReadKey improvements in .NET 7](https://devblogs.microsoft.com/dotnet/console-readkey-improvements-in-net-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.10)</small>
+<!--- `.NET 관련 소식` - [.NET Framework October 2022 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.11)</small>
+- `.NET 관련 소식` - [Console.ReadKey improvements in .NET 7](https://devblogs.microsoft.com/dotnet/console-readkey-improvements-in-net-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.10)</small>
 - `.NET 관련 소식` - [Bing Ads Campaign Platform – Journey to .NET 6](https://devblogs.microsoft.com/dotnet/bing-ads-campaign-platform-journey-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.07)</small>
 - `.NET 관련 소식` - [Authentication for .NET MAUI Apps with MSAL.NET](https://devblogs.microsoft.com/dotnet/authentication-in-dotnet-maui-apps-msal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.06)</small>
 - `.NET 관련 소식` - [Visual Studio’s Azure Marketplace images now support Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/visual-studios-azure-marketplace-images-now-support-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.05)</small>
