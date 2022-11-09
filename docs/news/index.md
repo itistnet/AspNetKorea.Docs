@@ -5,6 +5,22 @@
 
 ## 2022
 
+- [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Announcing ASP.NET Core in .NET 7](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Announcing .NET MAUI for .NET 7 General Availability](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [What’s new in Orleans 7.0](https://devblogs.microsoft.com/dotnet/whats-new-in-orleans-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Announcing F# 7](https://devblogs.microsoft.com/dotnet/announcing-fsharp-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Welcome to C# 11](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-11/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Entity Framework Core 7 (EF7) is available today](https://devblogs.microsoft.com/dotnet/announcing-ef7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [What’s new in Windows Forms in .NET 7.0](https://devblogs.microsoft.com/dotnet/winforms-enhancements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [What’s new for WPF in .NET 7](https://devblogs.microsoft.com/dotnet/wpf-on-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [.NET Framework November 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Arm64 Visual Studio is officially here!](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio-is-officially-here/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Visual Studio for Mac 17.4 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-17-4-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- [PHP in Visual Studio](https://devblogs.microsoft.com/visualstudio/php-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.03)</small>
+- [Cool features in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/cool-features-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.31)</small>
+- [Learning Series: Get started with GitHub in Visual Studio](https://devblogs.microsoft.com/visualstudio/learn-github-in-visual-studio-learning-series/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.27)</small>
 - [.NET Framework October 2022 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.25)</small>
 - [Copy with proper indentation](https://devblogs.microsoft.com/visualstudio/copy-with-proper-indentation/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.25)</small>
 - [Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.20)</small>
