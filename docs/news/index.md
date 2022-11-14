@@ -5,6 +5,9 @@
 
 ## 2022
 
+- [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
+- [Introducing Visual Studio Rollback!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-rollback/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
+- [Deploy Visual Studio updates to devices enrolled in Windows Update for Business](https://devblogs.microsoft.com/visualstudio/deploy-visual-studio-updates-to-devices-enrolled-in-windows-update-for-business/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.09)</small>
 - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - [Announcing ASP.NET Core in .NET 7](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - [Announcing .NET MAUI for .NET 7 General Availability](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>

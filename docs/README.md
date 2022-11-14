@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
+- `.NET 관련 소식` - [Introducing Visual Studio Rollback!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-rollback/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
+- `.NET 관련 소식` - [Deploy Visual Studio updates to devices enrolled in Windows Update for Business](https://devblogs.microsoft.com/visualstudio/deploy-visual-studio-updates-to-devices-enrolled-in-windows-update-for-business/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.09)</small>
 - `.NET 관련 소식` - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Announcing ASP.NET Core in .NET 7](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Announcing .NET MAUI for .NET 7 General Availability](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [.NET Framework November 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Arm64 Visual Studio is officially here!](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio-is-officially-here/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Visual Studio for Mac 17.4 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-17-4-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
-- `.NET 관련 소식` - [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+<!--- `.NET 관련 소식` - [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [PHP in Visual Studio](https://devblogs.microsoft.com/visualstudio/php-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.03)</small>
 - `.NET 관련 소식` - [Cool features in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/cool-features-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.31)</small>
-<!--- `.NET 관련 소식` - [Learning Series: Get started with GitHub in Visual Studio](https://devblogs.microsoft.com/visualstudio/learn-github-in-visual-studio-learning-series/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.27)</small>
+- `.NET 관련 소식` - [Learning Series: Get started with GitHub in Visual Studio](https://devblogs.microsoft.com/visualstudio/learn-github-in-visual-studio-learning-series/?WT_mc_id=DOP-MVP-4027259) <small>(2022.10.27)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small>
 - `행사 소식` - [Microsoft 365 Virtual Training Day: Enable Hybrid Work with Microsoft Teams](https://mktoevents.com/Microsoft+Event/360527/157-GQE-382) <small>(2022.11.29 ~ 30)</small>
