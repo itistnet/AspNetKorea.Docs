@@ -6,7 +6,8 @@
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft 365 Virtual Training Day: Enable Hybrid Work with Microsoft Teams](https://mktoevents.com/Microsoft+Event/360527/157-GQE-382) <small>(2022.11.29 ~ 30)</small> <span class="spnBadgeType1">온라인</span>
-- [Microsoft Ignite Spotlight on Korea](https://msevents.microsoft.com/event?id=1595073679) <small>(2022.11.15)</small> <span class="spnBadgeType1">온라인</span>
+- [NHN FORWARD 2022](https://forward.nhn.com/2022) <small>(2022.11.24)</small> <span class="spnBadgeType2">오프라인</span>
+- [Microsoft Ignite Spotlight on Korea](https://msevents.microsoft.com/event?id=1595073679) <small>(2022.11.15)</small> <span class="spnBadgeType2">오프라인</span>
 - [.NET Conf 2022](https://www.dotnetconf.net/) <small>(2022.11.08 ~ 10)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Security Virtual Training Day: 보안 현대화 및 위협 방어](https://mktoevents.com/Microsoft+Event/360275/157-GQE-382) <small>(2022.10.26 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [JetBrains .NET Days + GameDev Day Online 2022](https://blog.jetbrains.com/ko/dotnet/2022/09/28/join-us-for-dotnet-days-and-gamedev-day-online-2022/) <small>(2022.10.25 ~ 27)</small> <span class="spnBadgeType1">온라인</span>

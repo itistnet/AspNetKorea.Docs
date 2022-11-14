@@ -37,6 +37,16 @@ th, tr, td{
     font-size: 11px;
     border-radius: 2px;
 }
+
+.spnBadgeType2 {
+    height:26px;
+    padding:3px 5px 3px 5px;
+    background-color: #3b9962;
+    color:#fff;   
+    text-shadow: 0px 1px 1px rgb(71, 71, 71); 
+    font-size: 11px;
+    border-radius: 2px;
+}
 /*-------------------------------------------------------------------------------------------------*/
 
 /*-- Ebook ----------------------------------------------------------------------------------------*/
