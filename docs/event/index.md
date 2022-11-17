@@ -4,6 +4,7 @@
 
 ## 2022
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
+- [NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/) <small>(2022.12.14)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft 365 Virtual Training Day: Enable Hybrid Work with Microsoft Teams](https://mktoevents.com/Microsoft+Event/360527/157-GQE-382) <small>(2022.11.29 ~ 30)</small> <span class="spnBadgeType1">온라인</span>
 - [NHN FORWARD 2022](https://forward.nhn.com/2022) <small>(2022.11.24)</small> <span class="spnBadgeType2">오프라인</span>
