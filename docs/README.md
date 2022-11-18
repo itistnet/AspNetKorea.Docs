@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Public preview of dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/public-preview-of-dev-tunnels-in-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259)
+- `.NET 관련 소식` - [Multi-repository Support Released!](https://devblogs.microsoft.com/visualstudio/multi-repository-support-released/?WT_mc_id=DOP-MVP-4027259)
 - `행사 소식` - [NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/) <small>(2022.12.14)</small>
 - `행사 소식` - [Google Cloud Next Innovators Hive: Korea](https://inthecloud.withgoogle.com/next-22-innovators-hive-korea/register.html) <small>(2022.11.22)</small>
 - `.NET 관련 소식` - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [Announcing F# 7](https://devblogs.microsoft.com/dotnet/announcing-fsharp-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Welcome to C# 11](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-11/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Entity Framework Core 7 (EF7) is available today](https://devblogs.microsoft.com/dotnet/announcing-ef7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
-- `.NET 관련 소식` - [What’s new in Windows Forms in .NET 7.0](https://devblogs.microsoft.com/dotnet/winforms-enhancements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+<!--- `.NET 관련 소식` - [What’s new in Windows Forms in .NET 7.0](https://devblogs.microsoft.com/dotnet/winforms-enhancements-in-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [What’s new for WPF in .NET 7](https://devblogs.microsoft.com/dotnet/wpf-on-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [.NET Framework November 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
-<!--- `.NET 관련 소식` - [Arm64 Visual Studio is officially here!](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio-is-officially-here/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
+- `.NET 관련 소식` - [Arm64 Visual Studio is officially here!](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio-is-officially-here/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Visual Studio for Mac 17.4 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-17-4-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 17.4 is now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.08)</small>
 - `.NET 관련 소식` - [PHP in Visual Studio](https://devblogs.microsoft.com/visualstudio/php-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.03)</small>

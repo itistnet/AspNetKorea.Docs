@@ -5,6 +5,9 @@
 
 ## 2022
 
+- [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.17)</small>
+- [Public preview of dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/public-preview-of-dev-tunnels-in-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.15)</small>
+- [Multi-repository Support Released!](https://devblogs.microsoft.com/visualstudio/multi-repository-support-released/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.14)</small>
 - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
 - [Introducing Visual Studio Rollback!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-rollback/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
 - [Deploy Visual Studio updates to devices enrolled in Windows Update for Business](https://devblogs.microsoft.com/visualstudio/deploy-visual-studio-updates-to-devices-enrolled-in-windows-update-for-business/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.09)</small>
