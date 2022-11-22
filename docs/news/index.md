@@ -5,6 +5,7 @@
 
 ## 2022
 
+- [Visual Studio 2022 Performance Enhancements 17.4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-performance-enhancements-17-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.21)</small>
 - [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.17)</small>
 - [Public preview of dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/public-preview-of-dev-tunnels-in-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.15)</small>
 - [Multi-repository Support Released!](https://devblogs.microsoft.com/visualstudio/multi-repository-support-released/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.14)</small>
