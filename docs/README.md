@@ -12,12 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
+- `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core with Project Migrations Part 5](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
+- `.NET 관련 소식` - [What’s new in Visual Studio productivity](https://devblogs.microsoft.com/visualstudio/whats-new-in-visual-studio-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.06)</small>
+- `.NET 관련 소식` - [Custom Controls for WinForm’s Out-Of-Process Designer](https://devblogs.microsoft.com/dotnet/custom-controls-for-winforms-out-of-process-designer/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
+- `.NET 관련 소식` - [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
+- `.NET 관련 소식` - [What’s new in the .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.01)</small>
+- `.NET 관련 소식` - [Building a new JavaScript linting experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/building-a-new-javascript-linting-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.01)</small>
+- `.NET 관련 소식` - [Removing out-of-support components from your Visual Studio installations](https://devblogs.microsoft.com/visualstudio/removing-out-of-support-components-from-your-visual-studio-installations/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.29)</small>
+- `.NET 관련 소식` - [Improve your productivity with Web Live Preview and Telerik](https://devblogs.microsoft.com/visualstudio/improve-your-productivity-with-web-live-preview-and-telerik/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.23)</small>
+- `.NET 관련 소식` - [.NET MAUI is now available in Visual Studio for Mac 17.4](https://devblogs.microsoft.com/visualstudio/net-maui-is-now-available-in-visual-studio-for-mac-17-4/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.22)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 Performance Enhancements 17.4](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-performance-enhancements-17-4/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Enable Group Policy Settings with Visual Studio Administrative Templates (ADMX)](https://devblogs.microsoft.com/visualstudio/enable-group-policy-settings-with-visual-studio-administrative-templates-admx/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Public preview of dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/public-preview-of-dev-tunnels-in-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259)
 - `.NET 관련 소식` - [Multi-repository Support Released!](https://devblogs.microsoft.com/visualstudio/multi-repository-support-released/?WT_mc_id=DOP-MVP-4027259)
 - `행사 소식` - [NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/) <small>(2022.12.14)</small>
-- `행사 소식` - [Google Cloud Next Innovators Hive: Korea](https://inthecloud.withgoogle.com/next-22-innovators-hive-korea/register.html) <small>(2022.11.22)</small>
+<!--- `행사 소식` - [Google Cloud Next Innovators Hive: Korea](https://inthecloud.withgoogle.com/next-22-innovators-hive-korea/register.html) <small>(2022.11.22)</small>
 - `.NET 관련 소식` - [Announcing ML.NET 2.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-2-0/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
 - `.NET 관련 소식` - [Introducing Visual Studio Rollback!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-rollback/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.10)</small>
 - `.NET 관련 소식` - [Deploy Visual Studio updates to devices enrolled in Windows Update for Business](https://devblogs.microsoft.com/visualstudio/deploy-visual-studio-updates-to-devices-enrolled-in-windows-update-for-business/?WT_mc_id=DOP-MVP-4027259) <small>(2022.11.09)</small>
