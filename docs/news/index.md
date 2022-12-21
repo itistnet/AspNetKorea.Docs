@@ -5,6 +5,14 @@
 
 ## 2022
 
+- [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.20)</small>
+- [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.19)</small>
+- [Sticky Scroll now in preview](https://devblogs.microsoft.com/visualstudio/sticky-scroll-now-in-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.15)</small>
+- [Dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/dev-tunnels-in-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.14)</small>
+- [Try out Visual Studio 2022 version 17.5 Preview 2](https://devblogs.microsoft.com/visualstudio/try-out-visual-studio-2022-17-5-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
+- [.NET December 2022 Updates – .NET 7.0.1, .NET 6.0.12, .NET Core 3.1.32](https://devblogs.microsoft.com/dotnet/december-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
+- [.NET Framework December 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-december-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
+- [Polyglot Notebooks – Now with .NET 7, C# 11, and F# 7 Support!](https://devblogs.microsoft.com/dotnet/polyglot-notebooks-december-2022-release/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.12)</small>
 - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
 - [Migrating from ASP.NET to ASP.NET Core with Project Migrations Part 5](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
 - [What’s new in Visual Studio productivity](https://devblogs.microsoft.com/visualstudio/whats-new-in-visual-studio-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.06)</small>
