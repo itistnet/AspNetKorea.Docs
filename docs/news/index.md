@@ -5,6 +5,8 @@
 
 ## 2022
 
+- [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
+- [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.21)</small>
 - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.20)</small>
 - [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.19)</small>
 - [Sticky Scroll now in preview](https://devblogs.microsoft.com/visualstudio/sticky-scroll-now-in-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.15)</small>
