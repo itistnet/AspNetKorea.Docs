@@ -5,6 +5,8 @@
 
 ## 2022
 
+- [Top .NET Blog Posts of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
+- [Top .NET Videos & Live Streams of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
 - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
 - [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.21)</small>
 - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.20)</small>
