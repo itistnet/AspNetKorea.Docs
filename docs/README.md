@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
 - `.NET 관련 소식` - [Top .NET Blog Posts of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
 - `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
 - `.NET 관련 소식` - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Polyglot Notebooks – Now with .NET 7, C# 11, and F# 7 Support!](https://devblogs.microsoft.com/dotnet/polyglot-notebooks-december-2022-release/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.12)</small>
 - `.NET 관련 소식` - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
 - `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core with Project Migrations Part 5](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
-- `.NET 관련 소식` - [What’s new in Visual Studio productivity](https://devblogs.microsoft.com/visualstudio/whats-new-in-visual-studio-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.06)</small>
-<!--- `.NET 관련 소식` - [Custom Controls for WinForm’s Out-Of-Process Designer](https://devblogs.microsoft.com/dotnet/custom-controls-for-winforms-out-of-process-designer/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
+<!--- `.NET 관련 소식` - [What’s new in Visual Studio productivity](https://devblogs.microsoft.com/visualstudio/whats-new-in-visual-studio-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.06)</small>
+- `.NET 관련 소식` - [Custom Controls for WinForm’s Out-Of-Process Designer](https://devblogs.microsoft.com/dotnet/custom-controls-for-winforms-out-of-process-designer/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
 - `.NET 관련 소식` - [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
 - `.NET 관련 소식` - [What’s new in the .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.01)</small>
 - `.NET 관련 소식` - [Building a new JavaScript linting experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/building-a-new-javascript-linting-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.01)</small>

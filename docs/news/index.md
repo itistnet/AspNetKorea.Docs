@@ -3,6 +3,10 @@
 > .NET 관련 새로운 소식과 이슈 모음입니다.
 > <br><br> > [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
+## 2023
+
+- [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
+
 ## 2022
 
 - [Top .NET Blog Posts of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
