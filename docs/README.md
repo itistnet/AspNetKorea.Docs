@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Debugging Encoded Text](https://devblogs.microsoft.com/visualstudio/debugging-encoded-text/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.11)</small>
+- `.NET 관련 소식` - [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.10)</small>
 - `.NET 관련 소식` - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
 - `.NET 관련 소식` - [Top .NET Blog Posts of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
 - `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
@@ -25,9 +27,9 @@
 - `.NET 관련 소식` - [.NET December 2022 Updates – .NET 7.0.1, .NET 6.0.12, .NET Core 3.1.32](https://devblogs.microsoft.com/dotnet/december-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
 - `.NET 관련 소식` - [.NET Framework December 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-december-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
 - `.NET 관련 소식` - [Polyglot Notebooks – Now with .NET 7, C# 11, and F# 7 Support!](https://devblogs.microsoft.com/dotnet/polyglot-notebooks-december-2022-release/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.12)</small>
-- `.NET 관련 소식` - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
+<!--- `.NET 관련 소식` - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
 - `.NET 관련 소식` - [Migrating from ASP.NET to ASP.NET Core with Project Migrations Part 5](https://devblogs.microsoft.com/dotnet/migrating-from-asp-net-to-asp-net-core-part-5/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
-<!--- `.NET 관련 소식` - [What’s new in Visual Studio productivity](https://devblogs.microsoft.com/visualstudio/whats-new-in-visual-studio-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.06)</small>
+- `.NET 관련 소식` - [What’s new in Visual Studio productivity](https://devblogs.microsoft.com/visualstudio/whats-new-in-visual-studio-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.06)</small>
 - `.NET 관련 소식` - [Custom Controls for WinForm’s Out-Of-Process Designer](https://devblogs.microsoft.com/dotnet/custom-controls-for-winforms-out-of-process-designer/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
 - `.NET 관련 소식` - [Get your developer news](https://devblogs.microsoft.com/visualstudio/get-your-developer-news/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.05)</small>
 - `.NET 관련 소식` - [What’s new in the .NET MAUI Community Toolkit](https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.01)</small>
