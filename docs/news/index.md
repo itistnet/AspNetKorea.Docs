@@ -5,6 +5,9 @@
 
 ## 2023
 
+- [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+- [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+- [New: Better search in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-better-search-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.17)</small>
 - [Debugging Encoded Text](https://devblogs.microsoft.com/visualstudio/debugging-encoded-text/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.11)</small>
 - [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.10)</small>
 - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
