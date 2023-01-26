@@ -5,6 +5,13 @@
 
 ## 2023
 
+- [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- [Documents and tool windows unleashed](https://devblogs.microsoft.com/visualstudio/documents-and-tool-windows-unleashed/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.24)</small>
+- [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- [Visual Studio Spell Checker Preview Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-spell-checker-preview-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
+- [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
 - [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
 - [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
 - [New: Better search in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-better-search-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.17)</small>

@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- `.NET 관련 소식` - [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- `.NET 관련 소식` - [Documents and tool windows unleashed](https://devblogs.microsoft.com/visualstudio/documents-and-tool-windows-unleashed/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.24)</small>
+- `.NET 관련 소식` - [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- `.NET 관련 소식` - [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- `.NET 관련 소식` - [Visual Studio Spell Checker Preview Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-spell-checker-preview-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
+- `.NET 관련 소식` - [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
 - `.NET 관련 소식` - [New: Better search in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-better-search-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.17)</small>
@@ -20,14 +27,14 @@
 - `.NET 관련 소식` - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
 - `.NET 관련 소식` - [Top .NET Blog Posts of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
 - `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
-- `.NET 관련 소식` - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
+<!--- `.NET 관련 소식` - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
 - `.NET 관련 소식` - [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.21)</small>
 - `.NET 관련 소식` - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.20)</small>
 - `.NET 관련 소식` - [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.19)</small>
 - `.NET 관련 소식` - [Sticky Scroll now in preview](https://devblogs.microsoft.com/visualstudio/sticky-scroll-now-in-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.15)</small>
 - `.NET 관련 소식` - [Dev tunnels in Visual Studio for ASP.NET Core projects](https://devblogs.microsoft.com/visualstudio/dev-tunnels-in-visual-studio-for-asp-net-core-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.14)</small>
 - `.NET 관련 소식` - [Try out Visual Studio 2022 version 17.5 Preview 2](https://devblogs.microsoft.com/visualstudio/try-out-visual-studio-2022-17-5-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
-<!--- `.NET 관련 소식` - [.NET December 2022 Updates – .NET 7.0.1, .NET 6.0.12, .NET Core 3.1.32](https://devblogs.microsoft.com/dotnet/december-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
+- `.NET 관련 소식` - [.NET December 2022 Updates – .NET 7.0.1, .NET 6.0.12, .NET Core 3.1.32](https://devblogs.microsoft.com/dotnet/december-2022-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
 - `.NET 관련 소식` - [.NET Framework December 2022 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-december-2022-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.13)</small>
 - `.NET 관련 소식` - [Polyglot Notebooks – Now with .NET 7, C# 11, and F# 7 Support!](https://devblogs.microsoft.com/dotnet/polyglot-notebooks-december-2022-release/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.12)</small>
 - `.NET 관련 소식` - [.NET 7 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.08)</small>
