@@ -12,15 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `.NET 관련 소식` - [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
-- `.NET 관련 소식` - [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
-- `.NET 관련 소식` - [Documents and tool windows unleashed](https://devblogs.microsoft.com/visualstudio/documents-and-tool-windows-unleashed/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.24)</small>
-- `.NET 관련 소식` - [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
-- `.NET 관련 소식` - [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
-- `.NET 관련 소식` - [Visual Studio Spell Checker Preview Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-spell-checker-preview-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
-- `.NET 관련 소식` - [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
+- `.NET 관련 소식`- [Update to the .NET language strategy](https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.06)</small>
+- `.NET 관련 소식`- [Play Audio and Video in .NET MAUI apps with the new MediaElement](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-communitytoolkit-mediaelement/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.31)</small>
+- `.NET 관련 소식`- [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- `.NET 관련 소식`- [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- `.NET 관련 소식`- [Documents and tool windows unleashed](https://devblogs.microsoft.com/visualstudio/documents-and-tool-windows-unleashed/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.24)</small>
+- `.NET 관련 소식`- [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- `.NET 관련 소식`- [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- `.NET 관련 소식`- [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
+- `.NET 관련 소식`- [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+- `.NET 관련 소식`- [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+- `.NET 관련 소식`- [New: Better search in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-better-search-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.17)</small>
+- `.NET 관련 소식`- [Debugging Encoded Text](https://devblogs.microsoft.com/visualstudio/debugging-encoded-text/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.11)</small>
+- `.NET 관련 소식`- [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.10)</small>
+- `.NET 관련 소식`- [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
-- `.NET 관련 소식` - [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+<!--- `.NET 관련 소식` - [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
 - `.NET 관련 소식` - [New: Better search in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-better-search-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.17)</small>
 - `.NET 관련 소식` - [Debugging Encoded Text](https://devblogs.microsoft.com/visualstudio/debugging-encoded-text/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.11)</small>
 - `.NET 관련 소식` - [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.10)</small>
