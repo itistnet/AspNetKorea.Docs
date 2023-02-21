@@ -5,6 +5,12 @@
 
 ## 2023
 
+- [Upgrading your .NET projects with Visual Studio](https://devblogs.microsoft.com/dotnet/upgrade-assistant-now-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.15)</small>
+- [.NET Framework February 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- [.NET February 2023 Updates – .NET 7.0.3, .NET 6.0.14](https://devblogs.microsoft.com/dotnet/february-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- [What is .NET, and why should you choose it?](https://devblogs.microsoft.com/dotnet/why-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- [Visual Studio AI-Assistance: A Developer’s Best Friend](https://devblogs.microsoft.com/visualstudio/visual-studio-ai-assistance-a-developers-best-friend/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.13)</small>
 - [Update to the .NET language strategy](https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.06)</small>
 - [Play Audio and Video in .NET MAUI apps with the new MediaElement](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-communitytoolkit-mediaelement/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.31)</small>
 - [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
