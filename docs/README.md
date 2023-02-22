@@ -12,22 +12,27 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `.NET 관련 소식`- [Upgrading your .NET projects with Visual Studio](https://devblogs.microsoft.com/dotnet/upgrade-assistant-now-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.15)</small>
-- `.NET 관련 소식`- [.NET Framework February 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
-- `.NET 관련 소식`- [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
-- `.NET 관련 소식`- [.NET February 2023 Updates – .NET 7.0.3, .NET 6.0.14](https://devblogs.microsoft.com/dotnet/february-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
-- `.NET 관련 소식`- [What is .NET, and why should you choose it?](https://devblogs.microsoft.com/dotnet/why-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
-- `.NET 관련 소식`- [Visual Studio AI-Assistance: A Developer’s Best Friend](https://devblogs.microsoft.com/visualstudio/visual-studio-ai-assistance-a-developers-best-friend/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.13)</small>
-- `.NET 관련 소식`- [Update to the .NET language strategy](https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.06)</small>
-- `.NET 관련 소식`- [Play Audio and Video in .NET MAUI apps with the new MediaElement](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-communitytoolkit-mediaelement/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.31)</small>
-- `.NET 관련 소식`- [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
-- `.NET 관련 소식`- [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
-- `.NET 관련 소식`- [Documents and tool windows unleashed](https://devblogs.microsoft.com/visualstudio/documents-and-tool-windows-unleashed/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.24)</small>
-- `.NET 관련 소식`- [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
-- `.NET 관련 소식`- [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
-- `.NET 관련 소식`- [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
-- `.NET 관련 소식`- [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
-<!--- `.NET 관련 소식`- [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+- `.NET 관련 소식` - [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- `.NET 관련 소식` - [ASP.NET Core updates in .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- `.NET 관련 소식` - [EF Core 8 Preview 1: Raw, lazy, and on-time](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 – 17.5 Released](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- `.NET 관련 소식` - [Visual Studio for Mac 17.5 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-5-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- `.NET 관련 소식` - [Upgrading your .NET projects with Visual Studio](https://devblogs.microsoft.com/dotnet/upgrade-assistant-now-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.15)</small>
+- `.NET 관련 소식` - [.NET Framework February 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- `.NET 관련 소식` - [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- `.NET 관련 소식` - [.NET February 2023 Updates – .NET 7.0.3, .NET 6.0.14](https://devblogs.microsoft.com/dotnet/february-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- `.NET 관련 소식` - [What is .NET, and why should you choose it?](https://devblogs.microsoft.com/dotnet/why-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
+- `.NET 관련 소식` - [Visual Studio AI-Assistance: A Developer’s Best Friend](https://devblogs.microsoft.com/visualstudio/visual-studio-ai-assistance-a-developers-best-friend/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.13)</small>
+- `.NET 관련 소식` - [Update to the .NET language strategy](https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.06)</small>
+- `.NET 관련 소식` - [Play Audio and Video in .NET MAUI apps with the new MediaElement](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-communitytoolkit-mediaelement/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.31)</small>
+- `.NET 관련 소식` - [Using Command Binding in Windows Forms apps to go Cross-Platform](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+- `.NET 관련 소식` - [Introducing the Git Status Bar and Testing Improvements in Visual Studio for Mac 17.5](https://devblogs.microsoft.com/visualstudio/introducing-the-git-status-bar-and-testing-improvements-in-visual-studio-for-mac-17-5/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.25)</small>
+<!--- `.NET 관련 소식` - [Documents and tool windows unleashed](https://devblogs.microsoft.com/visualstudio/documents-and-tool-windows-unleashed/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.24)</small>
+- `.NET 관련 소식` - [Keyboard Shortcuts to Master Your Git Flow in Visual Studio](https://devblogs.microsoft.com/visualstudio/keyboard-shortcuts-to-master-your-git-flow-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- `.NET 관련 소식` - [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.23)</small>
+- `.NET 관련 소식` - [.NET Framework January 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.19)</small>
+- `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.1! Better, faster MVVM source generators, .NET 7 support, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
+- `.NET 관련 소식`- [Visual Studio 2022 17.5 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.18)</small>
 - `.NET 관련 소식`- [New: Better search in Visual Studio](https://devblogs.microsoft.com/visualstudio/new-better-search-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.17)</small>
 - `.NET 관련 소식`- [Debugging Encoded Text](https://devblogs.microsoft.com/visualstudio/debugging-encoded-text/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.11)</small>
 - `.NET 관련 소식`- [.NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13](https://devblogs.microsoft.com/dotnet/january-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.10)</small>

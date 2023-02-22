@@ -5,6 +5,11 @@
 
 ## 2023
 
+- [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- [ASP.NET Core updates in .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- [EF Core 8 Preview 1: Raw, lazy, and on-time](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- [Visual Studio 2022 – 17.5 Released](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-released/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
+- [Visual Studio for Mac 17.5 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-17-5-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
 - [Upgrading your .NET projects with Visual Studio](https://devblogs.microsoft.com/dotnet/upgrade-assistant-now-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.15)</small>
 - [.NET Framework February 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
 - [Improvements to .NET Framework updates for Windows 11, version 22H2](https://devblogs.microsoft.com/dotnet/improvements-to-net-framework-updates-for-windows-11-22h2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.14)</small>
