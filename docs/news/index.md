@@ -5,6 +5,23 @@
 
 ## 2023
 
+- [What’s new for the WinForms Visual Basic Application Framework](https://devblogs.microsoft.com/dotnet/update-to-winforms-vb-appframework/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
+- [Visual Studio 2022 – 17.5 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
+- [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
+- [Introducing the Reliable Web App Pattern for .NET](https://devblogs.microsoft.com/dotnet/introducing-the-reliable-web-app-pattern/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.07)</small>
+- [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.02)</small>
+- [Build Better Extensions with VisualStudio.Extensibility Preview 3!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.02)</small>
+- [Microsoft Teams’ Permission Service migration to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-permission-service-migration-to-dotnet-6/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.02)</small>
+- [GitHub Copilot in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.01)</small>
+- [Join us for Hack Together: Microsoft Graph and .NET](https://devblogs.microsoft.com/dotnet/hack-together-microsoft-graph-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.28)</small>
+- [Sentence Similarity in ML.NET Model Builder](https://devblogs.microsoft.com/dotnet/sentence-similarity-mlnet-model-builder/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.28)</small>
+- [Try Visual Studio 2022 v17.6 Preview 1](https://devblogs.microsoft.com/visualstudio/try-visual-studio-2022-v17-6-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.27)</small>
+- [The fastest way to add files and folders](https://devblogs.microsoft.com/visualstudio/the-fastest-way-to-add-files-and-folders/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.27)</small>
+- [Introducing F# Inline Type & Parameter Name Hints in Visual Studio](https://devblogs.microsoft.com/dotnet/fsharp-inline-hints-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.27)</small>
+- [Reference GitHub Issues and Pull Requests in Visual Studio](https://devblogs.microsoft.com/visualstudio/reference-github-issues-and-pull-requests-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.23)</small>
+- [Updated Modern Code Generation for WinForm’s InitializeComponent](https://devblogs.microsoft.com/dotnet/winforms-codegen-update/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.23)</small>
+- [Visual Studio 2022 can now Always Update on Close!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-can-now-always-update-on-close/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.22)</small>
+- [Maximizing the value of IntelliCode with API usage examples: Real-World Code Examples at Your Fingertips](https://devblogs.microsoft.com/visualstudio/intellicode-api-usage-examples/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.22)</small>
 - [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
 - [ASP.NET Core updates in .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
 - [EF Core 8 Preview 1: Raw, lazy, and on-time](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.02.21)</small>
