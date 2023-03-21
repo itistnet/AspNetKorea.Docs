@@ -5,6 +5,18 @@
 
 ## 2023
 
+- [File and Folder dialogs in .NET MAUI with CommunityToolkit](https://devblogs.microsoft.com/dotnet/file-and-folder-dialogs-communitytoolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
+- [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
+- [Help us investigate a new Welcome Experience in Visual Studio 17.6 Preview 2](https://devblogs.microsoft.com/visualstudio/welcome-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.16)</small>
+- [How Async/Await Really Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.16)</small>
+- [Announcing Polyglot Notebooks! Multi-language notebooks in Visual Studio Code](https://devblogs.microsoft.com/dotnet/announcing-polyglot-notebooks-harness-the-power-of-multilanguage-notebooks-in-visual-studio-code/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.15)</small>
+- [Improving the Spell Checker](https://devblogs.microsoft.com/visualstudio/improving-the-spell-checker/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.15)</small>
+- [Hack Together: Microsoft Graph and .NET week #2 recap and final week overview](https://devblogs.microsoft.com/dotnet/hack-together-microsoft-graph-dotnet-final-week/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
+- [ASP.NET Core updates in .NET 8 Preview 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
+- [EF Core 8 Preview 2: Lite and familiar](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
+- [Announcing .NET 8 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
+- [.NET March 2023 Updates – .NET 7.0.4, .NET 6.0.15](https://devblogs.microsoft.com/dotnet/march-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
+- [Visual Studio 2022 v17.6 Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-6-preview-2-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
 - [What’s new for the WinForms Visual Basic Application Framework](https://devblogs.microsoft.com/dotnet/update-to-winforms-vb-appframework/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
 - [Visual Studio 2022 – 17.5 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
 - [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>

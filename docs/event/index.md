@@ -2,7 +2,12 @@
 
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
+## 2023
+
+- [Microsoft Build 2023](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
+
 ## 2022
+
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/360944/157-GQE-382) <small>(2022.12.20 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
 - [NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/) <small>(2022.12.14)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/360948/157-GQE-382) <small>(2022.12.01)</small> <span class="spnBadgeType1">온라인</span>
@@ -18,6 +23,7 @@
 - [.NET Conf Mini 22.09](https://www.dotnetconf.kr/mini/2209) <small>(2022.09.30)</small> <span class="spnBadgeType1">온라인</span>
 
 ## 2021
+
 - [NHN FORWARD 2021](https://forward.nhn.com/2021/home) <small>(2021.12.14)</small> <span class="spnBadgeType1">온라인</span>
 - [마케터 몰래 개발자들만 쓰던 메세징 플랫폼: NHN Cloud Notification](https://event-us.kr/nhncloud/event/38170) <small>(2021.11.10)</small> <span class="spnBadgeType1">온라인</span>
 - [.NET Conf 2021](https://www.dotnetconf.net) <small>(2021.11.08)</small> <span class="spnBadgeType1">온라인</span>
