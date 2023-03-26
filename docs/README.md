@@ -13,6 +13,7 @@
 ## 신규 업데이트 <small>(최근 15개)</small>
 
 - `행사 소식` - [Microsoft Build 2023](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23 ~ 24)</small>
+- `행사 소식` - [Azure Developers - .NET Day](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.05)</small>
 - `.NET 관련 소식` - [File and Folder dialogs in .NET MAUI with CommunityToolkit](https://devblogs.microsoft.com/dotnet/file-and-folder-dialogs-communitytoolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - `.NET 관련 소식` - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - `.NET 관련 소식` - [Help us investigate a new Welcome Experience in Visual Studio 17.6 Preview 2](https://devblogs.microsoft.com/visualstudio/welcome-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.16)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [.NET March 2023 Updates – .NET 7.0.4, .NET 6.0.15](https://devblogs.microsoft.com/dotnet/march-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 v17.6 Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-6-preview-2-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
 - `.NET 관련 소식` - [What’s new for the WinForms Visual Basic Application Framework](https://devblogs.microsoft.com/dotnet/update-to-winforms-vb-appframework/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
-- `.NET 관련 소식` - [Visual Studio 2022 – 17.5 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
-<!--- `.NET 관련 소식` - [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
+<!--- `.NET 관련 소식` - [Visual Studio 2022 – 17.5 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
+- `.NET 관련 소식` - [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
 - `.NET 관련 소식` - [Introducing the Reliable Web App Pattern for .NET](https://devblogs.microsoft.com/dotnet/introducing-the-reliable-web-app-pattern/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.07)</small>
 - `.NET 관련 소식` - [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.02)</small>
 - `.NET 관련 소식` - [Build Better Extensions with VisualStudio.Extensibility Preview 3!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.02)</small>
