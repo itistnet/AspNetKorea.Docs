@@ -5,6 +5,7 @@
 ## 2023
 
 - [Microsoft Build 2023](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
+- [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) <small>(2023.05.03 ~ 04)</small> <span class="spnBadgeType2">오프라인</span>
 - [Azure Developers - .NET Day](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.05)</small> <span class="spnBadgeType1">온라인</span>
 
 ## 2022

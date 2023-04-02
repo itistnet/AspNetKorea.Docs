@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) <small>(2023.05.03 ~ 04)</small>
 - `행사 소식` - [Microsoft Build 2023](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23 ~ 24)</small>
 - `행사 소식` - [Azure Developers - .NET Day](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.05)</small>
 - `.NET 관련 소식` - [File and Folder dialogs in .NET MAUI with CommunityToolkit](https://devblogs.microsoft.com/dotnet/file-and-folder-dialogs-communitytoolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
