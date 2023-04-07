@@ -12,11 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel Stacks](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.06)</small>
+- `행사 소식` - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.04)</small>
+- `행사 소식` - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.03)</small>
+- `행사 소식` - [Improving multi-platform container support](https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.29)</small>
+- `행사 소식` - [Visual Studio Toolbox: Integrated C++ Game Development](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-integrated-c-game-development/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- `행사 소식` - [Create a portfolio website without installing any tools](https://devblogs.microsoft.com/dotnet/codespaces-template-blazor-portfolio-website/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- `행사 소식` - [Discover .NET 7 SDK Containers – Support for Authentication and Cross-architecture Builds](https://devblogs.microsoft.com/dotnet/updates-to-container-support-in-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- `행사 소식` - [GitHub Copilot chat for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/github-copilot-chat-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.22)</small>
+- `행사 소식` - [Streamlining your Debugging process with Breakpoint Groups](https://devblogs.microsoft.com/visualstudio/streamlining-your-debugging-process-with-breakpoint-groups/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.21)</small>
+- `행사 소식` - [.NET Performance Delivers Again for Bing, From .NET 5 to .NET 7](https://devblogs.microsoft.com/dotnet/dotnet-performance-delivers-again-for-bing-from-dotnet-5-to-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.21)</small>
+- `행사 소식` - [Upgrading from IntelliCode custom team completions models to deep learning](https://devblogs.microsoft.com/visualstudio/upgrading-from-intellicode-custom-team-completions-models-to-deep-learning/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - `행사 소식` - [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) <small>(2023.05.03 ~ 04)</small>
 - `행사 소식` - [Microsoft Build 2023](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23 ~ 24)</small>
 - `행사 소식` - [Azure Developers - .NET Day](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.05)</small>
 - `.NET 관련 소식` - [File and Folder dialogs in .NET MAUI with CommunityToolkit](https://devblogs.microsoft.com/dotnet/file-and-folder-dialogs-communitytoolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
-- `.NET 관련 소식` - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
+<!-- - `.NET 관련 소식` - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - `.NET 관련 소식` - [Help us investigate a new Welcome Experience in Visual Studio 17.6 Preview 2](https://devblogs.microsoft.com/visualstudio/welcome-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.16)</small>
 - `.NET 관련 소식` - [How Async/Await Really Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.16)</small>
 - `.NET 관련 소식` - [Announcing Polyglot Notebooks! Multi-language notebooks in Visual Studio Code](https://devblogs.microsoft.com/dotnet/announcing-polyglot-notebooks-harness-the-power-of-multilanguage-notebooks-in-visual-studio-code/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.15)</small>
@@ -28,7 +39,7 @@
 - `.NET 관련 소식` - [.NET March 2023 Updates – .NET 7.0.4, .NET 6.0.15](https://devblogs.microsoft.com/dotnet/march-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 v17.6 Preview 2 is now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-6-preview-2-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.14)</small>
 - `.NET 관련 소식` - [What’s new for the WinForms Visual Basic Application Framework](https://devblogs.microsoft.com/dotnet/update-to-winforms-vb-appframework/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
-<!--- `.NET 관련 소식` - [Visual Studio 2022 – 17.5 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 – 17.5 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-5-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
 - `.NET 관련 소식` - [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.09)</small>
 - `.NET 관련 소식` - [Introducing the Reliable Web App Pattern for .NET](https://devblogs.microsoft.com/dotnet/introducing-the-reliable-web-app-pattern/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.07)</small>
 - `.NET 관련 소식` - [Developing Accessible Apps with Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-accessible-apps-with-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.02)</small>

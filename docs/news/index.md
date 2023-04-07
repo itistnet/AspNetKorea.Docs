@@ -5,6 +5,17 @@
 
 ## 2023
 
+- [Visual Studio Toolbox: Debug Threads & Tasks with Parallel Stacks](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.06)</small>
+- [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.04)</small>
+- [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.03)</small>
+- [Improving multi-platform container support](https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.29)</small>
+- [Visual Studio Toolbox: Integrated C++ Game Development](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-integrated-c-game-development/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- [Create a portfolio website without installing any tools](https://devblogs.microsoft.com/dotnet/codespaces-template-blazor-portfolio-website/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- [Discover .NET 7 SDK Containers – Support for Authentication and Cross-architecture Builds](https://devblogs.microsoft.com/dotnet/updates-to-container-support-in-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- [GitHub Copilot chat for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/github-copilot-chat-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.22)</small>
+- [Streamlining your Debugging process with Breakpoint Groups](https://devblogs.microsoft.com/visualstudio/streamlining-your-debugging-process-with-breakpoint-groups/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.21)</small>
+- [.NET Performance Delivers Again for Bing, From .NET 5 to .NET 7](https://devblogs.microsoft.com/dotnet/dotnet-performance-delivers-again-for-bing-from-dotnet-5-to-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.21)</small>
+- [Upgrading from IntelliCode custom team completions models to deep learning](https://devblogs.microsoft.com/visualstudio/upgrading-from-intellicode-custom-team-completions-models-to-deep-learning/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - [File and Folder dialogs in .NET MAUI with CommunityToolkit](https://devblogs.microsoft.com/dotnet/file-and-folder-dialogs-communitytoolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.20)</small>
 - [Help us investigate a new Welcome Experience in Visual Studio 17.6 Preview 2](https://devblogs.microsoft.com/visualstudio/welcome-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.16)</small>
