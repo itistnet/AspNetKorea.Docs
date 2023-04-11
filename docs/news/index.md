@@ -5,6 +5,9 @@
 
 ## 2023
 
+- [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://devblogs.microsoft.com/dotnet/30-days-of-azure-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
+- [Learn how to modernize your .NET apps from the pros!](https://devblogs.microsoft.com/dotnet/learn-how-to-modernize-your-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
+
 - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel Stacks](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.06)</small>
 - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.04)</small>
 - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.03)</small>
