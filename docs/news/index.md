@@ -5,9 +5,15 @@
 
 ## 2023
 
+- [Improving Visual Studio performance with the new Instrumentation Tool](https://devblogs.microsoft.com/visualstudio/improving-visual-studio-performance-with-the-new-instrumentation-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.13)</small>
+- [Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.12)</small>
+- [Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
+- [Announcing .NET MAUI in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
+- [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
+- [Announcing .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
+- [.NET April 2023 Updates – .NET 7.0.5, .NET 6.0.16](https://devblogs.microsoft.com/dotnet/april-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://devblogs.microsoft.com/dotnet/30-days-of-azure-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
 - [Learn how to modernize your .NET apps from the pros!](https://devblogs.microsoft.com/dotnet/learn-how-to-modernize-your-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
-
 - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel Stacks](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.06)</small>
 - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.04)</small>
 - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.03)</small>
