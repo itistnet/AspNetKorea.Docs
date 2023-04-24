@@ -5,6 +5,9 @@
 
 ## 2023
 
+- [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>
+- [Git Tooling Preview Features to Enhance Productivity](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.19)</small>
+- [Running non-root .NET containers with Kubernetes](https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.17)</small>
 - [Improving Visual Studio performance with the new Instrumentation Tool](https://devblogs.microsoft.com/visualstudio/improving-visual-studio-performance-with-the-new-instrumentation-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.13)</small>
 - [Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.12)</small>
 - [Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>

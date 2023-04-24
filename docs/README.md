@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>
+- `.NET 관련 소식` - [Git Tooling Preview Features to Enhance Productivity](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.19)</small>
+- `.NET 관련 소식` - [Running non-root .NET containers with Kubernetes](https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.17)</small>
 - `.NET 관련 소식` - [Improving Visual Studio performance with the new Instrumentation Tool](https://devblogs.microsoft.com/visualstudio/improving-visual-studio-performance-with-the-new-instrumentation-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.13)</small>
 - `.NET 관련 소식` - [Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.12)</small>
 - `.NET 관련 소식` - [Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel Stacks](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.06)</small>
 - `.NET 관련 소식` - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.04)</small>
 - `.NET 관련 소식` - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.03)</small>
-- `.NET 관련 소식` - [Improving multi-platform container support](https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.29)</small>
+<!-- - `.NET 관련 소식` - [Improving multi-platform container support](https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.29)</small>
 - `.NET 관련 소식` - [Visual Studio Toolbox: Integrated C++ Game Development](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-integrated-c-game-development/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
 - `.NET 관련 소식` - [Create a portfolio website without installing any tools](https://devblogs.microsoft.com/dotnet/codespaces-template-blazor-portfolio-website/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
-<!-- - `.NET 관련 소식` - [Discover .NET 7 SDK Containers – Support for Authentication and Cross-architecture Builds](https://devblogs.microsoft.com/dotnet/updates-to-container-support-in-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
+- `.NET 관련 소식` - [Discover .NET 7 SDK Containers – Support for Authentication and Cross-architecture Builds](https://devblogs.microsoft.com/dotnet/updates-to-container-support-in-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
 - `.NET 관련 소식` - [GitHub Copilot chat for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/github-copilot-chat-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.22)</small>
 - `.NET 관련 소식` - [Streamlining your Debugging process with Breakpoint Groups](https://devblogs.microsoft.com/visualstudio/streamlining-your-debugging-process-with-breakpoint-groups/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.21)</small>
 - `.NET 관련 소식` - [.NET Performance Delivers Again for Bing, From .NET 5 to .NET 7](https://devblogs.microsoft.com/dotnet/dotnet-performance-delivers-again-for-bing-from-dotnet-5-to-dotnet-7/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.21)</small>
