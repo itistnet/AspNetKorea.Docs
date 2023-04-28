@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
+- `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
+- `.NET 관련 소식` - [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.26)</small>
+- `.NET 관련 소식` - [.NET Framework April 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2023-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- `.NET 관련 소식` - [Let’s Learn .NET Virtual Events – All Around the World](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- `.NET 관련 소식` - [Drawing Elements on Maps with .NET MAUI](https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- `.NET 관련 소식` - [Join the .NET Team at Microsoft Build 2023!](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.24)</small>
 - `.NET 관련 소식` - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>
 - `.NET 관련 소식` - [Git Tooling Preview Features to Enhance Productivity](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.19)</small>
 - `.NET 관련 소식` - [Running non-root .NET containers with Kubernetes](https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.17)</small>
@@ -20,14 +27,14 @@
 - `.NET 관련 소식` - [Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [Announcing .NET MAUI in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
-- `.NET 관련 소식` - [Announcing .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
+<!-- - `.NET 관련 소식` - [Announcing .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [.NET April 2023 Updates – .NET 7.0.5, .NET 6.0.16](https://devblogs.microsoft.com/dotnet/april-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://devblogs.microsoft.com/dotnet/30-days-of-azure-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
 - `.NET 관련 소식` - [Learn how to modernize your .NET apps from the pros!](https://devblogs.microsoft.com/dotnet/learn-how-to-modernize-your-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
 - `.NET 관련 소식` - [Visual Studio Toolbox: Debug Threads & Tasks with Parallel Stacks](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-debug-threads-tasks-with-parallel-stacks/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.06)</small>
 - `.NET 관련 소식` - [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.04)</small>
 - `.NET 관련 소식` - [ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.03)</small>
-<!-- - `.NET 관련 소식` - [Improving multi-platform container support](https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.29)</small>
+- `.NET 관련 소식` - [Improving multi-platform container support](https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.29)</small>
 - `.NET 관련 소식` - [Visual Studio Toolbox: Integrated C++ Game Development](https://devblogs.microsoft.com/visualstudio/visual-studio-toolbox-integrated-c-game-development/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
 - `.NET 관련 소식` - [Create a portfolio website without installing any tools](https://devblogs.microsoft.com/dotnet/codespaces-template-blazor-portfolio-website/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>
 - `.NET 관련 소식` - [Discover .NET 7 SDK Containers – Support for Authentication and Cross-architecture Builds](https://devblogs.microsoft.com/dotnet/updates-to-container-support-in-the-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2023.03.23)</small>

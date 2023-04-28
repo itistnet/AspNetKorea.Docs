@@ -5,6 +5,13 @@
 
 ## 2023
 
+- [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
+- [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
+- [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.26)</small>
+- [.NET Framework April 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2023-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- [Let’s Learn .NET Virtual Events – All Around the World](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- [Drawing Elements on Maps with .NET MAUI](https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- [Join the .NET Team at Microsoft Build 2023!](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.24)</small>
 - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>
 - [Git Tooling Preview Features to Enhance Productivity](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.19)</small>
 - [Running non-root .NET containers with Kubernetes](https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.17)</small>
