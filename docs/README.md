@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Microsoft Azure Virtual Training Day: 클라우드 네이티브 앱을 통한 혁신 및 확장](https://mktoevents.com/Microsoft+Event/397351/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30 ~ 31)</small>
+- `.NET 관련 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/396551/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.24 ~ 25)</small>
+- `.NET 관련 소식` - [Microsoft 스마트워크 데이](https://msevents.microsoft.com/event?id=3236502138&WT_mc_id=DOP-MVP-4027259) <small>(2023.05.17)</small>
+- `.NET 관련 소식` - [Microsoft Azure Virtual Training Day: 최신 분석을 통한 디지털 트랜스포메이션](https://mktoevents.com/Microsoft+Event/396541/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.15 ~ 16)</small>
+- `.NET 관련 소식` - [Google I/O 2023](https://io.google/2023) <small>(2023.05.11 ~ 12)</small>
 - `.NET 관련 소식` - [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
 - `.NET 관련 소식` - [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.26)</small>
@@ -22,12 +27,12 @@
 - `.NET 관련 소식` - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>
 - `.NET 관련 소식` - [Git Tooling Preview Features to Enhance Productivity](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.19)</small>
 - `.NET 관련 소식` - [Running non-root .NET containers with Kubernetes](https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.17)</small>
-- `.NET 관련 소식` - [Improving Visual Studio performance with the new Instrumentation Tool](https://devblogs.microsoft.com/visualstudio/improving-visual-studio-performance-with-the-new-instrumentation-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.13)</small>
+<!--- `.NET 관련 소식` - [Improving Visual Studio performance with the new Instrumentation Tool](https://devblogs.microsoft.com/visualstudio/improving-visual-studio-performance-with-the-new-instrumentation-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.13)</small>
 - `.NET 관련 소식` - [Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.12)</small>
 - `.NET 관련 소식` - [Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [Announcing .NET MAUI in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
-<!-- - `.NET 관련 소식` - [Announcing .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
+- `.NET 관련 소식` - [Announcing .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [.NET April 2023 Updates – .NET 7.0.5, .NET 6.0.16](https://devblogs.microsoft.com/dotnet/april-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.11)</small>
 - `.NET 관련 소식` - [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://devblogs.microsoft.com/dotnet/30-days-of-azure-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>
 - `.NET 관련 소식` - [Learn how to modernize your .NET apps from the pros!](https://devblogs.microsoft.com/dotnet/learn-how-to-modernize-your-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.10)</small>

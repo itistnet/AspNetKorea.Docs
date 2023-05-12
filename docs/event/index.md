@@ -4,7 +4,12 @@
 
 ## 2023
 
+- [Microsoft Azure Virtual Training Day: 클라우드 네이티브 앱을 통한 혁신 및 확장](https://mktoevents.com/Microsoft+Event/397351/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30 ~ 31)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/396551/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.24 ~ 25)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft 스마트워크 데이](https://msevents.microsoft.com/event?id=3236502138&WT_mc_id=DOP-MVP-4027259) <small>(2023.05.17)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: 최신 분석을 통한 디지털 트랜스포메이션](https://mktoevents.com/Microsoft+Event/396541/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.15 ~ 16)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Build 2023](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
+- [Google I/O 2023](https://io.google/2023) <small>(2023.05.11 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
 - [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) <small>(2023.05.03 ~ 04)</small> <span class="spnBadgeType2">오프라인</span>
 - [Azure Developers - .NET Day](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.05)</small> <span class="spnBadgeType1">온라인</span>
 
