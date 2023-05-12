@@ -5,6 +5,11 @@
 
 ## 2023
 
+- [Surround selection experiment](https://devblogs.microsoft.com/visualstudio/surround-selection-experiment/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.11)</small>
+- [Visual Studio UI Refresh](https://devblogs.microsoft.com/visualstudio/visual-studio-ui-refresh/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.10)</small>
+- [Upcoming availability of .NET Framework 4.8.1 on Windows Update and Catalog](https://devblogs.microsoft.com/dotnet/upcoming-availability-of-net-framework-4-8-1-on-windows-update-and-catalog/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.09)</small>
+- [Announcing a new version of the .NET Upgrade Assistant with support for .NET MAUI and Azure Functions!](https://devblogs.microsoft.com/dotnet/upgrade-assistant-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.02)</small>
+- [Web API development in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/web-api-development-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.01)</small>
 - [Exploring JavaScript and TypeScript Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-javascript-and-typescript-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
 - [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
 - [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.26)</small>
