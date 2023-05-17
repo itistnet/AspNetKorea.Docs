@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [Cloud Native Infrastructure with Azure](https://clouddamcdnprodep.azureedge.net/gdc/gdcxZiG7n/original) <small>(2023)</small>
 - `.NET 관련 소식` - [Surround selection experiment](https://devblogs.microsoft.com/visualstudio/surround-selection-experiment/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.11)</small>
 - `.NET 관련 소식` - [Visual Studio UI Refresh](https://devblogs.microsoft.com/visualstudio/visual-studio-ui-refresh/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.10)</small>
 - `.NET 관련 소식` - [Upcoming availability of .NET Framework 4.8.1 on Windows Update and Catalog](https://devblogs.microsoft.com/dotnet/upcoming-availability-of-net-framework-4-8-1-on-windows-update-and-catalog/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.09)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
 - `.NET 관련 소식` - [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.26)</small>
 - `.NET 관련 소식` - [.NET Framework April 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2023-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
-- `.NET 관련 소식` - [Let’s Learn .NET Virtual Events – All Around the World](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
-<!--- `.NET 관련 소식` - [Drawing Elements on Maps with .NET MAUI](https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+<!--- `.NET 관련 소식` - [Let’s Learn .NET Virtual Events – All Around the World](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- `.NET 관련 소식` - [Drawing Elements on Maps with .NET MAUI](https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
 - `.NET 관련 소식` - [Join the .NET Team at Microsoft Build 2023!](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.24)</small>
 - `.NET 관련 소식` - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>
 - `.NET 관련 소식` - [Git Tooling Preview Features to Enhance Productivity](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.19)</small>

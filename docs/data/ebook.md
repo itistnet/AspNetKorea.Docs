@@ -16,6 +16,7 @@
 
 ## Azure
 
+- <img src="image/ebook/cloud-native-infrastructure-with-azure.png" class="imgEbookCover"> [Cloud Native Infrastructure with Azure](https://clouddamcdnprodep.azureedge.net/gdc/gdcxZiG7n/original) <small>(2023)</small>
 - <img src="image/ebook/modernize-existing-net-applications-with-azure-cloud-and-windows-containers.png" class="imgEbookCover"> [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/ko-kr/dotnet/architecture/modernize-with-azure-containers/?WT.mc_id=AZ-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
 - <img src="image/ebook/architecting-cloud-native-net-applications-for-azure.png" class="imgEbookCover"> [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/cloud-native/?WT.mc_id=AZ-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
 - <img src="image/ebook/containerized-docker-application-lifecycle-with-microsoft-platform-and-tools.png" class="imgEbookCover"> [Containerized Docker Application Lifecycle with Microsoft Platform and Tools](https://docs.microsoft.com/ko-kr/dotnet/architecture/containerized-lifecycle/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=AZ-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
