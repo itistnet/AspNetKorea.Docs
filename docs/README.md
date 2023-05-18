@@ -12,6 +12,14 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Visual Studio 2022 17.7 Preview 1 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-7-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.17)</small>
+- `.NET 관련 소식` - [Announcing .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- `.NET 관련 소식` - [ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- `.NET 관련 소식` - [EF Core 8 Preview 4: Primitive collections and improved Contains](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 – 17.6 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- `.NET 관련 소식` - [Get Ready for Visual Studio at Build 2023:Join Tens of Thousands Online!](https://devblogs.microsoft.com/visualstudio/get-ready-for-visual-studio-at-build-2023-join-tens-of-thousands-online/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.15)</small>
+- `.NET 관련 소식` - [Level up your GPT game with prompt engineering](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.12)</small>
+- `.NET 관련 소식` - [Join us for HackTogether: The Microsoft Teams Global Hack](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.12)</small>
 - `e-Book` - [Cloud Native Infrastructure with Azure](https://clouddamcdnprodep.azureedge.net/gdc/gdcxZiG7n/original) <small>(2023)</small>
 - `.NET 관련 소식` - [Surround selection experiment](https://devblogs.microsoft.com/visualstudio/surround-selection-experiment/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.11)</small>
 - `.NET 관련 소식` - [Visual Studio UI Refresh](https://devblogs.microsoft.com/visualstudio/visual-studio-ui-refresh/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.10)</small>
@@ -19,7 +27,7 @@
 - `.NET 관련 소식` - [Announcing a new version of the .NET Upgrade Assistant with support for .NET MAUI and Azure Functions!](https://devblogs.microsoft.com/dotnet/upgrade-assistant-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.02)</small>
 - `.NET 관련 소식` - [Web API development in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/web-api-development-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.01)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 클라우드 네이티브 앱을 통한 혁신 및 확장](https://mktoevents.com/Microsoft+Event/397351/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30 ~ 31)</small>
-- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/396551/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.24 ~ 25)</small>
+<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/396551/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.24 ~ 25)</small>
 - `행사 소식` - [Microsoft 스마트워크 데이](https://msevents.microsoft.com/event?id=3236502138&WT_mc_id=DOP-MVP-4027259) <small>(2023.05.17)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 최신 분석을 통한 디지털 트랜스포메이션](https://mktoevents.com/Microsoft+Event/396541/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.15 ~ 16)</small>
 - `행사 소식` - [Google I/O 2023](https://io.google/2023) <small>(2023.05.11 ~ 12)</small>
@@ -27,7 +35,7 @@
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.2! Faster generators, code fixers, performance improvements and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-820/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.27)</small>
 - `.NET 관련 소식` - [Get Started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.26)</small>
 - `.NET 관련 소식` - [.NET Framework April 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2023-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
-<!--- `.NET 관련 소식` - [Let’s Learn .NET Virtual Events – All Around the World](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
+- `.NET 관련 소식` - [Let’s Learn .NET Virtual Events – All Around the World](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
 - `.NET 관련 소식` - [Drawing Elements on Maps with .NET MAUI](https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.25)</small>
 - `.NET 관련 소식` - [Join the .NET Team at Microsoft Build 2023!](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.24)</small>
 - `.NET 관련 소식` - [Improving the Syntax Highlighting of JavaScript in Visual Studio](https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/?WT_mc_id=DOP-MVP-4027259) <small>(2023.04.21)</small>

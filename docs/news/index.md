@@ -5,6 +5,14 @@
 
 ## 2023
 
+- [Visual Studio 2022 17.7 Preview 1 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-7-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.17)</small>
+- [Announcing .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- [ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- [EF Core 8 Preview 4: Primitive collections and improved Contains](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- [Visual Studio 2022 – 17.6 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
+- [Get Ready for Visual Studio at Build 2023:Join Tens of Thousands Online!](https://devblogs.microsoft.com/visualstudio/get-ready-for-visual-studio-at-build-2023-join-tens-of-thousands-online/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.15)</small>
+- [Level up your GPT game with prompt engineering](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.12)</small>
+- [Join us for HackTogether: The Microsoft Teams Global Hack](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.12)</small>
 - [Surround selection experiment](https://devblogs.microsoft.com/visualstudio/surround-selection-experiment/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.11)</small>
 - [Visual Studio UI Refresh](https://devblogs.microsoft.com/visualstudio/visual-studio-ui-refresh/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.10)</small>
 - [Upcoming availability of .NET Framework 4.8.1 on Windows Update and Catalog](https://devblogs.microsoft.com/dotnet/upcoming-availability-of-net-framework-4-8-1-on-windows-update-and-catalog/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.09)</small>
