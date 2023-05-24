@@ -5,6 +5,16 @@
 
 ## 2023
 
+- [Visual Studio 2022 – 17.6 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
+- [Turbocharge your Visual Studio experience with Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/turbocharge-your-visual-studio-experience-with-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
+- [.NET Framework May 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-may-2023-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
+- [Transform your business with smart .NET apps powered by Azure and ChatGPT](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
+- [Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.22)</small>
+- [Get started with ChatGPT in .NET](https://devblogs.microsoft.com/dotnet/get-started-chatgpt-azure-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.18)</small>
+- [Object Detection in ML.NET Model Builder](https://devblogs.microsoft.com/dotnet/object-detection-ml-dotnet-model-builder/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.18)</small>
+- [Client Support for Calling WCF/CoreWCF with System.ServiceModel 6.0 Is Here!](https://devblogs.microsoft.com/dotnet/wcf-client-60-has-been-released/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.18)</small>
+- [Hot Reload Supports Modifying Generics!](https://devblogs.microsoft.com/dotnet/hot-reload-generics/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.18)</small>
+- [Sticky Scroll: Stay in the Right Context](https://devblogs.microsoft.com/visualstudio/sticky-scroll-stay-in-the-right-context/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.18)</small>
 - [Visual Studio 2022 17.7 Preview 1 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-7-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.17)</small>
 - [Announcing .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
 - [ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.16)</small>
