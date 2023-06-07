@@ -5,6 +5,16 @@
 
 ## 2023
 
+- [HackTogether: the Microsoft Teams Global Hack – Keynote Recap and What’s Coming](https://devblogs.microsoft.com/dotnet/hacktogether-recap-whats-coming/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>
+- [Announcing C# Dev Kit for Visual Studio Code](https://devblogs.microsoft.com/visualstudio/announcing-csharp-dev-kit-for-visual-studio-code/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>
+- [What’s New in SSDT 17.6: Ledger, Performance, Copilot](https://devblogs.microsoft.com/visualstudio/whats-new-in-ssdt-17-6-ledger-performance-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.05)</small>
+- [Announcing an update for .NET Upgrade Assistant with a new CLI tool!](https://devblogs.microsoft.com/dotnet/upgrade-assistant-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.01)</small>
+- [Speech Recognition in .NET MAUI with CommunityToolkit](https://devblogs.microsoft.com/dotnet/speech-recognition-in-dotnet-maui-with-community-toolkit/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.31)</small>
+- [Iterating on your Welcome Experience feedback](https://devblogs.microsoft.com/visualstudio/welcome-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30)</small>
+- [Create a Microsoft Power App for your ASP.NET Core Web API](https://devblogs.microsoft.com/visualstudio/create-a-microsoft-power-app-for-your-asp-net-core-web-api/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30)</small>
+- [Unified Settings: Share Your Feedback!](https://devblogs.microsoft.com/visualstudio/unifiedsettings/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.25)</small>
+- [All-In-One Search available in 17.6](https://devblogs.microsoft.com/visualstudio/all-in-one-search-available-in-17-6/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.25)</small>
+- [Dev Drive for Performance Improvements in Visual Studio and Dev Boxes!](https://devblogs.microsoft.com/visualstudio/devdrive/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.24)</small>
 - [Visual Studio 2022 – 17.6 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
 - [Turbocharge your Visual Studio experience with Microsoft Dev Box](https://devblogs.microsoft.com/visualstudio/turbocharge-your-visual-studio-experience-with-microsoft-dev-box/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
 - [.NET Framework May 2023 Cumulative Update Preview Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-may-2023-cumulative-update-preview-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.23)</small>
