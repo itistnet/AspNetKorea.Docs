@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft AI Day: Road to Copilot](https://msevents.microsoft.com/event?id=3882622082?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.21)</small>
 - `행사 소식` - [NHN Cloud make IT 2023](https://makeit.nhncloud.com/2023) <small>(2023.06.22)</small>
 - `.NET 관련 소식` - [HackTogether: the Microsoft Teams Global Hack – Keynote Recap and What’s Coming](https://devblogs.microsoft.com/dotnet/hacktogether-recap-whats-coming/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>
 - `.NET 관련 소식` - [Announcing C# Dev Kit for Visual Studio Code](https://devblogs.microsoft.com/visualstudio/announcing-csharp-dev-kit-for-visual-studio-code/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>

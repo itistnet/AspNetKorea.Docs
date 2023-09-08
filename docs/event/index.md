@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [Microsoft AI Day: Road to Copilot](https://msevents.microsoft.com/event?id=3882622082?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.21)</small> <span class="spnBadgeType1">온라인</span>
 - [NHN Cloud make IT 2023](https://makeit.nhncloud.com/2023) <small>(2023.06.22)</small> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft Azure Virtual Training Day: 클라우드 네이티브 앱을 통한 혁신 및 확장](https://mktoevents.com/Microsoft+Event/397351/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30 ~ 31)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/396551/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.24 ~ 25)</small> <span class="spnBadgeType1">온라인</span>
