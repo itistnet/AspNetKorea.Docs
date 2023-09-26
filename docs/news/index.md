@@ -68,7 +68,6 @@
 - [Improved Source Generators and Code Fixers Arrive in .NET Community Toolkit 8.2.1!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-821/?WT_mc_id=DOP-MVP-4027259) <small>(2023.07.06)</small>
 - [Improvements to the Caching Abstraction in ASP.NET Core](https://devblogs.microsoft.com/dotnet/caching-abstraction-improvements-in-aspnetcore/?WT_mc_id=DOP-MVP-4027259) <small>(2023.07.06)</small>
 - [Improved F# hints in Visual Studio](https://devblogs.microsoft.com/dotnet/improved-fsharp-hints-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.07.05)</small>
-
 - [.NET Framework 4.8.1 is available on Windows Update and Catalog](https://devblogs.microsoft.com/dotnet/upcoming-availability-of-net-framework-4-8-1-on-windows-update-and-catalog/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.27)</small>
 - [Visual Studio Toolbox: Accelerate your builds of SDK-style .NET projects](https://devblogs.microsoft.com/visualstudio/vs-toolbox-accelerate-your-builds-of-sdk-style-net-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.22)</small>
 - [Get ready for fsharpConf 2023!](https://devblogs.microsoft.com/dotnet/tune-in-for-fsharpconf-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.21)</small>
@@ -85,7 +84,6 @@
 - [The Microsoft Teams Global Hack – Week 1 Recap and What’s Coming](https://devblogs.microsoft.com/dotnet/hacktogether-recap-week1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.12)</small>
 - [Installing Visual Studio from an Internal Intranet Website](https://devblogs.microsoft.com/visualstudio/installing-visual-studio-from-an-internal-website/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.12)</small>
 - [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.08)</small>
-
 - [HackTogether: the Microsoft Teams Global Hack – Keynote Recap and What’s Coming](https://devblogs.microsoft.com/dotnet/hacktogether-recap-whats-coming/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>
 - [Announcing C# Dev Kit for Visual Studio Code](https://devblogs.microsoft.com/visualstudio/announcing-csharp-dev-kit-for-visual-studio-code/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>
 - [What’s New in SSDT 17.6: Ledger, Performance, Copilot](https://devblogs.microsoft.com/visualstudio/whats-new-in-ssdt-17-6-ledger-performance-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.05)</small>
