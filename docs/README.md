@@ -12,6 +12,29 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Ignite 2023](https://www.dotnetconf.net/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.15 ~ 16)</small>
+- `행사 소식` - [.NET Conf 2023](https://www.dotnetconf.net/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14 ~ 16)</small>
+- `.NET 관련 소식` - [Building 3D Applications and Content with .NET MAUI and Evergine](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.20)</small>
+- `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/412067/157-GQE-382?ocid=eml_pg413807_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPA8P2AsHI6n18fqJyRzFJ7UYR2HKvSgSqCIngnCJu58m7c7kTHR85nEn06MEGfrjHrW918xigDPerUnHWeYiuEQamuzh6rEHfUdzzFd1_LpSbT4fngTn-?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
+- `.NET 관련 소식` - [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
+- `.NET 관련 소식` - [Performance Improvements in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.16)</small>
+- `.NET 관련 소식` - [.NET Framework October 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.13)</small>
+- `.NET 관련 소식` - [Designed with your feedback: a better Extension Manager](https://devblogs.microsoft.com/visualstudio/updating-the-extension-manager-with-your-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.12)</small>
+- `.NET 관련 소식` - [Overhauled F# code fixes in Visual Studio](https://devblogs.microsoft.com/dotnet/overhauled-fsharp-code-fixes-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 17.8 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- `.NET 관련 소식` - [.NET October 2023 Updates – .NET 7.0.13, .NET 6.0.24](https://devblogs.microsoft.com/dotnet/october-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- `.NET 관련 소식` - [EF Core 8 Release Candidate 2: Smaller features in EF8](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- `.NET 관련 소식` - [Announcing .NET MAUI in .NET 8 Release Candidate 2: More Quality](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- `.NET 관련 소식` - [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+<!--- `.NET 관련 소식` - [Announcing .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- `.NET 관련 소식` - [How Microsoft Empowers Developers with Disabilities: Celebrating NDEAM](https://devblogs.microsoft.com/visualstudio/celebrating-ndeam-vs-code-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.05)</small>
+- `.NET 관련 소식` - [The convenience of System.Text.Json](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-text-json/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.05)</small>
+- `.NET 관련 소식` - [C# Dev Kit – Now Generally Available](https://devblogs.microsoft.com/dotnet/csharp-dev-kit-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.04)</small>
+- `.NET 관련 소식` - [Arm64 Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.03)</small>
+- `.NET 관련 소식` - [The .NET Conf Student Zone is Back!](https://devblogs.microsoft.com/dotnet/the-dotnet-conf-student-zone-is-back/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.02)</small>
+- `.NET 관련 소식` - [.NET Framework September 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.27)</small>
+- `.NET 관련 소식` - [Get a Sneak Peek: The Visual Studio ‘Tea & Technology’ Miniseries](https://devblogs.microsoft.com/visualstudio/visual-studio-tea-technology-miniseries/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.27)</small>
+- `.NET 관련 소식` - [Debugging Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/debugging-enhancements-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.26)</small>
 - `.NET 관련 소식` - [A unit of profiling makes the allocations go away](https://devblogs.microsoft.com/visualstudio/a-unit-of-profiling-makes-the-allocations-go-away/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.25)</small>
 - `.NET 관련 소식` - [The convenience of .NET](https://devblogs.microsoft.com/dotnet/the-convenience-of-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.25)</small>
 - `.NET 관련 소식` - [Tune into the C# Certification Training Series](https://devblogs.microsoft.com/dotnet/csharp-certification-training-series/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.22)</small>
@@ -27,7 +50,7 @@
 - `.NET 관련 소식` - [.NET Framework September 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.12)</small>
 - `.NET 관련 소식` - [Announcing .NET 8 RC1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.12)</small>
 - `.NET 관련 소식` - [EF Core 8 RC1: Complex types as value objects](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.12)</small>
-<!--- `.NET 관련 소식` - [Announcing .NET MAUI in .NET 8 Release Candidate 1: Quality](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.12)</small>
+- `.NET 관련 소식` - [Announcing .NET MAUI in .NET 8 Release Candidate 1: Quality](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.12)</small>
 - `행사 소식` - [NHN Cloud make IT 2023](https://makeit.nhncloud.com/2023) <small>(2023.06.22)</small>
 - `.NET 관련 소식` - [HackTogether: the Microsoft Teams Global Hack – Keynote Recap and What’s Coming](https://devblogs.microsoft.com/dotnet/hacktogether-recap-whats-coming/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>
 - `.NET 관련 소식` - [Announcing C# Dev Kit for Visual Studio Code](https://devblogs.microsoft.com/visualstudio/announcing-csharp-dev-kit-for-visual-studio-code/?WT_mc_id=DOP-MVP-4027259) <small>(2023.06.06)</small>

@@ -5,6 +5,26 @@
 
 ## 2023
 
+- [Building 3D Applications and Content with .NET MAUI and Evergine](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.20)</small>
+- [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
+- [Performance Improvements in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.16)</small>
+- [.NET Framework October 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.13)</small>
+- [Designed with your feedback: a better Extension Manager](https://devblogs.microsoft.com/visualstudio/updating-the-extension-manager-with-your-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.12)</small>
+- [Overhauled F# code fixes in Visual Studio](https://devblogs.microsoft.com/dotnet/overhauled-fsharp-code-fixes-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
+- [Visual Studio 2022 17.8 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- [.NET October 2023 Updates – .NET 7.0.13, .NET 6.0.24](https://devblogs.microsoft.com/dotnet/october-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- [EF Core 8 Release Candidate 2: Smaller features in EF8](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- [Announcing .NET MAUI in .NET 8 Release Candidate 2: More Quality](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- [Announcing .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
+- [How Microsoft Empowers Developers with Disabilities: Celebrating NDEAM](https://devblogs.microsoft.com/visualstudio/celebrating-ndeam-vs-code-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.05)</small>
+- [The convenience of System.Text.Json](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-text-json/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.05)</small>
+- [C# Dev Kit – Now Generally Available](https://devblogs.microsoft.com/dotnet/csharp-dev-kit-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.04)</small>
+- [Arm64 Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.03)</small>
+- [The .NET Conf Student Zone is Back!](https://devblogs.microsoft.com/dotnet/the-dotnet-conf-student-zone-is-back/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.02)</small>
+- [.NET Framework September 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.27)</small>
+- [Get a Sneak Peek: The Visual Studio ‘Tea & Technology’ Miniseries](https://devblogs.microsoft.com/visualstudio/visual-studio-tea-technology-miniseries/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.27)</small>
+- [Debugging Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/debugging-enhancements-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.26)</small>
 - [A unit of profiling makes the allocations go away](https://devblogs.microsoft.com/visualstudio/a-unit-of-profiling-makes-the-allocations-go-away/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.25)</small>
 - [The convenience of .NET](https://devblogs.microsoft.com/dotnet/the-convenience-of-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.25)</small>
 - [Tune into the C# Certification Training Series](https://devblogs.microsoft.com/dotnet/csharp-certification-training-series/?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.22)</small>

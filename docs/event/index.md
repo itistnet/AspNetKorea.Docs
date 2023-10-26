@@ -4,6 +4,9 @@
 
 ## 2023
 
+- [Microsoft Ignite 2023](https://www.dotnetconf.net/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.15 ~ 16)</small> <span class="spnBadgeType1">온라인</span>
+- [.NET Conf 2023](https://www.dotnetconf.net/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14 ~ 16)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/412067/157-GQE-382?ocid=eml_pg413807_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPA8P2AsHI6n18fqJyRzFJ7UYR2HKvSgSqCIngnCJu58m7c7kTHR85nEn06MEGfrjHrW918xigDPerUnHWeYiuEQamuzh6rEHfUdzzFd1_LpSbT4fngTn-?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft AI Day: Road to Copilot](https://msevents.microsoft.com/event?id=3882622082?WT_mc_id=DOP-MVP-4027259) <small>(2023.09.21)</small> <span class="spnBadgeType1">온라인</span>
 - [NHN Cloud make IT 2023](https://makeit.nhncloud.com/2023) <small>(2023.06.22)</small> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft Azure Virtual Training Day: 클라우드 네이티브 앱을 통한 혁신 및 확장](https://mktoevents.com/Microsoft+Event/397351/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2023.05.30 ~ 31)</small> <span class="spnBadgeType1">온라인</span>
