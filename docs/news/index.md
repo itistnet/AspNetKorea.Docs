@@ -5,6 +5,12 @@
 
 ## 2023
 
+- [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
+- [Trying out MongoDB with EF Core using Testcontainers](https://devblogs.microsoft.com/dotnet/efcore-mongodb/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
+- [Latest Updates for CMake Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/latest-updates-for-cmake-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.01)</small>
+- [.NET 8 Performance Improvements in .NET MAUI](https://devblogs.microsoft.com/dotnet/dotnet-8-performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.31)</small>
+- [Microsoft Ignite 2023 is around the corner! (Nov 14-17)](https://devblogs.microsoft.com/visualstudio/microsoft-ignite-2023-is-around-the-corner-nov-14-17/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.26)</small>
+- [.NET Framework October 2023 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/net-framework-october-2023-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.26)</small>
 - [Building 3D Applications and Content with .NET MAUI and Evergine](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.20)</small>
 - [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
 - [Performance Improvements in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.16)</small>
