@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414750/157-GQE-382?ocid=eml_pg415442_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPSwChX-9oAAcab8LwlU-DiUvZuSiu6vR5gmtsmKmlrKQFO02Kz_3EsJcuCLvUyun2hbAKmRc38FOpgPKxDJlNcSkJWTHAFl2-M4CJ_HtJi-0rNAMS2yv1&WT_mc_id=DOP-MVP-4027259) <small>(2023.12.06 ~ 07)</small>
+- `.NET 관련 소식` - [Join us for the Great .NET 8 Hack](https://devblogs.microsoft.com/dotnet/join-us-for-the-great-dotnet-8-hack/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.07)</small>
+- `.NET 관련 소식` - [The convenience of System.IO](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.06)</small>
+- `.NET 관련 소식` - [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.03)</small>
 - `.NET 관련 소식` - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
 - `.NET 관련 소식` - [Trying out MongoDB with EF Core using Testcontainers](https://devblogs.microsoft.com/dotnet/efcore-mongodb/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
 - `.NET 관련 소식` - [Latest Updates for CMake Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/latest-updates-for-cmake-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.01)</small>
@@ -22,11 +26,11 @@
 - `행사 소식` - [.NET Conf 2023](https://www.dotnetconf.net/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14 ~ 16)</small>
 - `.NET 관련 소식` - [Building 3D Applications and Content with .NET MAUI and Evergine](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.20)</small>
 - `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/412067/157-GQE-382?ocid=eml_pg413807_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPA8P2AsHI6n18fqJyRzFJ7UYR2HKvSgSqCIngnCJu58m7c7kTHR85nEn06MEGfrjHrW918xigDPerUnHWeYiuEQamuzh6rEHfUdzzFd1_LpSbT4fngTn-?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
-- `.NET 관련 소식` - [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
+<!--- `.NET 관련 소식` - [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
 - `.NET 관련 소식` - [Performance Improvements in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.16)</small>
 - `.NET 관련 소식` - [.NET Framework October 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.13)</small>
 - `.NET 관련 소식` - [Designed with your feedback: a better Extension Manager](https://devblogs.microsoft.com/visualstudio/updating-the-extension-manager-with-your-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.12)</small>
-<!--- `.NET 관련 소식` - [Overhauled F# code fixes in Visual Studio](https://devblogs.microsoft.com/dotnet/overhauled-fsharp-code-fixes-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
+- `.NET 관련 소식` - [Overhauled F# code fixes in Visual Studio](https://devblogs.microsoft.com/dotnet/overhauled-fsharp-code-fixes-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 17.8 Preview 3 is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-preview-3-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
 - `.NET 관련 소식` - [.NET October 2023 Updates – .NET 7.0.13, .NET 6.0.24](https://devblogs.microsoft.com/dotnet/october-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>
 - `.NET 관련 소식` - [EF Core 8 Release Candidate 2: Smaller features in EF8](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.10)</small>

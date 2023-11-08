@@ -5,6 +5,9 @@
 
 ## 2023
 
+- [Join us for the Great .NET 8 Hack](https://devblogs.microsoft.com/dotnet/join-us-for-the-great-dotnet-8-hack/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.07)</small>
+- [The convenience of System.IO](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.06)</small>
+- [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.03)</small>
 - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
 - [Trying out MongoDB with EF Core using Testcontainers](https://devblogs.microsoft.com/dotnet/efcore-mongodb/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
 - [Latest Updates for CMake Development in Visual Studio](https://devblogs.microsoft.com/visualstudio/latest-updates-for-cmake-development-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.01)</small>
