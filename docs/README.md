@@ -12,8 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414750/157-GQE-382?ocid=eml_pg415442_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPSwChX-9oAAcab8LwlU-DiUvZuSiu6vR5gmtsmKmlrKQFO02Kz_3EsJcuCLvUyun2hbAKmRc38FOpgPKxDJlNcSkJWTHAFl2-M4CJ_HtJi-0rNAMS2yv1&WT_mc_id=DOP-MVP-4027259) <small>(2023.12.06 ~ 07)</small>
-- `.NET 관련 소식` - [Join us for the Great .NET 8 Hack](https://devblogs.microsoft.com/dotnet/join-us-for-the-great-dotnet-8-hack/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.07)</small>
+- `.NET 관련 소식` - [Improvements & Changes in Android resource generation in .NET 8](https://devblogs.microsoft.com/dotnet/android-resource-designer-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.20)</small>
+- `.NET 관련 소식` - [Create a Pull Request with Summary Difference View Available in GA](https://devblogs.microsoft.com/visualstudio/create-a-pull-request/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.20)</small>
+- `.NET 관련 소식` - [The Visual Studio UI Refresh Preview is here!](https://devblogs.microsoft.com/visualstudio/the-visual-studio-ui-refresh-preview-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.16)</small>
+- `.NET 관련 소식` - [Introducing Visual Studio 17.9 – Preview 1 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-9-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.15)</small>
+- `.NET 관련 소식` - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [.NET Framework November 2023 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2023-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [.NET November 2023 Updates – .NET 7.0.14, .NET 6.0.25](https://devblogs.microsoft.com/dotnet/november-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Announcing C# 12](https://devblogs.microsoft.com/dotnet/announcing-csharp-12/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Entity Framework Core 8 (EF8) is available today](https://devblogs.microsoft.com/dotnet/announcing-ef8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Visual Studio 17.8 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-8-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Announcing ASP.NET Core in .NET 8](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [Announcing .NET MAUI in .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414750/157-GQE-382?ocid=eml_pg415442_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPSwChX-9oAAcab8LwlU-DiUvZuSiu6vR5gmtsmKmlrKQFO02Kz_3EsJcuCLvUyun2hbAKmRc38FOpgPKxDJlNcSkJWTHAFl2-M4CJ_HtJi-0rNAMS2yv1&WT_mc_id=DOP-MVP-4027259) <small>(2023.12.06 ~ 07)</small>
+<!--- `.NET 관련 소식` - [Join us for the Great .NET 8 Hack](https://devblogs.microsoft.com/dotnet/join-us-for-the-great-dotnet-8-hack/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.07)</small>
 - `.NET 관련 소식` - [The convenience of System.IO](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.06)</small>
 - `.NET 관련 소식` - [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.03)</small>
 - `.NET 관련 소식` - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.02)</small>
@@ -26,7 +40,7 @@
 - `행사 소식` - [.NET Conf 2023](https://www.dotnetconf.net/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14 ~ 16)</small>
 - `.NET 관련 소식` - [Building 3D Applications and Content with .NET MAUI and Evergine](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.20)</small>
 - `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/412067/157-GQE-382?ocid=eml_pg413807_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPA8P2AsHI6n18fqJyRzFJ7UYR2HKvSgSqCIngnCJu58m7c7kTHR85nEn06MEGfrjHrW918xigDPerUnHWeYiuEQamuzh6rEHfUdzzFd1_LpSbT4fngTn-?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.11)</small>
-<!--- `.NET 관련 소식` - [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
+- `.NET 관련 소식` - [Visual Studio Innovations at .NET Conf 2023: Save The Date](https://devblogs.microsoft.com/visualstudio/visual-studio-innovations-at-net-conf-2023-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.18)</small>
 - `.NET 관련 소식` - [Performance Improvements in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.16)</small>
 - `.NET 관련 소식` - [.NET Framework October 2023 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2023-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.13)</small>
 - `.NET 관련 소식` - [Designed with your feedback: a better Extension Manager](https://devblogs.microsoft.com/visualstudio/updating-the-extension-manager-with-your-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2023.10.12)</small>

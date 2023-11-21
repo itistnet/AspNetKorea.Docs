@@ -5,6 +5,20 @@
 
 ## 2023
 
+- [Improvements & Changes in Android resource generation in .NET 8](https://devblogs.microsoft.com/dotnet/android-resource-designer-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.20)</small>
+- [Create a Pull Request with Summary Difference View Available in GA](https://devblogs.microsoft.com/visualstudio/create-a-pull-request/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.20)</small>
+- [The Visual Studio UI Refresh Preview is here!](https://devblogs.microsoft.com/visualstudio/the-visual-studio-ui-refresh-preview-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.16)</small>
+- [Introducing Visual Studio 17.9 – Preview 1 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-9-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.15)</small>
+- [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [.NET Framework November 2023 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2023-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [.NET November 2023 Updates – .NET 7.0.14, .NET 6.0.25](https://devblogs.microsoft.com/dotnet/november-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Announcing C# 12](https://devblogs.microsoft.com/dotnet/announcing-csharp-12/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Entity Framework Core 8 (EF8) is available today](https://devblogs.microsoft.com/dotnet/announcing-ef8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Visual Studio 17.8 now available!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-8-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Announcing ASP.NET Core in .NET 8](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- [Announcing .NET MAUI in .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
 - [Join us for the Great .NET 8 Hack](https://devblogs.microsoft.com/dotnet/join-us-for-the-great-dotnet-8-hack/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.07)</small>
 - [The convenience of System.IO](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.06)</small>
 - [What’s new with identity in .NET 8](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.03)</small>
