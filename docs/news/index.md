@@ -5,6 +5,15 @@
 
 ## 2023
 
+- [My favorite features in Visual Studio 17.8](https://devblogs.microsoft.com/visualstudio/my-favorite-features-in-visual-studio-17-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.29)</small>
+- [Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
+- [Write Your Git Commits with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/write-your-git-commits-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
+- [Announcing ML.NET 3.0](https://devblogs.microsoft.com/dotnet/announcing-ml-net-3-0/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.27)</small>
+- [Community Feedback Building 17.8 & 17.9 Preview 1](https://devblogs.microsoft.com/visualstudio/community-feedback-building-17-8-17-9-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.23)</small>
+- [Visual Studio 2022 – 17.8 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.22)</small>
+- [Fake It Til You Make It…To Production](https://devblogs.microsoft.com/dotnet/fake-it-til-you-make-it-to-production/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.21)</small>
+- [Announcing .NET Chiseled Containers](https://devblogs.microsoft.com/dotnet/announcing-dotnet-chiseled-containers/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.21)</small>
+- [Visual Studio 2022 v17.8 Brings Increased Productivity, Further Unreal Engine Integration, and Cross-Platform Enhancements to C++](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-8-brings-increased-productivity-further-unreal-engine-integration-and-cross-platform-enhancements-to-c/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.21)</small>
 - [Improvements & Changes in Android resource generation in .NET 8](https://devblogs.microsoft.com/dotnet/android-resource-designer-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.20)</small>
 - [Create a Pull Request with Summary Difference View Available in GA](https://devblogs.microsoft.com/visualstudio/create-a-pull-request/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.20)</small>
 - [The Visual Studio UI Refresh Preview is here!](https://devblogs.microsoft.com/visualstudio/the-visual-studio-ui-refresh-preview-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.16)</small>
