@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>
 - `.NET 관련 소식` - [My favorite features in Visual Studio 17.8](https://devblogs.microsoft.com/visualstudio/my-favorite-features-in-visual-studio-17-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.29)</small>
 - `.NET 관련 소식` - [Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
 - `.NET 관련 소식` - [Write Your Git Commits with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/write-your-git-commits-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [The Visual Studio UI Refresh Preview is here!](https://devblogs.microsoft.com/visualstudio/the-visual-studio-ui-refresh-preview-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.16)</small>
 - `.NET 관련 소식` - [Introducing Visual Studio 17.9 – Preview 1 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-9-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.15)</small>
 - `.NET 관련 소식` - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
-- `.NET 관련 소식` - [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
-<!--- `.NET 관련 소식` - [.NET Framework November 2023 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2023-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+<!--- `.NET 관련 소식` - [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
+- `.NET 관련 소식` - [.NET Framework November 2023 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2023-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
 - `.NET 관련 소식` - [.NET November 2023 Updates – .NET 7.0.14, .NET 6.0.25](https://devblogs.microsoft.com/dotnet/november-2023-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
 - `.NET 관련 소식` - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
 - `.NET 관련 소식` - [Announcing C# 12](https://devblogs.microsoft.com/dotnet/announcing-csharp-12/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.14)</small>
