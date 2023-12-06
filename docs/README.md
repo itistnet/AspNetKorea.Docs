@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small>
 - `행사 소식` - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=610214847) <small>(2023.12.21)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414634/157-GQE-382?ocid=eml_pg418750_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAGP0cH1yjpSB8Yc3rQPQt4DL0-rQlobr6rIuWgqjp6MwAjIB52vqZvd66JwvpaJeADkfWriVVeZg4ffDtpuTxkaD1HLcvj3Xm6ATZtLeSY7kByypEBjOQ43xj2Q) <small>(2023.12.18 ~ 19)</small>
 - `e-Book` - [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>
