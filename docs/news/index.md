@@ -5,6 +5,18 @@
 
 ## 2023
 
+- [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.19)</small>
+- [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.18)</small>
+- [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.15)</small>
+- [Visual Studio 17.9 Preview 2 has arrived!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-9-preview-2-has-arrived/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.12)</small>
+- [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.11)</small>
+- [.NET Conf 2023 Recap – Celebrating Community, Innovation, and the Launch of .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-conf-2023-recap-videos-slides-demos-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.07)</small>
+- [.NET 8 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-8-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.07)</small>
+- [Learn .NET 8 with New Beginner Videos](https://devblogs.microsoft.com/dotnet/learn-dotnet8-beginner-videos/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.06)</small>
+- [Embracing SQL Server 2022 with SSDT 17.8: Unveiling Key Updates](https://devblogs.microsoft.com/visualstudio/embracing-sql-server-2022-with-ssdt-17-8-unveiling-key-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.05)</small>
+- [Scroll to expand document tabs](https://devblogs.microsoft.com/visualstudio/scroll-to-expand-document-tabs/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.04)</small>
+- [Extending WebAssembly to the Cloud with .NET](https://devblogs.microsoft.com/dotnet/extending-web-assembly-to-the-cloud/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.04)</small>
+- [How to make libraries compatible with native AOT](https://devblogs.microsoft.com/dotnet/creating-aot-compatible-libraries/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.30)</small>
 - [My favorite features in Visual Studio 17.8](https://devblogs.microsoft.com/visualstudio/my-favorite-features-in-visual-studio-17-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.29)</small>
 - [Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
 - [Write Your Git Commits with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/write-your-git-commits-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
