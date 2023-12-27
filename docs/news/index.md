@@ -5,6 +5,9 @@
 
 ## 2023
 
+- [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
+- [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
+- [Announcing the HackTogether: The Great .NET 8 Hack Winners](https://devblogs.microsoft.com/dotnet/great-dotnet-8-hack-winners/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
 - [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.19)</small>
 - [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.18)</small>
 - [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.15)</small>

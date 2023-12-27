@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
+- `e-Book` - [Azure 비용 거버넌스로 가는 길](https://clouddamcdnprodep.azureedge.net/gdc/gdc5gkxc2/original) <small>(2023)</small>
+- `.NET 관련 소식` - [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
+- `.NET 관련 소식` - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
+- `.NET 관련 소식` - [Announcing the HackTogether: The Great .NET 8 Hack Winners](https://devblogs.microsoft.com/dotnet/great-dotnet-8-hack-winners/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
 - `.NET 관련 소식` - [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.19)</small>
 - `.NET 관련 소식` - [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.18)</small>
 - `.NET 관련 소식` - [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.15)</small>
@@ -24,10 +29,10 @@
 - `.NET 관련 소식` - [Scroll to expand document tabs](https://devblogs.microsoft.com/visualstudio/scroll-to-expand-document-tabs/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.04)</small>
 - `.NET 관련 소식` - [Extending WebAssembly to the Cloud with .NET](https://devblogs.microsoft.com/dotnet/extending-web-assembly-to-the-cloud/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.04)</small>
 - `.NET 관련 소식` - [How to make libraries compatible with native AOT](https://devblogs.microsoft.com/dotnet/creating-aot-compatible-libraries/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.30)</small>
-- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small>
+<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small>
 - `행사 소식` - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=610214847) <small>(2023.12.21)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414634/157-GQE-382?ocid=eml_pg418750_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAGP0cH1yjpSB8Yc3rQPQt4DL0-rQlobr6rIuWgqjp6MwAjIB52vqZvd66JwvpaJeADkfWriVVeZg4ffDtpuTxkaD1HLcvj3Xm6ATZtLeSY7kByypEBjOQ43xj2Q) <small>(2023.12.18 ~ 19)</small>
-<!--- `e-Book` - [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>
+- `e-Book` - [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>
 - `.NET 관련 소식` - [My favorite features in Visual Studio 17.8](https://devblogs.microsoft.com/visualstudio/my-favorite-features-in-visual-studio-17-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.29)</small>
 - `.NET 관련 소식` - [Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>
 - `.NET 관련 소식` - [Write Your Git Commits with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/write-your-git-commits-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.28)</small>

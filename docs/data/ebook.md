@@ -2,20 +2,10 @@
 
 > e-Book 모음입니다.<br><br> > [Microsoft Docs](https://docs.microsoft.com/ko-kr/?WT.mc_id=DOP-MVP-4027259) 로 연결되는 경우에는 한국어 번역(기계 번역 포함)이 제공되기도 하니 참고 바라며, 버전 업데이트는 확인되는 대로 반영됩니다. 무료 위주로 소개하고 있으며 유료는 별도로 표시됩니다. 알고 계신 좋은 정보가 있다면 어서 빨리 추천해 주세요:smile:.
 
-## .NET MAUI(Multi-platform App UI)
-
-- <img src="image/ebook/enterprise-app-patterns-ebook.png" class="imgEbookCover"> [Enterprise Application Patterns Using .NET MAUI](https://docs.microsoft.com/ko-kr/dotnet/architecture/maui/?WT.mc_id=DOP-MVP-4027259) <small>(2022)</small>
-
-## ASP.NET
-
-- <img src="image/ebook/web-application-guide-cover-image.png" class="imgEbookCover"> [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/modern-web-apps-azure/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
-- <img src="image/ebook/aspnetcore-grpc-for-wcf-developers.png" class="imgEbookCover"> [ASP.NET Core gRPC for WCF Developers](https://docs.microsoft.com/ko-kr/dotnet/architecture/grpc-for-wcf-developers/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
-- <img src="image/ebook/blazor-for-web-forms-devs.png" class="imgEbookCover"> [Blazor for ASP.NET Web Forms Developers](https://docs.microsoft.com/ko-kr/dotnet/architecture/blazor-for-web-forms-developers/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
-- <img src="image/ebook/porting-existing-aspnet-apps.png" class="imgEbookCover"> [Porting existing ASP.NET apps to .NET Core (Preview Edition)](https://docs.microsoft.com/ko-kr/dotnet/architecture/porting-existing-aspnet-apps/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259) <small>(2020)</small>
-- <img src="image/ebook/blazor-a-beginners-guide.png" class="imgEbookCover"> [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) <small>(2020)</small>
-
 ## Azure
 
+- <img src="image/ebook/azure-Developer-Guide.png" class="imgEbookCover"> [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
+- <img src="image/ebook/the-path-to-Azure-cost-governance.png" class="imgEbookCover"> [Azure 비용 거버넌스로 가는 길](https://clouddamcdnprodep.azureedge.net/gdc/gdc5gkxc2/original) <small>(2023)</small>
 - <img src="image/ebook/azure-finops.png" class="imgEbookCover"> [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>
 - <img src="image/ebook/cloud-native-infrastructure-with-azure.png" class="imgEbookCover"> [Cloud Native Infrastructure with Azure](https://clouddamcdnprodep.azureedge.net/gdc/gdcxZiG7n/original) <small>(2023)</small>
 - <img src="image/ebook/modernize-existing-net-applications-with-azure-cloud-and-windows-containers.png" class="imgEbookCover"> [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/ko-kr/dotnet/architecture/modernize-with-azure-containers/?WT.mc_id=AZ-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
@@ -30,6 +20,18 @@
 
 - <img src="image/ebook/dapr-for-net-developers.png" class="imgEbookCover"> [Dapr for .NET Developers (Preview Edition)](https://docs.microsoft.com/ko-kr/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=DOP-MVP-4027259) <small>(2021)</small>
 - <img src="image/ebook/net-microservices-architecture-for-containerized-net.png" class="imgEbookCover"> [.NET Microservices: Architecture for Containerized .NET](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259/?WT.mc_id=DOP-MVP-4027259) <small>(2020~ 지속적으로 업데이트 진행)</small>
+
+## .NET MAUI(Multi-platform App UI)
+
+- <img src="image/ebook/enterprise-app-patterns-ebook.png" class="imgEbookCover"> [Enterprise Application Patterns Using .NET MAUI](https://docs.microsoft.com/ko-kr/dotnet/architecture/maui/?WT.mc_id=DOP-MVP-4027259) <small>(2022)</small>
+
+## ASP.NET
+
+- <img src="image/ebook/web-application-guide-cover-image.png" class="imgEbookCover"> [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/modern-web-apps-azure/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
+- <img src="image/ebook/aspnetcore-grpc-for-wcf-developers.png" class="imgEbookCover"> [ASP.NET Core gRPC for WCF Developers](https://docs.microsoft.com/ko-kr/dotnet/architecture/grpc-for-wcf-developers/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
+- <img src="image/ebook/blazor-for-web-forms-devs.png" class="imgEbookCover"> [Blazor for ASP.NET Web Forms Developers](https://docs.microsoft.com/ko-kr/dotnet/architecture/blazor-for-web-forms-developers/?WT.mc_id=DOP-MVP-4027259) <small>(2021~ 계속 업데이트)</small>
+- <img src="image/ebook/porting-existing-aspnet-apps.png" class="imgEbookCover"> [Porting existing ASP.NET apps to .NET Core (Preview Edition)](https://docs.microsoft.com/ko-kr/dotnet/architecture/porting-existing-aspnet-apps/?WT.mc_id=dotnet-17847-nanil/?WT.mc_id=DOP-MVP-4027259) <small>(2020)</small>
+- <img src="image/ebook/blazor-a-beginners-guide.png" class="imgEbookCover"> [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) <small>(2020)</small>
 
 ## Power Platform
 
