@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Announcing the Azure Migrate application and code assessment tool for .NET](https://devblogs.microsoft.com/dotnet/azure-migrate-app-and-code-assessment-tool-release/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.03)</small>
+- `.NET 관련 소식` - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.28)</small>
+- `.NET 관련 소식` - [Visual Studio 2013 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2013-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.02)</small>
+- `.NET 관련 소식` - [A year of making you more productive using Git in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-making-you-more-productive-using-git-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.27)</small>
 - `e-Book` - [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
 - `e-Book` - [Azure 비용 거버넌스로 가는 길](https://clouddamcdnprodep.azureedge.net/gdc/gdc5gkxc2/original) <small>(2023)</small>
 - `.NET 관련 소식` - [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
@@ -25,11 +29,11 @@
 - `.NET 관련 소식` - [.NET Conf 2023 Recap – Celebrating Community, Innovation, and the Launch of .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-conf-2023-recap-videos-slides-demos-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.07)</small>
 - `.NET 관련 소식` - [.NET 8 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-8-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.07)</small>
 - `.NET 관련 소식` - [Learn .NET 8 with New Beginner Videos](https://devblogs.microsoft.com/dotnet/learn-dotnet8-beginner-videos/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.06)</small>
-- `.NET 관련 소식` - [Embracing SQL Server 2022 with SSDT 17.8: Unveiling Key Updates](https://devblogs.microsoft.com/visualstudio/embracing-sql-server-2022-with-ssdt-17-8-unveiling-key-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.05)</small>
+<!--- `.NET 관련 소식` - [Embracing SQL Server 2022 with SSDT 17.8: Unveiling Key Updates](https://devblogs.microsoft.com/visualstudio/embracing-sql-server-2022-with-ssdt-17-8-unveiling-key-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.05)</small>
 - `.NET 관련 소식` - [Scroll to expand document tabs](https://devblogs.microsoft.com/visualstudio/scroll-to-expand-document-tabs/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.04)</small>
 - `.NET 관련 소식` - [Extending WebAssembly to the Cloud with .NET](https://devblogs.microsoft.com/dotnet/extending-web-assembly-to-the-cloud/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.04)</small>
 - `.NET 관련 소식` - [How to make libraries compatible with native AOT](https://devblogs.microsoft.com/dotnet/creating-aot-compatible-libraries/?WT_mc_id=DOP-MVP-4027259) <small>(2023.11.30)</small>
-<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small>
 - `행사 소식` - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=610214847) <small>(2023.12.21)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414634/157-GQE-382?ocid=eml_pg418750_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAGP0cH1yjpSB8Yc3rQPQt4DL0-rQlobr6rIuWgqjp6MwAjIB52vqZvd66JwvpaJeADkfWriVVeZg4ffDtpuTxkaD1HLcvj3Xm6ATZtLeSY7kByypEBjOQ43xj2Q) <small>(2023.12.18 ~ 19)</small>
 - `e-Book` - [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>

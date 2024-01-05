@@ -5,6 +5,10 @@
 
 ## 2023
 
+- [Announcing the Azure Migrate application and code assessment tool for .NET](https://devblogs.microsoft.com/dotnet/azure-migrate-app-and-code-assessment-tool-release/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.03)</small>
+- [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.28)</small>
+- [Visual Studio 2013 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2013-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.02)</small>
+- [A year of making you more productive using Git in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-making-you-more-productive-using-git-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.27)</small>
 - [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
 - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
 - [Announcing the HackTogether: The Great .NET 8 Hack Winners](https://devblogs.microsoft.com/dotnet/great-dotnet-8-hack-winners/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
