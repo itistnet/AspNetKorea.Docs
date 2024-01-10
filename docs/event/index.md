@@ -2,9 +2,13 @@
 
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
+## 2024
+
+- [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small> <span class="spnBadgeType1">온라인</span>
+
 ## 2023
 
-- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=610214847) <small>(2023.12.21)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414634/157-GQE-382?ocid=eml_pg418750_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAGP0cH1yjpSB8Yc3rQPQt4DL0-rQlobr6rIuWgqjp6MwAjIB52vqZvd66JwvpaJeADkfWriVVeZg4ffDtpuTxkaD1HLcvj3Xm6ATZtLeSY7kByypEBjOQ43xj2Q) <small>(2023.12.18 ~ 19)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft 365 Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/414750/157-GQE-382?ocid=eml_pg415442_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGPSwChX-9oAAcab8LwlU-DiUvZuSiu6vR5gmtsmKmlrKQFO02Kz_3EsJcuCLvUyun2hbAKmRc38FOpgPKxDJlNcSkJWTHAFl2-M4CJ_HtJi-0rNAMS2yv1&WT_mc_id=DOP-MVP-4027259) <small>(2023.12.06 ~ 07)</small> <span class="spnBadgeType1">온라인</span>

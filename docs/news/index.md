@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [.NET Framework January 2024 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
+- [.NET January 2024 Updates – .NET 8.0.1, 7.0.15, .NET 6.0.26](https://devblogs.microsoft.com/dotnet/january-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
+- [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
+- [Visual Studio Performance Highlights Delivered in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-performance-highlights-delivered-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.08)</small>
 - [Announcing the Azure Migrate application and code assessment tool for .NET](https://devblogs.microsoft.com/dotnet/azure-migrate-app-and-code-assessment-tool-release/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.03)</small>
 - [Visual Studio 2013 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2013-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.02)</small>
 
