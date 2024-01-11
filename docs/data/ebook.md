@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/AI_성공을_위한_기반_구축.png" class="imgEbookCover"> [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
 - <img src="image/ebook/azure-Developer-Guide.png" class="imgEbookCover"> [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
 - <img src="image/ebook/the-path-to-Azure-cost-governance.png" class="imgEbookCover"> [Azure 비용 거버넌스로 가는 길](https://clouddamcdnprodep.azureedge.net/gdc/gdc5gkxc2/original) <small>(2023)</small>
 - <img src="image/ebook/azure-finops.png" class="imgEbookCover"> [Azure를 통한 FinOps: 조직 및 문화 조정을 통해 FinOps에 생명 불어넣기](https://clouddamcdnprodep.azureedge.net/gdc/gdcqD6GVi/original) <small>(2023)</small>
