@@ -12,8 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [클라우드의 이점](https://clouddamcdnprodep.azureedge.net/gdc/gdcUBHhDz/original) <small>(2024)</small>
 - `e-Book` - [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small>
+- `행사 소식` - [Microsoft Discovery Day: 새로운 작업 방식 준비하기](https://msevents.microsoft.com/event?id=2228377995&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.16)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [.NET Framework January 2024 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - `.NET 관련 소식` - [.NET January 2024 Updates – .NET 8.0.1, 7.0.15, .NET 6.0.26](https://devblogs.microsoft.com/dotnet/january-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - `.NET 관련 소식` - [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
@@ -27,9 +29,9 @@
 - `.NET 관련 소식` - [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
 - `.NET 관련 소식` - [Announcing the HackTogether: The Great .NET 8 Hack Winners](https://devblogs.microsoft.com/dotnet/great-dotnet-8-hack-winners/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
-- `.NET 관련 소식` - [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.19)</small>
+<!--- `.NET 관련 소식` - [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.19)</small>
 - `.NET 관련 소식` - [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.18)</small>
-<!--- `.NET 관련 소식` - [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.15)</small>
+- `.NET 관련 소식` - [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.15)</small>
 - `.NET 관련 소식` - [Visual Studio 17.9 Preview 2 has arrived!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-9-preview-2-has-arrived/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.12)</small>
 - `.NET 관련 소식` - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.11)</small>
 - `.NET 관련 소식` - [.NET Conf 2023 Recap – Celebrating Community, Innovation, and the Launch of .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-conf-2023-recap-videos-slides-demos-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.07)</small>
