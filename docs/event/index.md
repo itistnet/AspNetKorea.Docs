@@ -5,6 +5,7 @@
 ## 2024
 
 - [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Tech Brief: AI와 함께하는 미래의 업무에 대비](https://msevents.microsoft.com/event?id=2434989545&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.18)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Discovery Day: 새로운 작업 방식 준비하기](https://msevents.microsoft.com/event?id=2228377995&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.16)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://mktoevents.com/Microsoft+Event/418818/157-GQE-382) <small>(2024.01.03)</small> <span class="spnBadgeType1">온라인</span>
 
