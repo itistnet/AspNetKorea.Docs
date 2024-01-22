@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
+- `.NET 관련 소식` - [17.9 Preview 3 brings exciting changes to Code Search](https://devblogs.microsoft.com/visualstudio/17-9-preview-3-brings-exciting-changes-to-code-search/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
+- `.NET 관련 소식` - [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
+- `.NET 관련 소식` - [Code, Connect & Learn at Visual Studio LIVE! in Las Vegas](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.10)</small>
 - `e-Book` - [클라우드의 이점](https://clouddamcdnprodep.azureedge.net/gdc/gdcUBHhDz/original) <small>(2024)</small>
 - `e-Book` - [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small> <span class="spnBadgeType1">온라인</span>
@@ -25,11 +29,11 @@
 - `.NET 관련 소식` - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.28)</small>
 - `.NET 관련 소식` - [Visual Studio 2013 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2013-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.02)</small>
 - `.NET 관련 소식` - [A year of making you more productive using Git in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-making-you-more-productive-using-git-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.27)</small>
-- `e-Book` - [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
+<!--- `e-Book` - [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
 - `e-Book` - [Azure 비용 거버넌스로 가는 길](https://clouddamcdnprodep.azureedge.net/gdc/gdc5gkxc2/original) <small>(2023)</small>
 - `.NET 관련 소식` - [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
-<!--- `.NET 관련 소식` - [Announcing the HackTogether: The Great .NET 8 Hack Winners](https://devblogs.microsoft.com/dotnet/great-dotnet-8-hack-winners/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
+- `.NET 관련 소식` - [Announcing the HackTogether: The Great .NET 8 Hack Winners](https://devblogs.microsoft.com/dotnet/great-dotnet-8-hack-winners/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
 - `.NET 관련 소식` - [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.19)</small>
 - `.NET 관련 소식` - [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.18)</small>
 - `.NET 관련 소식` - [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.15)</small>

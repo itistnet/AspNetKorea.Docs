@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
+- [17.9 Preview 3 brings exciting changes to Code Search](https://devblogs.microsoft.com/visualstudio/17-9-preview-3-brings-exciting-changes-to-code-search/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
+- [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
+- [Code, Connect & Learn at Visual Studio LIVE! in Las Vegas](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.10)</small>
 - [.NET Framework January 2024 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - [.NET January 2024 Updates – .NET 8.0.1, 7.0.15, .NET 6.0.26](https://devblogs.microsoft.com/dotnet/january-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
