@@ -12,6 +12,12 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
+- `.NET 관련 소식` - [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
+- `.NET 관련 소식` - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
+- `.NET 관련 소식` - [.NET Framework January 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
+- `.NET 관련 소식` - [Elevate Your Git and GitHub Skills in Visual Studio with the Intermediate and Advanced Series](https://devblogs.microsoft.com/visualstudio/intermediate-and-advanced-git/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
+- `.NET 관련 소식` - [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.22)</small>
 - `.NET 관련 소식` - [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
 - `.NET 관련 소식` - [17.9 Preview 3 brings exciting changes to Code Search](https://devblogs.microsoft.com/visualstudio/17-9-preview-3-brings-exciting-changes-to-code-search/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
 - `.NET 관련 소식` - [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
@@ -23,13 +29,13 @@
 - `행사 소식` - [Microsoft Discovery Day: 새로운 작업 방식 준비하기](https://msevents.microsoft.com/event?id=2228377995&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.16)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [.NET Framework January 2024 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - `.NET 관련 소식` - [.NET January 2024 Updates – .NET 8.0.1, 7.0.15, .NET 6.0.26](https://devblogs.microsoft.com/dotnet/january-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
-- `.NET 관련 소식` - [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
+<!--- `.NET 관련 소식` - [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - `.NET 관련 소식` - [Visual Studio Performance Highlights Delivered in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-performance-highlights-delivered-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.08)</small>
 - `.NET 관련 소식` - [Announcing the Azure Migrate application and code assessment tool for .NET](https://devblogs.microsoft.com/dotnet/azure-migrate-app-and-code-assessment-tool-release/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.03)</small>
 - `.NET 관련 소식` - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.28)</small>
 - `.NET 관련 소식` - [Visual Studio 2013 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2013-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.02)</small>
 - `.NET 관련 소식` - [A year of making you more productive using Git in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-making-you-more-productive-using-git-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.27)</small>
-<!--- `e-Book` - [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
+- `e-Book` - [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>
 - `e-Book` - [Azure 비용 거버넌스로 가는 길](https://clouddamcdnprodep.azureedge.net/gdc/gdc5gkxc2/original) <small>(2023)</small>
 - `.NET 관련 소식` - [What’s New in Our Code Coverage Tooling?](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.21)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2023.12.20)</small>
