@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [A Year of C++ Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-cpp-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.30)</small>
+- [How to deploy .NET Aspire apps to Azure Container Apps](https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.29)</small>
 - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
 - [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
 - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>

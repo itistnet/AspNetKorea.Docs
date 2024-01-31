@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [A Year of C++ Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-cpp-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.30)</small>
+- `.NET 관련 소식` - [How to deploy .NET Aspire apps to Azure Container Apps](https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.29)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/421907/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26 ~ 27)</small>
 - `.NET 관련 소식` - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
 - `.NET 관련 소식` - [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
@@ -27,9 +29,9 @@
 - `e-Book` - [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [Microsoft Tech Brief: AI와 함께하는 미래의 업무에 대비](https://msevents.microsoft.com/event?id=2434989545&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.18)</small> <span class="spnBadgeType1">온라인</span>
-- `행사 소식` - [Microsoft Discovery Day: 새로운 작업 방식 준비하기](https://msevents.microsoft.com/event?id=2228377995&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.16)</small> <span class="spnBadgeType1">온라인</span>
+<!--- `행사 소식` - [Microsoft Discovery Day: 새로운 작업 방식 준비하기](https://msevents.microsoft.com/event?id=2228377995&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.16)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [.NET Framework January 2024 Security and Quality Rollup](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-security-and-quality-rollup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
-<!--- `.NET 관련 소식` - [.NET January 2024 Updates – .NET 8.0.1, 7.0.15, .NET 6.0.26](https://devblogs.microsoft.com/dotnet/january-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
+- `.NET 관련 소식` - [.NET January 2024 Updates – .NET 8.0.1, 7.0.15, .NET 6.0.26](https://devblogs.microsoft.com/dotnet/january-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - `.NET 관련 소식` - [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.09)</small>
 - `.NET 관련 소식` - [Visual Studio Performance Highlights Delivered in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-performance-highlights-delivered-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.08)</small>
 - `.NET 관련 소식` - [Announcing the Azure Migrate application and code assessment tool for .NET](https://devblogs.microsoft.com/dotnet/azure-migrate-app-and-code-assessment-tool-release/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.03)</small>
