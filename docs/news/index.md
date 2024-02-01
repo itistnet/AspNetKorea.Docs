@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Building AI-powered Microsoft Copilot with SignalR and other open-source tools](https://devblogs.microsoft.com/dotnet/building-ai-powered-bing-chat-with-signalr-and-other-open-source-tools/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.31)</small>
+- [In the Debugger’s Spotlight: A Year in Review](https://devblogs.microsoft.com/visualstudio/in-the-debuggers-spotlight-a-year-in-review/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.31)</small>
 - [A Year of C++ Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-cpp-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.30)</small>
 - [How to deploy .NET Aspire apps to Azure Container Apps](https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.29)</small>
 - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
