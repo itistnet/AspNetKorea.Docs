@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Teams Premium을 통한 스마트 워크플레이스 강화](https://msevents.microsoft.com/event?id=3690721195?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.05)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/421907/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26 ~ 27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: AI와 함께하는 미래의 업무에 대비](https://msevents.microsoft.com/event?id=2434989545&WT_mc_id=DOP-MVP-4027259) <small>(2024.01.18)</small> <span class="spnBadgeType1">온라인</span>
