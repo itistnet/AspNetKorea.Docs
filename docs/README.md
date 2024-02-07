@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=1910276104&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `행사 소식` - [Microsoft Discovery Day: Get Ready for the New Way of Work](https://msevents.microsoft.com/event?id=227747321&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.21)</small>
 - `.NET 관련 소식` - [Dev Tunnels: A Game Changer for Mobile Developers](https://devblogs.microsoft.com/dotnet/dev-tunnels-a-game-changer-for-mobile-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.05)</small>
 - `행사 소식` - [Microsoft Teams Premium을 통한 스마트 워크플레이스 강화](https://msevents.microsoft.com/event?id=3690721195?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.05)</small>
@@ -28,8 +29,8 @@
 - `.NET 관련 소식` - [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.22)</small>
 - `.NET 관련 소식` - [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
 - `.NET 관련 소식` - [17.9 Preview 3 brings exciting changes to Code Search](https://devblogs.microsoft.com/visualstudio/17-9-preview-3-brings-exciting-changes-to-code-search/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
-- `.NET 관련 소식` - [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
-<!--- `.NET 관련 소식` - [Code, Connect & Learn at Visual Studio LIVE! in Las Vegas](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.10)</small>
+<!--- `.NET 관련 소식` - [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
+- `.NET 관련 소식` - [Code, Connect & Learn at Visual Studio LIVE! in Las Vegas](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.10)</small>
 - `e-Book` - [클라우드의 이점](https://clouddamcdnprodep.azureedge.net/gdc/gdcUBHhDz/original) <small>(2024)</small>
 - `e-Book` - [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Ignite (Digital)](https://mktoevents.com/Microsoft+Event/423143/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.01)</small> <span class="spnBadgeType1">온라인</span>
