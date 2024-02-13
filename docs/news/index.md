@@ -5,6 +5,11 @@
 
 ## 2024
 
+- [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
+- [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
+- [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
+- [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
+- [Developing With Accessibility in Mind at Microsoft](https://devblogs.microsoft.com/visualstudio/developing-with-accessibility-in-mind-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.07)</small>
 - [Dev Tunnels: A Game Changer for Mobile Developers](https://devblogs.microsoft.com/dotnet/dev-tunnels-a-game-changer-for-mobile-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.05)</small>
 - [Building AI-powered Microsoft Copilot with SignalR and other open-source tools](https://devblogs.microsoft.com/dotnet/building-ai-powered-bing-chat-with-signalr-and-other-open-source-tools/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.31)</small>
 - [In the Debugger’s Spotlight: A Year in Review](https://devblogs.microsoft.com/visualstudio/in-the-debuggers-spotlight-a-year-in-review/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.31)</small>

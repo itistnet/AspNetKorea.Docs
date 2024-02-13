@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
+- `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
+- `.NET 관련 소식` - [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
+- `.NET 관련 소식` - [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
+- `.NET 관련 소식` - [Developing With Accessibility in Mind at Microsoft](https://devblogs.microsoft.com/visualstudio/developing-with-accessibility-in-mind-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.07)</small>
 - `행사 소식` - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=1910276104&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `행사 소식` - [Microsoft Discovery Day: Get Ready for the New Way of Work](https://msevents.microsoft.com/event?id=227747321&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.21)</small>
 - `.NET 관련 소식` - [Dev Tunnels: A Game Changer for Mobile Developers](https://devblogs.microsoft.com/dotnet/dev-tunnels-a-game-changer-for-mobile-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.05)</small>
@@ -24,12 +29,12 @@
 - `.NET 관련 소식` - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
 - `.NET 관련 소식` - [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
 - `.NET 관련 소식` - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
-- `.NET 관련 소식` - [.NET Framework January 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
+<!--- `.NET 관련 소식` - [.NET Framework January 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
 - `.NET 관련 소식` - [Elevate Your Git and GitHub Skills in Visual Studio with the Intermediate and Advanced Series](https://devblogs.microsoft.com/visualstudio/intermediate-and-advanced-git/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
 - `.NET 관련 소식` - [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.22)</small>
 - `.NET 관련 소식` - [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
 - `.NET 관련 소식` - [17.9 Preview 3 brings exciting changes to Code Search](https://devblogs.microsoft.com/visualstudio/17-9-preview-3-brings-exciting-changes-to-code-search/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
-<!--- `.NET 관련 소식` - [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
+- `.NET 관련 소식` - [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.12)</small>
 - `.NET 관련 소식` - [Code, Connect & Learn at Visual Studio LIVE! in Las Vegas](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.10)</small>
 - `e-Book` - [클라우드의 이점](https://clouddamcdnprodep.azureedge.net/gdc/gdcUBHhDz/original) <small>(2024)</small>
 - `e-Book` - [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
