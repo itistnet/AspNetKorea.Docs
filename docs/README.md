@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small>
 - `.NET 관련 소식` - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
 - `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
 - `.NET 관련 소식` - [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
@@ -28,8 +29,8 @@
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/421907/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26 ~ 27)</small>
 - `.NET 관련 소식` - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
 - `.NET 관련 소식` - [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
-- `.NET 관련 소식` - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
-<!--- `.NET 관련 소식` - [.NET Framework January 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
+<!--- `.NET 관련 소식` - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
+- `.NET 관련 소식` - [.NET Framework January 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
 - `.NET 관련 소식` - [Elevate Your Git and GitHub Skills in Visual Studio with the Intermediate and Advanced Series](https://devblogs.microsoft.com/visualstudio/intermediate-and-advanced-git/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
 - `.NET 관련 소식` - [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.22)</small>
 - `.NET 관련 소식` - [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.17)</small>
