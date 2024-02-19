@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Last Chance: Visual Studio LIVE! – Las Vegas](https://devblogs.microsoft.com/visualstudio/last-chance-visual-studio-live-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.16)</small>
+- `.NET 관련 소식` - [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+- `.NET 관련 소식` - [.NET Framework February 2024 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2024-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+- `.NET 관련 소식` - [Introducing Visual Studio 17.10 – Preview 1 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-10-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+- `.NET 관련 소식` - [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
+- `.NET 관련 소식` - [.NET February 2024 Updates – .NET 8.0.2, 7.0.16, .NET 6.0.27](https://devblogs.microsoft.com/dotnet/february-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 17.9 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
 - `행사 소식` - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small>
 - `.NET 관련 소식` - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
 - `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
@@ -24,12 +31,12 @@
 - `행사 소식` - [Microsoft Teams Premium을 통한 스마트 워크플레이스 강화](https://msevents.microsoft.com/event?id=3690721195?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.05)</small>
 - `.NET 관련 소식` - [Building AI-powered Microsoft Copilot with SignalR and other open-source tools](https://devblogs.microsoft.com/dotnet/building-ai-powered-bing-chat-with-signalr-and-other-open-source-tools/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.31)</small>
 - `.NET 관련 소식` - [In the Debugger’s Spotlight: A Year in Review](https://devblogs.microsoft.com/visualstudio/in-the-debuggers-spotlight-a-year-in-review/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.31)</small>
-- `.NET 관련 소식` - [A Year of C++ Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-cpp-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.30)</small>
+<!--- `.NET 관련 소식` - [A Year of C++ Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-cpp-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.30)</small>
 - `.NET 관련 소식` - [How to deploy .NET Aspire apps to Azure Container Apps](https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.29)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/421907/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26 ~ 27)</small>
 - `.NET 관련 소식` - [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.25)</small>
 - `.NET 관련 소식` - [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
-<!--- `.NET 관련 소식` - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
+- `.NET 관련 소식` - [Code Faster and Better with GitHub Copilot’s New Features: Slash Commands and Context Variables](https://devblogs.microsoft.com/visualstudio/copilot-chat-slash-commands-and-context-variables/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.24)</small>
 - `.NET 관련 소식` - [.NET Framework January 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
 - `.NET 관련 소식` - [Elevate Your Git and GitHub Skills in Visual Studio with the Intermediate and Advanced Series](https://devblogs.microsoft.com/visualstudio/intermediate-and-advanced-git/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.23)</small>
 - `.NET 관련 소식` - [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.01.22)</small>

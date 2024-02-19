@@ -5,6 +5,13 @@
 
 ## 2024
 
+- [Last Chance: Visual Studio LIVE! – Las Vegas](https://devblogs.microsoft.com/visualstudio/last-chance-visual-studio-live-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.16)</small>
+- [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+- [.NET Framework February 2024 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2024-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+- [Introducing Visual Studio 17.10 – Preview 1 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-10-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+- [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
+- [.NET February 2024 Updates – .NET 8.0.2, 7.0.16, .NET 6.0.27](https://devblogs.microsoft.com/dotnet/february-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
+- [Visual Studio 2022 17.9 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
 - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
 - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
 - [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
