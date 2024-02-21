@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [VisualStudio.Extensibility: Install extensions without restarting Visual Studio!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.20)</small>
+- [Developing Optimized GitHub Actions with .NET and Native AOT](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.19)</small>
 - [Last Chance: Visual Studio LIVE! – Las Vegas](https://devblogs.microsoft.com/visualstudio/last-chance-visual-studio-live-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.16)</small>
 - [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
 - [.NET Framework February 2024 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2024-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
