@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=1910276104&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Discovery Day: Get Ready for the New Way of Work](https://msevents.microsoft.com/event?id=227747321&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.21)</small> <span class="spnBadgeType1">온라인</span>

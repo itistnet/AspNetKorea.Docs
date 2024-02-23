@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
 - `.NET 관련 소식` - [WinForms in a 64-Bit world – our strategy going forward](https://devblogs.microsoft.com/dotnet/winforms-designer-64-bit-path-forward/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `.NET 관련 소식` - [Using Copilot Chat with C++ in Visual Studio: Generate code, fix functions, and more..](https://devblogs.microsoft.com/visualstudio/using-copilot-chat-with-c-in-visual-studio-generate-code-fix-functions-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `.NET 관련 소식` - [VisualStudio.Extensibility: Install extensions without restarting Visual Studio!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.20)</small>
@@ -27,7 +28,7 @@
 - `.NET 관련 소식` - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
 - `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
 - `.NET 관련 소식` - [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
-<!--- `.NET 관련 소식` - [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
+- `.NET 관련 소식` - [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
 - `.NET 관련 소식` - [Developing With Accessibility in Mind at Microsoft](https://devblogs.microsoft.com/visualstudio/developing-with-accessibility-in-mind-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.07)</small>
 - `행사 소식` - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=1910276104&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `행사 소식` - [Microsoft Discovery Day: Get Ready for the New Way of Work](https://msevents.microsoft.com/event?id=227747321&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.21)</small>
