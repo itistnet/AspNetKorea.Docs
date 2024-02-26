@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.23)</small>
 - `행사 소식` - [Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
 - `.NET 관련 소식` - [WinForms in a 64-Bit world – our strategy going forward](https://devblogs.microsoft.com/dotnet/winforms-designer-64-bit-path-forward/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `.NET 관련 소식` - [Using Copilot Chat with C++ in Visual Studio: Generate code, fix functions, and more..](https://devblogs.microsoft.com/visualstudio/using-copilot-chat-with-c-in-visual-studio-generate-code-fix-functions-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
@@ -26,7 +27,7 @@
 - `.NET 관련 소식` - [Visual Studio 2022 17.9 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
 - `행사 소식` - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small>
 - `.NET 관련 소식` - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
-- `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
+<!--- `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
 - `.NET 관련 소식` - [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
 - `.NET 관련 소식` - [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
 - `.NET 관련 소식` - [Developing With Accessibility in Mind at Microsoft](https://devblogs.microsoft.com/visualstudio/developing-with-accessibility-in-mind-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.07)</small>
@@ -291,7 +292,7 @@
 - `.NET 관련 소식` - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/?WT_mc_id=DOP-MVP-4027259) <small>(2023.01.09)</small>
 - `.NET 관련 소식` - [Top .NET Blog Posts of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
 - `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2022](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.30)</small>
-<!--- `.NET 관련 소식` - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
+- `.NET 관련 소식` - [Accelerate ML.NET training with Intel oneDAL](https://devblogs.microsoft.com/dotnet/accelerate-ml-net-training-with-intel-onedal/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.22)</small>
 - `.NET 관련 소식` - [Write markdown without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/write-markdown-without-leaving-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.21)</small>
 - `.NET 관련 소식` - [Adding new files just got a lot faster](https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.20)</small>
 - `.NET 관련 소식` - [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2022.12.19)</small>

@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.23)</small>
 - [WinForms in a 64-Bit world – our strategy going forward](https://devblogs.microsoft.com/dotnet/winforms-designer-64-bit-path-forward/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - [Using Copilot Chat with C++ in Visual Studio: Generate code, fix functions, and more..](https://devblogs.microsoft.com/visualstudio/using-copilot-chat-with-c-in-visual-studio-generate-code-fix-functions-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - [A Streamlined Extension Manager comes to Visual Studio 17.9](https://devblogs.microsoft.com/visualstudio/a-streamlined-extension-manager-comes-to-visual-studio-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.21)</small>
