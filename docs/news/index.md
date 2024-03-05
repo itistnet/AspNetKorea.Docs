@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Code coverage features in Visual Studio Enterprise](https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.04)</small>
+- [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.01)</small>
+- [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
+- [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
 - [The FAST and the Fluent: A Blazor story](https://devblogs.microsoft.com/dotnet/the-fast-and-the-fluent-a-blazor-story/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
 - [Visual Studio’s Full Year in Review (2023)](https://devblogs.microsoft.com/visualstudio/visual-studios-full-year-in-review-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
 - [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.23)</small>

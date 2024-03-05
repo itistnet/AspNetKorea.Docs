@@ -4,6 +4,8 @@
 
 ## 2024
 
+- [[Security Bootcamp] Microsoft Azure 보안 심화 교육](https://msevents.microsoft.com/event?id=2625584012&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small> <span class="spnBadgeType1">온라인</span>
+- [HPC AMD Day (Azure Day)](https://msevents.microsoft.com/event?id=2515538833&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.08)</small> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: Build Intelligent Apps with Azure](https://msevents.microsoft.com/event?id=1910276104&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small> <span class="spnBadgeType1">온라인</span>

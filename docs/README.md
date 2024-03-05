@@ -12,6 +12,12 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [[Security Bootcamp] Microsoft Azure 보안 심화 교육](https://msevents.microsoft.com/event?id=2625584012&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small>
+- `행사 소식` - [HPC AMD Day (Azure Day)](https://msevents.microsoft.com/event?id=2515538833&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.08)</small>
+- `.NET 관련 소식` - [Code coverage features in Visual Studio Enterprise](https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.04)</small>
+- `.NET 관련 소식` - [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.01)</small>
+- `.NET 관련 소식` - [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
+- `.NET 관련 소식` - [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
 - `.NET 관련 소식` - [The FAST and the Fluent: A Blazor story](https://devblogs.microsoft.com/dotnet/the-fast-and-the-fluent-a-blazor-story/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
 - `.NET 관련 소식` - [Visual Studio’s Full Year in Review (2023)](https://devblogs.microsoft.com/visualstudio/visual-studios-full-year-in-review-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
 - `.NET 관련 소식` - [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.23)</small>
@@ -21,13 +27,13 @@
 - `.NET 관련 소식` - [VisualStudio.Extensibility: Install extensions without restarting Visual Studio!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.20)</small>
 - `.NET 관련 소식` - [Developing Optimized GitHub Actions with .NET and Native AOT](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.19)</small>
 - `.NET 관련 소식` - [Last Chance: Visual Studio LIVE! – Las Vegas](https://devblogs.microsoft.com/visualstudio/last-chance-visual-studio-live-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.16)</small>
-- `.NET 관련 소식` - [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
+<!--- `.NET 관련 소식` - [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
 - `.NET 관련 소식` - [.NET Framework February 2024 Security and Quality Rollup Updates](https://devblogs.microsoft.com/dotnet/dotnet-framework-february-2024-security-and-quality-rollup-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
 - `.NET 관련 소식` - [Introducing Visual Studio 17.10 – Preview 1 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-10-preview-1-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.14)</small>
 - `.NET 관련 소식` - [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
 - `.NET 관련 소식` - [.NET February 2024 Updates – .NET 8.0.2, 7.0.16, .NET 6.0.27](https://devblogs.microsoft.com/dotnet/february-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 17.9 Now Available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.13)</small>
-<!--- `행사 소식` - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small>
+- `행사 소식` - [Microsoft Virtual Briefing - Azure OpenAI](https://msevents.microsoft.com/event?id=3445432060&WT_mc_id=DOP-MVP-4027259) <small>(2024.02.27)</small>
 - `.NET 관련 소식` - [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.12)</small>
 - `.NET 관련 소식` - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.09)</small>
 - `.NET 관련 소식` - [2023’s Top 10 New Features for .NET in Visual Studio](https://devblogs.microsoft.com/visualstudio/2023s-top-10-new-features-for-net-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.08)</small>
