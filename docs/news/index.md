@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Building AI Bots, Extending Copilot for Microsoft 365, and more with .NET and Teams Toolkit](https://devblogs.microsoft.com/dotnet/teams-toolkit-for-visual-studio-release-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
+- [Visual Studio 2022 Version 17.9: A Comprehensive Update for C++ Developers](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-version-17-9-a-comprehensive-update-for-c-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
+- [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.06)</small>
+- [Visual Studio Subscriptions – A Product Manager’s Journey](https://devblogs.microsoft.com/visualstudio/visual-studio-subscriptions-benefit-journey-pt1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.05)</small>
 - [Code coverage features in Visual Studio Enterprise](https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.04)</small>
 - [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.01)</small>
 - [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
