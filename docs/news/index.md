@@ -5,6 +5,9 @@
 
 ## 2024
 
+- [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
+- [.NET March 2024 Updates – .NET 8.0.3, 7.0.17, .NET 6.0.28](https://devblogs.microsoft.com/dotnet/march-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
+- [Introducing Visual Studio 17.10 – Preview 2 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-10-preview-2-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
 - [Building AI Bots, Extending Copilot for Microsoft 365, and more with .NET and Teams Toolkit](https://devblogs.microsoft.com/dotnet/teams-toolkit-for-visual-studio-release-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - [Visual Studio 2022 Version 17.9: A Comprehensive Update for C++ Developers](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-version-17-9-a-comprehensive-update-for-c-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.06)</small>

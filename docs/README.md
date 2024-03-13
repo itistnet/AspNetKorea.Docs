@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/424295/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27 ~ 28)</small> <span class="spnBadgeType1">온라인</span>
+- `.NET 관련 소식` - [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
+- `.NET 관련 소식` - [.NET March 2024 Updates – .NET 8.0.3, 7.0.17, .NET 6.0.28](https://devblogs.microsoft.com/dotnet/march-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
+- `.NET 관련 소식` - [Introducing Visual Studio 17.10 – Preview 2 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-10-preview-2-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
 - `.NET 관련 소식` - [Building AI Bots, Extending Copilot for Microsoft 365, and more with .NET and Teams Toolkit](https://devblogs.microsoft.com/dotnet/teams-toolkit-for-visual-studio-release-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 Version 17.9: A Comprehensive Update for C++ Developers](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-version-17-9-a-comprehensive-update-for-c-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - `.NET 관련 소식` - [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.06)</small>
@@ -23,11 +27,11 @@
 - `.NET 관련 소식` - [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
 - `.NET 관련 소식` - [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
 - `.NET 관련 소식` - [The FAST and the Fluent: A Blazor story](https://devblogs.microsoft.com/dotnet/the-fast-and-the-fluent-a-blazor-story/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
-- `.NET 관련 소식` - [Visual Studio’s Full Year in Review (2023)](https://devblogs.microsoft.com/visualstudio/visual-studios-full-year-in-review-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
+<!--- `.NET 관련 소식` - [Visual Studio’s Full Year in Review (2023)](https://devblogs.microsoft.com/visualstudio/visual-studios-full-year-in-review-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.26)</small>
 - `.NET 관련 소식` - [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.23)</small>
 - `행사 소식` - [Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
 - `.NET 관련 소식` - [WinForms in a 64-Bit world – our strategy going forward](https://devblogs.microsoft.com/dotnet/winforms-designer-64-bit-path-forward/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
-<!--- `.NET 관련 소식` - [Using Copilot Chat with C++ in Visual Studio: Generate code, fix functions, and more..](https://devblogs.microsoft.com/visualstudio/using-copilot-chat-with-c-in-visual-studio-generate-code-fix-functions-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
+- `.NET 관련 소식` - [Using Copilot Chat with C++ in Visual Studio: Generate code, fix functions, and more..](https://devblogs.microsoft.com/visualstudio/using-copilot-chat-with-c-in-visual-studio-generate-code-fix-functions-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.22)</small>
 - `.NET 관련 소식` - [VisualStudio.Extensibility: Install extensions without restarting Visual Studio!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.20)</small>
 - `.NET 관련 소식` - [Developing Optimized GitHub Actions with .NET and Native AOT](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.19)</small>
 - `.NET 관련 소식` - [Last Chance: Visual Studio LIVE! – Las Vegas](https://devblogs.microsoft.com/visualstudio/last-chance-visual-studio-live-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.16)</small>

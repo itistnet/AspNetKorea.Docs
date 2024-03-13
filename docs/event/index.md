@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/424295/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27 ~ 28)</small> <span class="spnBadgeType1">온라인</span>
 - [[Security Bootcamp] Microsoft Azure 보안 심화 교육](https://msevents.microsoft.com/event?id=2625584012&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small> <span class="spnBadgeType1">온라인</span>
 - [HPC AMD Day (Azure Day)](https://msevents.microsoft.com/event?id=2515538833&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.08)</small> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small> <span class="spnBadgeType1">온라인</span>
