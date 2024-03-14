@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/AI를_사용하여_고객에게_만족을_주는_앱_빌드.png" class="imgEbookCover"> [AI를 사용하여 고객에게 만족을 주는 앱 빌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcGCJQlV/original) <small>(2024)</small>
 - <img src="image/ebook/클라우드의_이점.png" class="imgEbookCover"> [클라우드의 이점](https://clouddamcdnprodep.azureedge.net/gdc/gdcUBHhDz/original) <small>(2024)</small>
 - <img src="image/ebook/AI_성공을_위한_기반_구축.png" class="imgEbookCover"> [AI 성공을 위한 기반 구축: 리더 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcBlicDT/original) <small>(2024)</small>
 - <img src="image/ebook/azure-Developer-Guide.png" class="imgEbookCover"> [Azure 개발자 가이드(제2판)](https://clouddamcdnprodep.azureedge.net/gdc/gdcg4lGmQ/original) <small>(2023)</small>

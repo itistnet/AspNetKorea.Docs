@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [AI를 사용하여 고객에게 만족을 주는 앱 빌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcGCJQlV/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/424295/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27 ~ 28)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
 - `.NET 관련 소식` - [.NET March 2024 Updates – .NET 8.0.3, 7.0.17, .NET 6.0.28](https://devblogs.microsoft.com/dotnet/march-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
