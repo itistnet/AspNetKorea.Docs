@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Visual Studio and GitHub Copilot at GDC 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-and-github-copilot-at-gdc-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.19)</small>
+- [GitHub Copilot in Visual Studio: A Recap of 2023](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-a-recap-of-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.14)</small>
+- [Generate Local .NET Secrets from Azure Deployments](https://devblogs.microsoft.com/dotnet/generate-dotnet-secrets-automatically-from-azure-deployment/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.14)</small>
+- [Get started with .NET 8 and AI using new quickstart tutorials](https://devblogs.microsoft.com/dotnet/get-started-with-dotnet-ai-quickstarts/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small>
 - [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
 - [.NET March 2024 Updates – .NET 8.0.3, 7.0.17, .NET 6.0.28](https://devblogs.microsoft.com/dotnet/march-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
 - [Introducing Visual Studio 17.10 – Preview 2 is Here!](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-17-10-preview-2-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
