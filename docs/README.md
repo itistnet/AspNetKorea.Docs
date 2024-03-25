@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [인텔리전트한 앱 구축 및 현대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3pYq9s/original) <small>(2024)</small>
+- `행사 소식` - [Microsoft Tech Brief: Azure로 인텔리전트한 앱 구축](https://msevents.microsoft.com/event?id=1662604282&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small> <span class="spnBadgeType1">온라인</span>
+- `행사 소식` - [Microsoft Tech Brief: 클라우드 규모의 분석을 통해 레이크하우스 구축](https://msevents.microsoft.com/event?id=2598154705&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [클라우드 네이티브 애플리케이션 보안 플랫폼 심화 교육](https://msevents.microsoft.com/event?id=2792826192&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Visual Studio and GitHub Copilot at GDC 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-and-github-copilot-at-gdc-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.19)</small>
 - `.NET 관련 소식` - [GitHub Copilot in Visual Studio: A Recap of 2023](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-a-recap-of-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.14)</small>
@@ -25,10 +28,10 @@
 - `.NET 관련 소식` - [Building AI Bots, Extending Copilot for Microsoft 365, and more with .NET and Teams Toolkit](https://devblogs.microsoft.com/dotnet/teams-toolkit-for-visual-studio-release-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 Version 17.9: A Comprehensive Update for C++ Developers](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-version-17-9-a-comprehensive-update-for-c-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - `.NET 관련 소식` - [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.06)</small>
-- `.NET 관련 소식` - [Visual Studio Subscriptions – A Product Manager’s Journey](https://devblogs.microsoft.com/visualstudio/visual-studio-subscriptions-benefit-journey-pt1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.05)</small>
+<!--- `.NET 관련 소식` - [Visual Studio Subscriptions – A Product Manager’s Journey](https://devblogs.microsoft.com/visualstudio/visual-studio-subscriptions-benefit-journey-pt1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.05)</small>
 - `행사 소식` - [[Security Bootcamp] Microsoft Azure 보안 심화 교육](https://msevents.microsoft.com/event?id=2625584012&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small>
 - `행사 소식` - [HPC AMD Day (Azure Day)](https://msevents.microsoft.com/event?id=2515538833&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.08)</small>
-<!--- `.NET 관련 소식` - [Code coverage features in Visual Studio Enterprise](https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.04)</small>
+- `.NET 관련 소식` - [Code coverage features in Visual Studio Enterprise](https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.04)</small>
 - `.NET 관련 소식` - [GitHub Copilot Analysis, Customized Rules, and more come to the Azure Migrate application and code assessment](https://devblogs.microsoft.com/dotnet/azure-migrate-application-and-code-assessment-march-2024-update/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.01)</small>
 - `.NET 관련 소식` - [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
 - `.NET 관련 소식` - [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.02.29)</small>
