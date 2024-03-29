@@ -12,6 +12,14 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [In 4 Weeks: Visual Studio LIVE! Chicago 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-chicago/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.28)</small>
+- `.NET 관련 소식` - [.NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
+- `.NET 관련 소식` - [A new MSBuild editing experience](https://devblogs.microsoft.com/visualstudio/experimental-msbuild-editor/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
+- `.NET 관련 소식` - [.NET Framework – March 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-march-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small>
+- `.NET 관련 소식` - [See Your Pull Request Comments with the Latest Preview](https://devblogs.microsoft.com/visualstudio/see-your-pull-request-comments-with-the-latest-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
+- `.NET 관련 소식` - [Adding Apple Privacy Manifest Support to .NET iOS & .NET MAUI apps](https://devblogs.microsoft.com/dotnet/apple-privacy-manifest-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
+- `.NET 관련 소식` - [Announcing SQL Server Data Tools (SSDT) for ARM64 Architecture in Visual Studio 17.10 Preview 2](https://devblogs.microsoft.com/visualstudio/arm64-in-ssdt/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
+- `.NET 관련 소식` - [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
 - `e-Book` - [인텔리전트한 앱 구축 및 현대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3pYq9s/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Tech Brief: Azure로 인텔리전트한 앱 구축](https://msevents.microsoft.com/event?id=1662604282&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [Microsoft Tech Brief: 클라우드 규모의 분석을 통해 레이크하우스 구축](https://msevents.microsoft.com/event?id=2598154705&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small> <span class="spnBadgeType1">온라인</span>
@@ -20,7 +28,7 @@
 - `.NET 관련 소식` - [GitHub Copilot in Visual Studio: A Recap of 2023](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-a-recap-of-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.14)</small>
 - `.NET 관련 소식` - [Generate Local .NET Secrets from Azure Deployments](https://devblogs.microsoft.com/dotnet/generate-dotnet-secrets-automatically-from-azure-deployment/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.14)</small>
 - `.NET 관련 소식` - [Get started with .NET 8 and AI using new quickstart tutorials](https://devblogs.microsoft.com/dotnet/get-started-with-dotnet-ai-quickstarts/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small>
-- `e-Book` - [AI를 사용하여 고객에게 만족을 주는 앱 빌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcGCJQlV/original) <small>(2024)</small>
+<!--- `e-Book` - [AI를 사용하여 고객에게 만족을 주는 앱 빌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcGCJQlV/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/424295/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27 ~ 28)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
 - `.NET 관련 소식` - [.NET March 2024 Updates – .NET 8.0.3, 7.0.17, .NET 6.0.28](https://devblogs.microsoft.com/dotnet/march-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.12)</small>
@@ -28,7 +36,7 @@
 - `.NET 관련 소식` - [Building AI Bots, Extending Copilot for Microsoft 365, and more with .NET and Teams Toolkit](https://devblogs.microsoft.com/dotnet/teams-toolkit-for-visual-studio-release-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 Version 17.9: A Comprehensive Update for C++ Developers](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-version-17-9-a-comprehensive-update-for-c-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.07)</small>
 - `.NET 관련 소식` - [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.06)</small>
-<!--- `.NET 관련 소식` - [Visual Studio Subscriptions – A Product Manager’s Journey](https://devblogs.microsoft.com/visualstudio/visual-studio-subscriptions-benefit-journey-pt1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.05)</small>
+- `.NET 관련 소식` - [Visual Studio Subscriptions – A Product Manager’s Journey](https://devblogs.microsoft.com/visualstudio/visual-studio-subscriptions-benefit-journey-pt1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.05)</small>
 - `행사 소식` - [[Security Bootcamp] Microsoft Azure 보안 심화 교육](https://msevents.microsoft.com/event?id=2625584012&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.13)</small>
 - `행사 소식` - [HPC AMD Day (Azure Day)](https://msevents.microsoft.com/event?id=2515538833&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.08)</small>
 - `.NET 관련 소식` - [Code coverage features in Visual Studio Enterprise](https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.04)</small>
