@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.03)</small>
+- [How to Install GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-install-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
+- [Making AI powered .NET apps more consistent and intelligent with Redis](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
+- [Bing on .NET 8: The Impact of Dynamic PGO](https://devblogs.microsoft.com/dotnet/bing-on-dotnet-8-the-impact-of-dynamic-pgo/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.29)</small>
 - [In 4 Weeks: Visual Studio LIVE! Chicago 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-chicago/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.28)</small>
 - [.NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
 - [A new MSBuild editing experience](https://devblogs.microsoft.com/visualstudio/experimental-msbuild-editor/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
