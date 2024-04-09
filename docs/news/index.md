@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [How to use Comments to Prompt GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-comments-to-prompt-github-copilot-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small>
 - [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.03)</small>
 - [How to Install GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-install-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
 - [Making AI powered .NET apps more consistent and intelligent with Redis](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
