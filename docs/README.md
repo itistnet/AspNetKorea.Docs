@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.11)</small>
+- `.NET 관련 소식` - [.NET April 2024 Updates – .NET 8.0.4, 7.0.18, .NET 6.0.29](https://devblogs.microsoft.com/dotnet/april-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
+- `.NET 관련 소식` - [Introducing the new Copilot experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-the-new-copilot-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
 - `.NET 관련 소식` - [How to use Comments to Prompt GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-comments-to-prompt-github-copilot-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small>
 - `.NET 관련 소식` - [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.03)</small>
 - `.NET 관련 소식` - [How to Install GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-install-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [See Your Pull Request Comments with the Latest Preview](https://devblogs.microsoft.com/visualstudio/see-your-pull-request-comments-with-the-latest-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
 - `.NET 관련 소식` - [Adding Apple Privacy Manifest Support to .NET iOS & .NET MAUI apps](https://devblogs.microsoft.com/dotnet/apple-privacy-manifest-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
 - `.NET 관련 소식` - [Announcing SQL Server Data Tools (SSDT) for ARM64 Architecture in Visual Studio 17.10 Preview 2](https://devblogs.microsoft.com/visualstudio/arm64-in-ssdt/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
-- `.NET 관련 소식` - [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
+<!--- `.NET 관련 소식` - [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
 - `e-Book` - [인텔리전트한 앱 구축 및 현대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3pYq9s/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Tech Brief: Azure로 인텔리전트한 앱 구축](https://msevents.microsoft.com/event?id=1662604282&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small> <span class="spnBadgeType1">온라인</span>
-<!--- `행사 소식` - [Microsoft Tech Brief: 클라우드 규모의 분석을 통해 레이크하우스 구축](https://msevents.microsoft.com/event?id=2598154705&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small> <span class="spnBadgeType1">온라인</span>
+- `행사 소식` - [Microsoft Tech Brief: 클라우드 규모의 분석을 통해 레이크하우스 구축](https://msevents.microsoft.com/event?id=2598154705&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [클라우드 네이티브 애플리케이션 보안 플랫폼 심화 교육](https://msevents.microsoft.com/event?id=2792826192&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Visual Studio and GitHub Copilot at GDC 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-and-github-copilot-at-gdc-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.19)</small>
 - `.NET 관련 소식` - [GitHub Copilot in Visual Studio: A Recap of 2023](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-a-recap-of-2023/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.14)</small>

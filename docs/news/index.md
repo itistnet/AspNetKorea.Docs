@@ -5,6 +5,9 @@
 
 ## 2024
 
+- [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.11)</small>
+- [.NET April 2024 Updates – .NET 8.0.4, 7.0.18, .NET 6.0.29](https://devblogs.microsoft.com/dotnet/april-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
+- [Introducing the new Copilot experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-the-new-copilot-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
 - [How to use Comments to Prompt GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-comments-to-prompt-github-copilot-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small>
 - [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.03)</small>
 - [How to Install GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-install-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
