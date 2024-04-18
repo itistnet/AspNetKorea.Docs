@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/435459/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small>
+- `행사 소식` - [Copilot for Microsoft 365 교육](https://msevents.microsoft.com/event?id=1938922726&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
 - `.NET 관련 소식` - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
 - `.NET 관련 소식` - [How to use GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
 - `.NET 관련 소식` - [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
@@ -25,9 +27,9 @@
 - `.NET 관련 소식` - [Making AI powered .NET apps more consistent and intelligent with Redis](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small>
 - `.NET 관련 소식` - [Bing on .NET 8: The Impact of Dynamic PGO](https://devblogs.microsoft.com/dotnet/bing-on-dotnet-8-the-impact-of-dynamic-pgo/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.29)</small>
 - `.NET 관련 소식` - [In 4 Weeks: Visual Studio LIVE! Chicago 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-chicago/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.28)</small>
-- `.NET 관련 소식` - [.NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
+<!--- `.NET 관련 소식` - [.NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
 - `.NET 관련 소식` - [A new MSBuild editing experience](https://devblogs.microsoft.com/visualstudio/experimental-msbuild-editor/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
-<!--- `.NET 관련 소식` - [.NET Framework – March 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-march-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small>
+- `.NET 관련 소식` - [.NET Framework – March 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-march-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small>
 - `.NET 관련 소식` - [See Your Pull Request Comments with the Latest Preview](https://devblogs.microsoft.com/visualstudio/see-your-pull-request-comments-with-the-latest-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
 - `.NET 관련 소식` - [Adding Apple Privacy Manifest Support to .NET iOS & .NET MAUI apps](https://devblogs.microsoft.com/dotnet/apple-privacy-manifest-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
 - `.NET 관련 소식` - [Announcing SQL Server Data Tools (SSDT) for ARM64 Architecture in Visual Studio 17.10 Preview 2](https://devblogs.microsoft.com/visualstudio/arm64-in-ssdt/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>

@@ -4,6 +4,8 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/435459/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small> <span class="spnBadgeType1">온라인</span>
+- [Copilot for Microsoft 365 교육](https://msevents.microsoft.com/event?id=1938922726&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: Azure로 인텔리전트한 앱 구축](https://msevents.microsoft.com/event?id=1662604282&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: 클라우드 규모의 분석을 통해 레이크하우스 구축](https://msevents.microsoft.com/event?id=2598154705&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small> <span class="spnBadgeType1">온라인</span>
 - [클라우드 네이티브 애플리케이션 보안 플랫폼 심화 교육](https://msevents.microsoft.com/event?id=2792826192&WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small> <span class="spnBadgeType1">온라인</span>
