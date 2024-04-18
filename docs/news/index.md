@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
+- [How to use GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
+- [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
+- [Streamline your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/streamline-container-build-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.15)</small>
 - [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.11)</small>
 - [.NET April 2024 Updates – .NET 8.0.4, 7.0.18, .NET 6.0.29](https://devblogs.microsoft.com/dotnet/april-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
 - [Introducing the new Copilot experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-the-new-copilot-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>

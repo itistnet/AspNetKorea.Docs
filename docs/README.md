@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
+- `.NET 관련 소식` - [How to use GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
+- `.NET 관련 소식` - [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
+- `.NET 관련 소식` - [Streamline your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/streamline-container-build-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.15)</small>
 - `.NET 관련 소식` - [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.11)</small>
 - `.NET 관련 소식` - [.NET April 2024 Updates – .NET 8.0.4, 7.0.18, .NET 6.0.29](https://devblogs.microsoft.com/dotnet/april-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
 - `.NET 관련 소식` - [Introducing the new Copilot experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-the-new-copilot-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
@@ -23,11 +27,11 @@
 - `.NET 관련 소식` - [In 4 Weeks: Visual Studio LIVE! Chicago 2024](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-chicago/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.28)</small>
 - `.NET 관련 소식` - [.NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
 - `.NET 관련 소식` - [A new MSBuild editing experience](https://devblogs.microsoft.com/visualstudio/experimental-msbuild-editor/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.27)</small>
-- `.NET 관련 소식` - [.NET Framework – March 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-march-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small>
+<!--- `.NET 관련 소식` - [.NET Framework – March 2024 Cumulative Update Preview](https://devblogs.microsoft.com/dotnet/dotnet-framework-march-2024-cumulative-update-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.26)</small>
 - `.NET 관련 소식` - [See Your Pull Request Comments with the Latest Preview](https://devblogs.microsoft.com/visualstudio/see-your-pull-request-comments-with-the-latest-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
 - `.NET 관련 소식` - [Adding Apple Privacy Manifest Support to .NET iOS & .NET MAUI apps](https://devblogs.microsoft.com/dotnet/apple-privacy-manifest-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.25)</small>
 - `.NET 관련 소식` - [Announcing SQL Server Data Tools (SSDT) for ARM64 Architecture in Visual Studio 17.10 Preview 2](https://devblogs.microsoft.com/visualstudio/arm64-in-ssdt/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
-<!--- `.NET 관련 소식` - [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
+- `.NET 관련 소식` - [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/?WT_mc_id=DOP-MVP-4027259) <small>(2024.03.20)</small>
 - `e-Book` - [인텔리전트한 앱 구축 및 현대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3pYq9s/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Tech Brief: Azure로 인텔리전트한 앱 구축](https://msevents.microsoft.com/event?id=1662604282&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [Microsoft Tech Brief: 클라우드 규모의 분석을 통해 레이크하우스 구축](https://msevents.microsoft.com/event?id=2598154705&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.02)</small> <span class="spnBadgeType1">온라인</span>
