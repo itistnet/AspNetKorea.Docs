@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/의사_결정권자를_위한_책임_있는_AI_가이드라인.png" class="imgEbookCover"> [의사 결정권자를 위한 책임 있는 AI 가이드라인](https://clouddamcdnprodep.azureedge.net/gdc/gdcSjAxdh/original) <small>(2024)</small>
 - <img src="image/ebook/인텔리전트한_앱_구축_및_현대화.png" class="imgEbookCover"> [인텔리전트한 앱 구축 및 현대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3pYq9s/original) <small>(2024)</small>
 - <img src="image/ebook/AI를_사용하여_고객에게_만족을_주는_앱_빌드.png" class="imgEbookCover"> [AI를 사용하여 고객에게 만족을 주는 앱 빌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcGCJQlV/original) <small>(2024)</small>
 - <img src="image/ebook/클라우드의_이점.png" class="imgEbookCover"> [클라우드의 이점](https://clouddamcdnprodep.azureedge.net/gdc/gdcUBHhDz/original) <small>(2024)</small>
