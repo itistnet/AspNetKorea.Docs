@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.18)</small>
 - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
 - [How to use GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
 - [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
