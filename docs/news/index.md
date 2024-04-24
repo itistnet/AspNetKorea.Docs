@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
+- [Exploring the AskVS command in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-the-askvs-command-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
 - [Free Pure Virtual C++ 2024 Conference](https://devblogs.microsoft.com/visualstudio/pure-virtual-cpp-2024-sessions-announced/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.22)</small>
 - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.18)</small>
 - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
