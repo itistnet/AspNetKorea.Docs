@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
+- [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.24)</small>
 - [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
 - [Exploring the AskVS command in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-the-askvs-command-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
 - [Free Pure Virtual C++ 2024 Conference](https://devblogs.microsoft.com/visualstudio/pure-virtual-cpp-2024-sessions-announced/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.22)</small>
