@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기초](https://mktoevents.com/Microsoft+Event/436879/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.20)</small>
+- `.NET 관련 소식` - [Package Management & improved .NET Aspire support come to C# Dev Kit](https://devblogs.microsoft.com/dotnet/may-release-of-csharp-dev-kit/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
+- `.NET 관련 소식` - [Using GitHub Copilot as your Coding GPS](https://devblogs.microsoft.com/visualstudio/using-github-copilot-as-your-coding-gps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
+- `.NET 관련 소식` - [Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
+- `.NET 관련 소식` - [The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI](https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.29)</small>
 - `.NET 관련 소식` - [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
 - `.NET 관련 소식` - [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.24)</small>
 - `e-Book` - [인텔리전트한 앱 구축 : 팀 준비 툴킷](https://clouddamcdnprodep.azureedge.net/gdc/gdcK1cfnd/original) <small>(2024)</small>
@@ -23,12 +28,12 @@
 - `.NET 관련 소식` - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.18)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/435459/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small>
 - `행사 소식` - [Copilot for Microsoft 365 교육](https://msevents.microsoft.com/event?id=1938922726&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
-- `.NET 관련 소식` - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
+<!--- `.NET 관련 소식` - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.17)</small>
 - `.NET 관련 소식` - [How to use GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
 - `.NET 관련 소식` - [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.16)</small>
 - `.NET 관련 소식` - [Streamline your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/streamline-container-build-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.15)</small>
 - `.NET 관련 소식` - [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.11)</small>
-<!--- `.NET 관련 소식` - [.NET April 2024 Updates – .NET 8.0.4, 7.0.18, .NET 6.0.29](https://devblogs.microsoft.com/dotnet/april-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
+- `.NET 관련 소식` - [.NET April 2024 Updates – .NET 8.0.4, 7.0.18, .NET 6.0.29](https://devblogs.microsoft.com/dotnet/april-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
 - `.NET 관련 소식` - [Introducing the new Copilot experience in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-the-new-copilot-experience-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.09)</small>
 - `.NET 관련 소식` - [How to use Comments to Prompt GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/how-to-use-comments-to-prompt-github-copilot-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.04)</small>
 - `.NET 관련 소식` - [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.03)</small>

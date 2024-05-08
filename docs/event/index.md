@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: AI 기초](https://mktoevents.com/Microsoft+Event/436879/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.20)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/435934/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13 ~ 14)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/435459/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small> <span class="spnBadgeType1">온라인</span>
 - [Copilot for Microsoft 365 교육](https://msevents.microsoft.com/event?id=1938922726&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small> <span class="spnBadgeType1">온라인</span>

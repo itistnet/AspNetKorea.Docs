@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Using GitHub Copilot as your Coding GPS](https://devblogs.microsoft.com/visualstudio/using-github-copilot-as-your-coding-gps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
+- [Package Management & improved .NET Aspire support come to C# Dev Kit](https://devblogs.microsoft.com/dotnet/may-release-of-csharp-dev-kit/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
+- [Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
+- [The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI](https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.29)</small>
 - [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
 - [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.24)</small>
 - [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
