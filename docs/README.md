@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [앱 혁신을 주도하는 9가지 AI 트렌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcua1S7z/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Build 2024](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21 ~ 23)</small>
 - `.NET 관련 소식` - [Join the .NET Team at Microsoft Build 2024!](https://devblogs.microsoft.com/dotnet/join-the-dotnet-team-microsoft-build-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small>
 - `.NET 관련 소식` - [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.08)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
 - `.NET 관련 소식` - [Exploring the AskVS command in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-the-askvs-command-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
 - `.NET 관련 소식` - [Free Pure Virtual C++ 2024 Conference](https://devblogs.microsoft.com/visualstudio/pure-virtual-cpp-2024-sessions-announced/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.22)</small>
-- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/435934/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13 ~ 14)</small>
-<!--- `e-Book` - [의사 결정권자를 위한 책임 있는 AI 가이드라인](https://clouddamcdnprodep.azureedge.net/gdc/gdcSjAxdh/original) <small>(2024)</small>
+<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/435934/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13 ~ 14)</small>
+- `e-Book` - [의사 결정권자를 위한 책임 있는 AI 가이드라인](https://clouddamcdnprodep.azureedge.net/gdc/gdcSjAxdh/original) <small>(2024)</small>
 - `.NET 관련 소식` - [Announcing: Azure Developers – .NET Day](https://devblogs.microsoft.com/dotnet/announcing-azure-developers-dotnet-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.18)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/435459/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small>
 - `행사 소식` - [Copilot for Microsoft 365 교육](https://msevents.microsoft.com/event?id=1938922726&WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
