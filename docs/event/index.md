@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Build 2024](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21 ~ 23)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft Azure Virtual Training Day: AI 기초](https://mktoevents.com/Microsoft+Event/436879/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.20)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/435934/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13 ~ 14)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/435459/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small> <span class="spnBadgeType1">온라인</span>
