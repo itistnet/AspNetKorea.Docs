@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Get Ready for Visual Studio at Build 2024: Join Thousands Online!](https://devblogs.microsoft.com/visualstudio/visual-studio-at-build-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework May 2024 Servicing Updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
+- `.NET 관련 소식` - [Mastering Slash Commands with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/mastering-slash-commands-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.14)</small>
+- `.NET 관련 소식` - [What’s new in Orleans 8 for Scalable Distributed Applications](https://devblogs.microsoft.com/dotnet/whats-new-in-orleans-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/437287/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10 ~ 11)</small>
 - `행사 소식` - [Microsoft Azure 해커톤 – NVIDIA](https://msevents.microsoft.com/event?id=3190798606&WT_mc_id=DOP-MVP-4027259) <small>(2024.05.27 ~ 28)</small>
 - `e-Book` - [앱 혁신을 주도하는 9가지 AI 트렌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcua1S7z/original) <small>(2024)</small>
@@ -23,11 +27,11 @@
 - `.NET 관련 소식` - [Using GitHub Copilot as your Coding GPS](https://devblogs.microsoft.com/visualstudio/using-github-copilot-as-your-coding-gps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
 - `.NET 관련 소식` - [Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
 - `.NET 관련 소식` - [The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI](https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.29)</small>
-- `.NET 관련 소식` - [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
+<!--- `.NET 관련 소식` - [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
 - `.NET 관련 소식` - [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.24)</small>
 - `e-Book` - [인텔리전트한 앱 구축 : 팀 준비 툴킷](https://clouddamcdnprodep.azureedge.net/gdc/gdcK1cfnd/original) <small>(2024)</small>
 - `.NET 관련 소식` - [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
-<!--- `.NET 관련 소식` - [Exploring the AskVS command in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-the-askvs-command-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
+- `.NET 관련 소식` - [Exploring the AskVS command in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/exploring-the-askvs-command-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
 - `.NET 관련 소식` - [Free Pure Virtual C++ 2024 Conference](https://devblogs.microsoft.com/visualstudio/pure-virtual-cpp-2024-sessions-announced/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.22)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/435934/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13 ~ 14)</small>
 - `e-Book` - [의사 결정권자를 위한 책임 있는 AI 가이드라인](https://clouddamcdnprodep.azureedge.net/gdc/gdcSjAxdh/original) <small>(2024)</small>
