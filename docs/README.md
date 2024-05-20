@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Improve your code quality with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/improve-your-code-quality-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.16)</small>
 - `.NET 관련 소식` - [Get Ready for Visual Studio at Build 2024: Join Thousands Online!](https://devblogs.microsoft.com/visualstudio/visual-studio-at-build-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework May 2024 Servicing Updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
 - `.NET 관련 소식` - [Mastering Slash Commands with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/mastering-slash-commands-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.14)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Package Management & improved .NET Aspire support come to C# Dev Kit](https://devblogs.microsoft.com/dotnet/may-release-of-csharp-dev-kit/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
 - `.NET 관련 소식` - [Using GitHub Copilot as your Coding GPS](https://devblogs.microsoft.com/visualstudio/using-github-copilot-as-your-coding-gps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
 - `.NET 관련 소식` - [Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.30)</small>
-- `.NET 관련 소식` - [The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI](https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.29)</small>
-<!--- `.NET 관련 소식` - [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
+<!--- `.NET 관련 소식` - [The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI](https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.29)</small>
+- `.NET 관련 소식` - [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.25)</small>
 - `.NET 관련 소식` - [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.24)</small>
 - `e-Book` - [인텔리전트한 앱 구축 : 팀 준비 툴킷](https://clouddamcdnprodep.azureedge.net/gdc/gdcK1cfnd/original) <small>(2024)</small>
 - `.NET 관련 소식` - [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/?WT_mc_id=DOP-MVP-4027259) <small>(2024.04.23)</small>
