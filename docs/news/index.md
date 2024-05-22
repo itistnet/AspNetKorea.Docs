@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
+- [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
+- [Maximizing joy and minimizing toil with great developer experiences](https://devblogs.microsoft.com/visualstudio/maximizing-joy-and-minimizing-toil-with-great-developer-experiences/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
+- [Visual Studio 2022 17.10 and GitHub Copilot: Your Coding Partner for Faster and Smarter Development](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - [Improve your code quality with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/improve-your-code-quality-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.16)</small>
 - [Get Ready for Visual Studio at Build 2024: Join Thousands Online!](https://devblogs.microsoft.com/visualstudio/visual-studio-at-build-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
 - [.NET and .NET Framework May 2024 Servicing Updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
