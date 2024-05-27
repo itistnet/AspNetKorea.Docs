@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Developing cloud native apps with Aspire](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.23)</small>
+- `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.11](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.22)</small>
 - `.NET 관련 소식` - [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - `.NET 관련 소식` - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - `.NET 관련 소식` - [Maximizing joy and minimizing toil with great developer experiences](https://devblogs.microsoft.com/visualstudio/maximizing-joy-and-minimizing-toil-with-great-developer-experiences/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
@@ -25,9 +27,9 @@
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/437287/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10 ~ 11)</small>
 - `행사 소식` - [Microsoft Azure 해커톤 – NVIDIA](https://msevents.microsoft.com/event?id=3190798606&WT_mc_id=DOP-MVP-4027259) <small>(2024.05.27 ~ 28)</small>
 - `e-Book` - [앱 혁신을 주도하는 9가지 AI 트렌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcua1S7z/original) <small>(2024)</small>
-- `행사 소식` - [Microsoft Build 2024](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21 ~ 23)</small>
+<!--- `행사 소식` - [Microsoft Build 2024](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21 ~ 23)</small>
 - `.NET 관련 소식` - [Join the .NET Team at Microsoft Build 2024!](https://devblogs.microsoft.com/dotnet/join-the-dotnet-team-microsoft-build-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09)</small>
-<!--- `.NET 관련 소식` - [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.08)</small>
+- `.NET 관련 소식` - [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.08)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기초](https://mktoevents.com/Microsoft+Event/436879/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.20)</small>
 - `.NET 관련 소식` - [Package Management & improved .NET Aspire support come to C# Dev Kit](https://devblogs.microsoft.com/dotnet/may-release-of-csharp-dev-kit/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>
 - `.NET 관련 소식` - [Using GitHub Copilot as your Coding GPS](https://devblogs.microsoft.com/visualstudio/using-github-copilot-as-your-coding-gps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.07)</small>

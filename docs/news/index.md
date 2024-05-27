@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Developing cloud native apps with Aspire](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.23)</small>
+- [First preview of Visual Studio 2022 v17.11](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.22)</small>
 - [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - [Maximizing joy and minimizing toil with great developer experiences](https://devblogs.microsoft.com/visualstudio/maximizing-joy-and-minimizing-toil-with-great-developer-experiences/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
