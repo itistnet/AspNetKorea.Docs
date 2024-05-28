@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/Azure_SQL을_사용해_혁신_시작.png" class="imgEbookCover"> [Azure SQL을 사용해 혁신 시작](https://clouddamcdnprodep.azureedge.net/gdc/gdchwGm8q/original) <small>(2024)</small>
 - <img src="image/ebook/앱_혁신을_주도하는_9가지_AI_트렌드.png" class="imgEbookCover"> [앱 혁신을 주도하는 9가지 AI 트렌드](https://clouddamcdnprodep.azureedge.net/gdc/gdcua1S7z/original) <small>(2024)</small>
 - <img src="image/ebook/인텔리전트한_앱_구축_팀_준비_툴킷.png" class="imgEbookCover"> [인텔리전트한 앱 구축 : 팀 준비 툴킷](https://clouddamcdnprodep.azureedge.net/gdc/gdcK1cfnd/original) <small>(2024)</small>
 - <img src="image/ebook/의사_결정권자를_위한_책임_있는_AI_가이드라인.png" class="imgEbookCover"> [의사 결정권자를 위한 책임 있는 AI 가이드라인](https://clouddamcdnprodep.azureedge.net/gdc/gdcSjAxdh/original) <small>(2024)</small>
