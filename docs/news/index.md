@@ -5,7 +5,12 @@
 
 ## 2024
 
-- [Developing cloud native apps with Aspire](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.23)</small>
+- [Catch Up on Microsoft Build 2024: Essential Sessions for .NET Developers](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2024-essential-sessions-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.30)</small>
+- [F# developer stories: how we’ve finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
+- [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
+- [Introducing links to source code for .NET API Docs](https://devblogs.microsoft.com/dotnet/dotnet-docs-link-to-source-code/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.27)</small>
+- [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
+- [Developing cloud-native apps with .NET Aspire and Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-cloud-native-apps-with-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.23)</small>
 - [First preview of Visual Studio 2022 v17.11](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.22)</small>
 - [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
