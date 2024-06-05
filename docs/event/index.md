@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/441099/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.03 ~ 04)</small> <span class="spnBadgeType1">온라인</span>
 - [AI를 통한 SAP 마이그레이션, 마이크로소프트 솔루션 전략 알아보기](https://msevents.microsoft.com/event?id=3459538554&WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/437287/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10 ~ 11)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure 해커톤 – NVIDIA](https://msevents.microsoft.com/event?id=3190798606&WT_mc_id=DOP-MVP-4027259) <small>(2024.05.27 ~ 28)</small> <span class="spnBadgeType2">오프라인</span>

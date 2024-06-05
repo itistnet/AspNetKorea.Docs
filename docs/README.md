@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/441099/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.03 ~ 04)</small>
+- `.NET 관련 소식` - [A beginner’s guide to mapping arrays in EF Core 8](https://devblogs.microsoft.com/dotnet/array-mapping-in-ef-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.04)</small>
+- `.NET 관련 소식` - [Refactor your code using alias any type](https://devblogs.microsoft.com/dotnet/refactor-your-code-using-alias-any-type/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
+- `.NET 관련 소식` - [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/get-hands-on-with-visual-studio-and-azure-live-at-microsoft-hq-this-august/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
+- `.NET 관련 소식` - [Introducing the Revamped Visual Studio Resource Explorer](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-visual-studio-resource-explorer/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
 - `.NET 관련 소식` - [Catch Up on Microsoft Build 2024: Essential Sessions for .NET Developers](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2024-essential-sessions-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.30)</small>
 - `.NET 관련 소식` - [F# developer stories: how we’ve finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
 - `.NET 관련 소식` - [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
@@ -22,12 +27,12 @@
 - `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.11](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.22)</small>
 - `.NET 관련 소식` - [.NET Announcements & Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - `.NET 관련 소식` - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
-- `.NET 관련 소식` - [Maximizing joy and minimizing toil with great developer experiences](https://devblogs.microsoft.com/visualstudio/maximizing-joy-and-minimizing-toil-with-great-developer-experiences/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
+<!--- `.NET 관련 소식` - [Maximizing joy and minimizing toil with great developer experiences](https://devblogs.microsoft.com/visualstudio/maximizing-joy-and-minimizing-toil-with-great-developer-experiences/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 17.10 and GitHub Copilot: Your Coding Partner for Faster and Smarter Development](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.21)</small>
 - `행사 소식` - [AI를 통한 SAP 마이그레이션, 마이크로소프트 솔루션 전략 알아보기](https://msevents.microsoft.com/event?id=3459538554&WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small>
 - `.NET 관련 소식` - [Improve your code quality with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/improve-your-code-quality-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.16)</small>
 - `.NET 관련 소식` - [Get Ready for Visual Studio at Build 2024: Join Thousands Online!](https://devblogs.microsoft.com/visualstudio/visual-studio-at-build-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
-<!--- `.NET 관련 소식` - [.NET and .NET Framework May 2024 Servicing Updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework May 2024 Servicing Updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.15)</small>
 - `.NET 관련 소식` - [Mastering Slash Commands with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/mastering-slash-commands-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.14)</small>
 - `.NET 관련 소식` - [What’s new in Orleans 8 for Scalable Distributed Applications](https://devblogs.microsoft.com/dotnet/whats-new-in-orleans-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.13)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/437287/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10 ~ 11)</small>

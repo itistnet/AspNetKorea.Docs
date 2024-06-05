@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [A beginner’s guide to mapping arrays in EF Core 8](https://devblogs.microsoft.com/dotnet/array-mapping-in-ef-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.04)</small>
+- [Refactor your code using alias any type](https://devblogs.microsoft.com/dotnet/refactor-your-code-using-alias-any-type/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
+- [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/get-hands-on-with-visual-studio-and-azure-live-at-microsoft-hq-this-august/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
+- [Introducing the Revamped Visual Studio Resource Explorer](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-visual-studio-resource-explorer/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
 - [Catch Up on Microsoft Build 2024: Essential Sessions for .NET Developers](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2024-essential-sessions-for-dotnet-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.30)</small>
 - [F# developer stories: how we’ve finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
 - [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.29)</small>
