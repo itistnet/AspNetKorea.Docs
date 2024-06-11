@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10)</small>
+- [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.06)</small>
+- [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
+- [Giving our Azure marketplace images a makeover](https://devblogs.microsoft.com/visualstudio/giving-our-visual-studio-azure-marketplace-images-a-makeover/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
 - [A beginner’s guide to mapping arrays in EF Core 8](https://devblogs.microsoft.com/dotnet/array-mapping-in-ef-core-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.04)</small>
 - [Refactor your code using alias any type](https://devblogs.microsoft.com/dotnet/refactor-your-code-using-alias-any-type/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
 - [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/get-hands-on-with-visual-studio-and-azure-live-at-microsoft-hq-this-august/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.03)</small>
