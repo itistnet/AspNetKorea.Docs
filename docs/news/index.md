@@ -5,6 +5,13 @@
 
 ## 2024
 
+- [Refactor your code with default lambda parameters](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-default-lambda-parameters/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
+- [Bosch widely adopts Visual Studio for their C++ remote Linux projects](https://devblogs.microsoft.com/visualstudio/bosch-widely-adopts-visual-studio-for-their-c-remote-linux-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
+- [Using PostgreSQL with .NET and Entra ID](https://devblogs.microsoft.com/dotnet/using-postgre-sql-with-dotnet-and-entra-id/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.13)</small>
+- [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/dotnet/the-dotnet-maui-extension-for-visual-studio-code-is-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
+- [The .NET MAUI Extension for Visual Studio Code is now Generally Available](https://devblogs.microsoft.com/visualstudio/catch-up-on-the-latest-git-tooling-features-in-17-10-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
+- [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
+- [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
 - [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10)</small>
 - [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.06)</small>
 - [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
