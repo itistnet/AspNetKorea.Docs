@@ -5,6 +5,12 @@
 
 ## 2024
 
+- [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.24)</small>
+- [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.20)</small>
+- [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.19)</small>
+- [Keep Visual Studio automatically updated and secure through Microsoft Update](https://devblogs.microsoft.com/visualstudio/automatically-install-visual-studio-security-updates-through-microsoft-update/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.19)</small>
+- [Privacy and security improvements in .NET modernization tooling](https://devblogs.microsoft.com/dotnet/dotnet-modernization-privacy-security-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small>
+- [Easily navigate code delegates while debugging](https://devblogs.microsoft.com/visualstudio/easily-navigate-code-delegates-while-debugging/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small>
 - [Refactor your code with default lambda parameters](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-default-lambda-parameters/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
 - [Bosch widely adopts Visual Studio for their C++ remote Linux projects](https://devblogs.microsoft.com/visualstudio/bosch-widely-adopts-visual-studio-for-their-c-remote-linux-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
 - [Using PostgreSQL with .NET and Entra ID](https://devblogs.microsoft.com/dotnet/using-postgre-sql-with-dotnet-and-entra-id/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.13)</small>
