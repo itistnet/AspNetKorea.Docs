@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [Azure OpenAI Service 및 Azure 데이터 솔루션을 사용하여 클라우드 및 인텔리전트 앱 구축하기](https://msevents.microsoft.com/event?id=3080640878&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.24)</small>
 - `.NET 관련 소식` - [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.20)</small>
 - `.NET 관련 소식` - [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.19)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
 - `.NET 관련 소식` - [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10)</small>
-- `.NET 관련 소식` - [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.06)</small>
-<!---- `.NET 관련 소식` - [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
+<!--- `.NET 관련 소식` - [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.06)</small>
+-- `.NET 관련 소식` - [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
 - `.NET 관련 소식` - [Giving our Azure marketplace images a makeover](https://devblogs.microsoft.com/visualstudio/giving-our-visual-studio-azure-marketplace-images-a-makeover/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
 - `e-Book` - [혁신을 위한 마이그레이션 방법 AI 준비](https://clouddamcdnprodep.azureedge.net/gdc/gdcyUuuxY/original) <small>(2024)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/441099/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.03 ~ 04)</small>
