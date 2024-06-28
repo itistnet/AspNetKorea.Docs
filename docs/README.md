@@ -12,9 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/441265/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.25)</small>
 - `.NET 관련 소식` - [Join Us for .NET Aspire Developers Day – Elevate Your Cloud Native Skills!](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-aspire-developers-day/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.26)</small>
 - `.NET 관련 소식` - [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.25)</small>
-- `e-Book` - [Azure OpenAI Service 및 Azure 데이터 솔루션을 사용하여 클라우드 및 인텔리전트 앱 구축하기](https://msevents.microsoft.com/event?id=3080640878&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small> <span class="spnBadgeType1">온라인</span>
+- `행사 소식` - [Azure OpenAI Service 및 Azure 데이터 솔루션을 사용하여 클라우드 및 인텔리전트 앱 구축하기](https://msevents.microsoft.com/event?id=3080640878&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `.NET 관련 소식` - [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.24)</small>
 - `.NET 관련 소식` - [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.20)</small>
 - `.NET 관련 소식` - [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.19)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Using PostgreSQL with .NET and Entra ID](https://devblogs.microsoft.com/dotnet/using-postgre-sql-with-dotnet-and-entra-id/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.13)</small>
 - `.NET 관련 소식` - [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/dotnet/the-dotnet-maui-extension-for-visual-studio-code-is-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
 - `.NET 관련 소식` - [The .NET MAUI Extension for Visual Studio Code is now Generally Available](https://devblogs.microsoft.com/visualstudio/catch-up-on-the-latest-git-tooling-features-in-17-10-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
-- `.NET 관련 소식` - [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
-<!--- `.NET 관련 소식` - [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
+<!--- `.NET 관련 소식` - [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
 - `.NET 관련 소식` - [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.10)</small>
 - `.NET 관련 소식` - [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.06)</small>
   -- `.NET 관련 소식` - [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.05)</small>
