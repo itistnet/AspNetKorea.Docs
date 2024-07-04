@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.02)</small>
+- [Let GitHub Copilot draft of your pull request description](https://devblogs.microsoft.com/visualstudio/let-github-copilot-draft-of-your-pull-request-description/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.01)</small>
 - [Join Us for .NET Aspire Developers Day – Elevate Your Cloud Native Skills!](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-aspire-developers-day/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.26)</small>
 - [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.25)</small>
 - [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.24)</small>

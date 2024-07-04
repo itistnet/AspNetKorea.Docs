@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.02)</small>
+- `.NET 관련 소식` - [Let GitHub Copilot draft of your pull request description](https://devblogs.microsoft.com/visualstudio/let-github-copilot-draft-of-your-pull-request-description/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.01)</small>
 - `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/442919/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `행사 소식` - [Microsoft Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=1260180703&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/441265/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.25)</small>
@@ -25,9 +27,9 @@
 - `.NET 관련 소식` - [Privacy and security improvements in .NET modernization tooling](https://devblogs.microsoft.com/dotnet/dotnet-modernization-privacy-security-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small>
 - `.NET 관련 소식` - [Easily navigate code delegates while debugging](https://devblogs.microsoft.com/visualstudio/easily-navigate-code-delegates-while-debugging/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small>
 - `.NET 관련 소식` - [Refactor your code with default lambda parameters](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-default-lambda-parameters/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
-- `.NET 관련 소식` - [Bosch widely adopts Visual Studio for their C++ remote Linux projects](https://devblogs.microsoft.com/visualstudio/bosch-widely-adopts-visual-studio-for-their-c-remote-linux-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
+<!--- `.NET 관련 소식` - [Bosch widely adopts Visual Studio for their C++ remote Linux projects](https://devblogs.microsoft.com/visualstudio/bosch-widely-adopts-visual-studio-for-their-c-remote-linux-projects/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.17)</small>
 - `.NET 관련 소식` - [Using PostgreSQL with .NET and Entra ID](https://devblogs.microsoft.com/dotnet/using-postgre-sql-with-dotnet-and-entra-id/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.13)</small>
-<!--- `.NET 관련 소식` - [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/dotnet/the-dotnet-maui-extension-for-visual-studio-code-is-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
+- `.NET 관련 소식` - [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/dotnet/the-dotnet-maui-extension-for-visual-studio-code-is-now-generally-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
 - `.NET 관련 소식` - [The .NET MAUI Extension for Visual Studio Code is now Generally Available](https://devblogs.microsoft.com/visualstudio/catch-up-on-the-latest-git-tooling-features-in-17-10-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.12)</small>
 - `.NET 관련 소식` - [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
 - `.NET 관련 소식` - [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.11)</small>
