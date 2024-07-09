@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [Demystify history with GitHub Copilot commit explanations](https://devblogs.microsoft.com/visualstudio/demystify-history-with-github-copilot-commit-explanations/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.08)</small>
 - [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.02)</small>
 - [Let GitHub Copilot draft of your pull request description](https://devblogs.microsoft.com/visualstudio/let-github-copilot-draft-of-your-pull-request-description/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.01)</small>
 - [Join Us for .NET Aspire Developers Day – Elevate Your Cloud Native Skills!](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-aspire-developers-day/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.26)</small>
