@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/444397/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.05 ~ 06)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/442919/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=1260180703&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/441265/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.25)</small> <span class="spnBadgeType1">온라인</span>
