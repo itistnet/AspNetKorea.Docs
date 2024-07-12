@@ -5,6 +5,9 @@
 
 ## 2024
 
+- [Why and How to Execute GraphQL Queries in .NET](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.11)</small>
+- [C# 13: Explore the latest preview features](https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
+- [.NET and .NET Framework July 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
 - [Demystify history with GitHub Copilot commit explanations](https://devblogs.microsoft.com/visualstudio/demystify-history-with-github-copilot-commit-explanations/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.08)</small>
 - [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.02)</small>
 - [Let GitHub Copilot draft of your pull request description](https://devblogs.microsoft.com/visualstudio/let-github-copilot-draft-of-your-pull-request-description/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.01)</small>
