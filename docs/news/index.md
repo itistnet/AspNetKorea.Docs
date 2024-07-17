@@ -5,6 +5,9 @@
 
 ## 2024
 
+- [Making Visual Studio a bit more visual](https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
+- [.NET 9 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
+- [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-microsoft-hq/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
 - [Why and How to Execute GraphQL Queries in .NET](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.11)</small>
 - [C# 13: Explore the latest preview features](https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
 - [.NET and .NET Framework July 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>

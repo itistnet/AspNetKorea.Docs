@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Making Visual Studio a bit more visual](https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
+- `.NET 관련 소식` - [.NET 9 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
+- `.NET 관련 소식` - [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-microsoft-hq/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
 - `.NET 관련 소식` - [Why and How to Execute GraphQL Queries in .NET](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.11)</small>
 - `.NET 관련 소식` - [C# 13: Explore the latest preview features](https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework July 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
@@ -24,10 +27,10 @@
 - `행사 소식` - [Microsoft Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=1260180703&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/441265/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.25)</small>
 - `.NET 관련 소식` - [Join Us for .NET Aspire Developers Day – Elevate Your Cloud Native Skills!](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-aspire-developers-day/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.26)</small>
-- `.NET 관련 소식` - [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.25)</small>
+<!--- `.NET 관련 소식` - [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.25)</small>
 - `행사 소식` - [Azure OpenAI Service 및 Azure 데이터 솔루션을 사용하여 클라우드 및 인텔리전트 앱 구축하기](https://msevents.microsoft.com/event?id=3080640878&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `.NET 관련 소식` - [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.24)</small>
-<!--- `.NET 관련 소식` - [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.20)</small>
+- `.NET 관련 소식` - [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.20)</small>
 - `.NET 관련 소식` - [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.19)</small>
 - `.NET 관련 소식` - [Keep Visual Studio automatically updated and secure through Microsoft Update](https://devblogs.microsoft.com/visualstudio/automatically-install-visual-studio-security-updates-through-microsoft-update/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.19)</small>
 - `.NET 관련 소식` - [Privacy and security improvements in .NET modernization tooling](https://devblogs.microsoft.com/dotnet/dotnet-modernization-privacy-security-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.18)</small>
