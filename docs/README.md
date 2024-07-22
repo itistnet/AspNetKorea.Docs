@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
+- `.NET 관련 소식` - [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
+- `.NET 관련 소식` - [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [Making Visual Studio a bit more visual](https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `.NET 관련 소식` - [.NET 9 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
 - `.NET 관련 소식` - [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-microsoft-hq/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.02)</small>
 - `.NET 관련 소식` - [Let GitHub Copilot draft of your pull request description](https://devblogs.microsoft.com/visualstudio/let-github-copilot-draft-of-your-pull-request-description/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.01)</small>
 - `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/442919/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
-- `행사 소식` - [Microsoft Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=1260180703&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
+<!--- `행사 소식` - [Microsoft Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=1260180703&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/441265/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.25)</small>
 - `.NET 관련 소식` - [Join Us for .NET Aspire Developers Day – Elevate Your Cloud Native Skills!](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-aspire-developers-day/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.26)</small>
-<!--- `.NET 관련 소식` - [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.25)</small>
+- `.NET 관련 소식` - [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.25)</small>
 - `행사 소식` - [Azure OpenAI Service 및 Azure 데이터 솔루션을 사용하여 클라우드 및 인텔리전트 앱 구축하기](https://msevents.microsoft.com/event?id=3080640878&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `.NET 관련 소식` - [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.24)</small>
 - `.NET 관련 소식` - [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.20)</small>

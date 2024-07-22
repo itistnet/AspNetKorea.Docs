@@ -5,6 +5,9 @@
 
 ## 2024
 
+- [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
+- [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
+- [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - [Making Visual Studio a bit more visual](https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - [.NET 9 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
 - [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-microsoft-hq/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
