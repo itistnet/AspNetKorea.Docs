@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/업무에서_AI의_영향력_극대화.png" class="imgEbookCover"> [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/로우_코드_혁신에_대한_CIO_가이드.png" class="imgEbookCover"> [로우 코드 혁신에 대한 CIO 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcqXFnIQ/original?ocid=eml_pg401340_gdc_comm_ba&WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/혁신을_위한_마이그레이션_방법_AI_준비.png" class="imgEbookCover"> [혁신을 위한 마이그레이션 방법 AI 준비](https://clouddamcdnprodep.azureedge.net/gdc/gdcyUuuxY/original) <small>(2024)</small>
 - <img src="image/ebook/Azure_SQL을_사용해_혁신_시작.png" class="imgEbookCover"> [Azure SQL을 사용해 혁신 시작](https://clouddamcdnprodep.azureedge.net/gdc/gdchwGm8q/original) <small>(2024)</small>

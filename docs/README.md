@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
@@ -26,7 +27,7 @@
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/444397/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.05 ~ 06)</small>
 - `.NET 관련 소식` - [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.02)</small>
 - `.NET 관련 소식` - [Let GitHub Copilot draft of your pull request description](https://devblogs.microsoft.com/visualstudio/let-github-copilot-draft-of-your-pull-request-description/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.01)</small>
-- `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/442919/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
+<!--- `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/442919/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 <!--- `행사 소식` - [Microsoft Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=1260180703&WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/441265/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.25)</small>
 - `.NET 관련 소식` - [Join Us for .NET Aspire Developers Day – Elevate Your Cloud Native Skills!](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-aspire-developers-day/?WT_mc_id=DOP-MVP-4027259) <small>(2024.06.26)</small>
