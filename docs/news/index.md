@@ -5,6 +5,14 @@
 
 ## 2024
 
+- [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
+- [Creating Bindings for .NET MAUI with Native Library Interop](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
+- [Sign VSIX packages with Sign CLI](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
+- [Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup](https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.24)</small>
+- [How use a Blazor QuickGrid with GraphQL](https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.24)</small>
+- [Announcing .NET Conf: Focus on AI – August 20th 2024](https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.23)</small>
+- [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.23)</small>
+- [Add AI to Your .NET Apps Easily with Prompty](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.22)</small>
 - [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
