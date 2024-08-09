@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [How Microsoft Secures Generative AI](https://clouddamcdnprodep.azureedge.net/gdc/gdcw4PfwZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
+- `.NET 관련 소식` - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
+- `.NET 관련 소식` - [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>
+- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `.NET 관련 소식` - [Creating Bindings for .NET MAUI with Native Library Interop](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - `.NET 관련 소식` - [Sign VSIX packages with Sign CLI](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
@@ -23,11 +27,11 @@
 - `e-Book` - [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
-- `.NET 관련 소식` - [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
+<!--- `.NET 관련 소식` - [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [Making Visual Studio a bit more visual](https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.16)</small>
 - `.NET 관련 소식` - [.NET 9 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
 - `.NET 관련 소식` - [Get Hands-On with Visual Studio and Azure: Live at Microsoft HQ this August!](https://devblogs.microsoft.com/visualstudio/visual-studio-live-2024-microsoft-hq/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.15)</small>
-<!--- `.NET 관련 소식` - [Why and How to Execute GraphQL Queries in .NET](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.11)</small>
+- `.NET 관련 소식` - [Why and How to Execute GraphQL Queries in .NET](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.11)</small>
 - `.NET 관련 소식` - [C# 13: Explore the latest preview features](https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework July 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.09)</small>
 - `e-Book` - [로우 코드 혁신에 대한 CIO 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcqXFnIQ/original?ocid=eml_pg401340_gdc_comm_ba&WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>

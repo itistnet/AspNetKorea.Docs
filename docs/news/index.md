@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
+- [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>
 - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - [Creating Bindings for .NET MAUI with Native Library Interop](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - [Sign VSIX packages with Sign CLI](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
