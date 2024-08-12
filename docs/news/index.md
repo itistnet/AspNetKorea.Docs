@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [My Summer Experience as a SWE Intern at Microsoft](https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.09)</small>
 - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
 - [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>
 - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>

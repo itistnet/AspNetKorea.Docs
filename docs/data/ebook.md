@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/AI에서_받은_영감_6가지_Copilot_사용_사례.png" class="imgEbookCover"> [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/how_microsoft_secures_generative_ai.png" class="imgEbookCover"> [How Microsoft Secures Generative AI](https://clouddamcdnprodep.azureedge.net/gdc/gdcw4PfwZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/업무에서_AI의_영향력_극대화.png" class="imgEbookCover"> [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/로우_코드_혁신에_대한_CIO_가이드.png" class="imgEbookCover"> [로우 코드 혁신에 대한 CIO 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcqXFnIQ/original?ocid=eml_pg401340_gdc_comm_ba&WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
