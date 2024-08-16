@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `e-Book` - [Microsoft Copilot Studio로 AI 혁신 가속화하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcBukmbd/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `e-Book` - [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [My Summer Experience as a SWE Intern at Microsoft](https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.09)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [How use a Blazor QuickGrid with GraphQL](https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.24)</small>
 - `.NET 관련 소식` - [Announcing .NET Conf: Focus on AI – August 20th 2024](https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.23)</small>
 - `.NET 관련 소식` - [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.23)</small>
-- `.NET 관련 소식` - [Add AI to Your .NET Apps Easily with Prompty](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.22)</small>
-<!--- `e-Book` - [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
+<!--- `.NET 관련 소식` - [Add AI to Your .NET Apps Easily with Prompty](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.22)</small>
+- `e-Book` - [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [.NET 6 will reach End of Support on November 12, 2024](https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
