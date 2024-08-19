@@ -5,6 +5,13 @@
 
 ## 2024
 
+- [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
+- [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
+- [.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
+- [First preview of Visual Studio 2022 v17.12 with .NET 9](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-12-with-net-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
+- [Visual Studio 2022 v17.11 – Your feedback in action](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
+- [Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog](https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
+- [.NET and .NET Framework August 2024 updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - [My Summer Experience as a SWE Intern at Microsoft](https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.09)</small>
 - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
 - [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>

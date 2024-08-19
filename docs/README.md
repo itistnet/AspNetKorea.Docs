@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
+- `.NET 관련 소식` - [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
+- `.NET 관련 소식` - [.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
+- `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.12 with .NET 9](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-12-with-net-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 v17.11 – Your feedback in action](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
+- `.NET 관련 소식` - [Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog](https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework August 2024 updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `e-Book` - [Microsoft Copilot Studio로 AI 혁신 가속화하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcBukmbd/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `e-Book` - [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
@@ -20,14 +27,14 @@
 - `.NET 관련 소식` - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
 - `.NET 관련 소식` - [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>
 - `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
-- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
+<!--- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `.NET 관련 소식` - [Creating Bindings for .NET MAUI with Native Library Interop](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - `.NET 관련 소식` - [Sign VSIX packages with Sign CLI](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - `.NET 관련 소식` - [Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup](https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.24)</small>
 - `.NET 관련 소식` - [How use a Blazor QuickGrid with GraphQL](https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.24)</small>
 - `.NET 관련 소식` - [Announcing .NET Conf: Focus on AI – August 20th 2024](https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.23)</small>
 - `.NET 관련 소식` - [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.23)</small>
-<!--- `.NET 관련 소식` - [Add AI to Your .NET Apps Easily with Prompty](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.22)</small>
+- `.NET 관련 소식` - [Add AI to Your .NET Apps Easily with Prompty](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.22)</small>
 - `e-Book` - [업무에서 AI의 영향력 극대화](https://clouddamcdnprodep.azureedge.net/gdc/gdc3ayTdZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
 - `.NET 관련 소식` - [Three New Premium Visual Studio Subscriber Benefits Announced](https://devblogs.microsoft.com/visualstudio/new-visual-studio-benefits-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.18)</small>
