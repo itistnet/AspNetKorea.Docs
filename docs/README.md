@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/446579/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.02 ~ 03)</small>
 - `.NET 관련 소식` - [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - `.NET 관련 소식` - [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - `.NET 관련 소식` - [.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
@@ -26,8 +27,8 @@
 - `e-Book` - [How Microsoft Secures Generative AI](https://clouddamcdnprodep.azureedge.net/gdc/gdcw4PfwZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
 - `.NET 관련 소식` - [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>
-- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 <!--- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
+- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `.NET 관련 소식` - [Creating Bindings for .NET MAUI with Native Library Interop](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - `.NET 관련 소식` - [Sign VSIX packages with Sign CLI](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - `.NET 관련 소식` - [Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup](https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.24)</small>
