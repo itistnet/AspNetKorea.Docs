@@ -5,6 +5,11 @@
 
 ## 2024
 
+- [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
+- [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
+- [New C++ features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
+- [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
+- [New git tooling features](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.19)</small>
 - [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - [.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>

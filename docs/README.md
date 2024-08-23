@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
+- `.NET 관련 소식` - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
+- `.NET 관련 소식` - [New C++ features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
+- `.NET 관련 소식` - [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
+- `.NET 관련 소식` - [New git tooling features](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.19)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/446579/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.02 ~ 03)</small>
 - `.NET 관련 소식` - [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - `.NET 관련 소식` - [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
@@ -22,12 +27,12 @@
 - `.NET 관련 소식` - [.NET and .NET Framework August 2024 updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `e-Book` - [Microsoft Copilot Studio로 AI 혁신 가속화하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcBukmbd/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
-- `e-Book` - [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
+<!--- `e-Book` - [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [My Summer Experience as a SWE Intern at Microsoft](https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.09)</small>
 - `e-Book` - [How Microsoft Secures Generative AI](https://clouddamcdnprodep.azureedge.net/gdc/gdcw4PfwZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.07)</small>
 - `.NET 관련 소식` - [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.06)</small>
-<!--- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
+- `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `.NET 관련 소식` - [Enhancing #help in F# Interactive](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.31)</small>
 - `.NET 관련 소식` - [Creating Bindings for .NET MAUI with Native Library Interop](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
 - `.NET 관련 소식` - [Sign VSIX packages with Sign CLI](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2024.07.29)</small>
