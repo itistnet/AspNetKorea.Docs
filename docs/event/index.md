@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=360079130&WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/446579/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.02 ~ 03)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/444397/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.05 ~ 06)</small> <span class="spnBadgeType1">온라인</span>
