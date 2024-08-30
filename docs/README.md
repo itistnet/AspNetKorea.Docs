@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Innovate with AI: Azure Bootcamp](https://www.microsoft.com/ko-kr/koreaazurebootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24 ~ 26)</small>
+- `행사 소식` - [Microsoft Teams Premium으로 스마트한 업무 환경 만들기](https://msevents.microsoft.com/event?id=468857369&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
+- `행사 소식` - [Microsoft Tech Brief: XDR 및 SIEM을 통해 포괄적인 방식으로 위협으로부터 보호](https://msevents.microsoft.com/event?id=564997428&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `행사 소식` - [Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=360079130&WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [New IDE features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-ide-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.26)</small>
 - `.NET 관련 소식` - [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - `.NET 관련 소식` - [.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
 - `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.12 with .NET 9](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-12-with-net-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
-- `.NET 관련 소식` - [Visual Studio 2022 v17.11 – Your feedback in action](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
+<!--- `.NET 관련 소식` - [Visual Studio 2022 v17.11 – Your feedback in action](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `.NET 관련 소식` - [Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog](https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework August 2024 updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
-<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `e-Book` - [Microsoft Copilot Studio로 AI 혁신 가속화하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcBukmbd/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `e-Book` - [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [My Summer Experience as a SWE Intern at Microsoft](https://devblogs.microsoft.com/visualstudio/my-summer-experience-as-a-swe-intern-at-microsoft/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.09)</small>

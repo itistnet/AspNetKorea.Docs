@@ -4,6 +4,9 @@
 
 ## 2024
 
+- [Innovate with AI: Azure Bootcamp](https://www.microsoft.com/ko-kr/koreaazurebootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24 ~ 26)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Teams Premium으로 스마트한 업무 환경 만들기](https://msevents.microsoft.com/event?id=468857369&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Tech Brief: XDR 및 SIEM을 통해 포괄적인 방식으로 위협으로부터 보호](https://msevents.microsoft.com/event?id=564997428&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small> <span class="spnBadgeType1">온라인</span>
 - [Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=360079130&WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/446579/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.02 ~ 03)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small> <span class="spnBadgeType1">온라인</span>
