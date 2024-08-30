@@ -5,6 +5,13 @@
 
 ## 2024
 
+- [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
+- [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
+- [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
+- [C++ Gaming Productivity Update for Visual Studio 2022 version 17.11](https://devblogs.microsoft.com/visualstudio/c-gaming-productivity-update-for-visual-studio-2022-version-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
+- [Introducing the Pinecone .NET SDK](https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
+- [.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
+- [C# Dev Kit update brings enhanced Razor IntelliSense, Project Status, and New Config Options](https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - [New IDE features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-ide-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.26)</small>
 - [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
 - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>

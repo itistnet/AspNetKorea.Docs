@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
+- `.NET 관련 소식` - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
+- `.NET 관련 소식` - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
+- `.NET 관련 소식` - [C++ Gaming Productivity Update for Visual Studio 2022 version 17.11](https://devblogs.microsoft.com/visualstudio/c-gaming-productivity-update-for-visual-studio-2022-version-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
+- `.NET 관련 소식` - [Introducing the Pinecone .NET SDK](https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
+- `.NET 관련 소식` - [.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
+- `.NET 관련 소식` - [C# Dev Kit update brings enhanced Razor IntelliSense, Project Status, and New Config Options](https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `행사 소식` - [Innovate with AI: Azure Bootcamp](https://www.microsoft.com/ko-kr/koreaazurebootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24 ~ 26)</small>
 - `행사 소식` - [Microsoft Teams Premium으로 스마트한 업무 환경 만들기](https://msevents.microsoft.com/event?id=468857369&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
 - `행사 소식` - [Microsoft Tech Brief: XDR 및 SIEM을 통해 포괄적인 방식으로 위협으로부터 보호](https://msevents.microsoft.com/event?id=564997428&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
@@ -20,14 +27,14 @@
 - `.NET 관련 소식` - [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
 - `.NET 관련 소식` - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
 - `.NET 관련 소식` - [New C++ features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
-- `.NET 관련 소식` - [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
+<!--- `.NET 관련 소식` - [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
 - `.NET 관련 소식` - [New git tooling features](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.19)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/446579/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.02 ~ 03)</small>
 - `.NET 관련 소식` - [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - `.NET 관련 소식` - [Copilot Content Exclusion Now Available in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/copilot-content-exclusion-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
 - `.NET 관련 소식` - [.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
 - `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.12 with .NET 9](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-12-with-net-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.14)</small>
-<!--- `.NET 관련 소식` - [Visual Studio 2022 v17.11 – Your feedback in action](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 v17.11 – Your feedback in action](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `.NET 관련 소식` - [Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog](https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework August 2024 updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.13)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/443811/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
