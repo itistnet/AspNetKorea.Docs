@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/445776/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.30)</small>
+- `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
@@ -25,9 +27,9 @@
 - `행사 소식` - [Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=360079130&WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [New IDE features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-ide-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.26)</small>
 - `.NET 관련 소식` - [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
-- `.NET 관련 소식` - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
+<!--- `.NET 관련 소식` - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
 - `.NET 관련 소식` - [New C++ features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
-<!--- `.NET 관련 소식` - [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
+- `.NET 관련 소식` - [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
 - `.NET 관련 소식` - [New git tooling features](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.19)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/446579/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.02 ~ 03)</small>
 - `.NET 관련 소식` - [.NET 9 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.15)</small>
