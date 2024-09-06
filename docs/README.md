@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Easily dock and float tool windows](https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.05)</small>
+- `.NET 관련 소식` - [Discover .NET at DEVintersection Las Vegas 2024](https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
+- `.NET 관련 소식` - [Incorporate GitHub Copilot into your daily flow](https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
+- `.NET 관련 소식` - [Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’](https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
+- `.NET 관련 소식` - [Enhancing your Visual Studio authentication experience](https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/445776/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.30)</small>
 - `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
@@ -22,12 +27,12 @@
 - `.NET 관련 소식` - [.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `.NET 관련 소식` - [C# Dev Kit update brings enhanced Razor IntelliSense, Project Status, and New Config Options](https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `행사 소식` - [Innovate with AI: Azure Bootcamp](https://www.microsoft.com/ko-kr/koreaazurebootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24 ~ 26)</small>
-- `행사 소식` - [Microsoft Teams Premium으로 스마트한 업무 환경 만들기](https://msevents.microsoft.com/event?id=468857369&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
+<!--- `행사 소식` - [Microsoft Teams Premium으로 스마트한 업무 환경 만들기](https://msevents.microsoft.com/event?id=468857369&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
 - `행사 소식` - [Microsoft Tech Brief: XDR 및 SIEM을 통해 포괄적인 방식으로 위협으로부터 보호](https://msevents.microsoft.com/event?id=564997428&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `행사 소식` - [Discovery Hour: Microsoft Copilot for Microsoft 365 - 나만의 AI 비서](https://msevents.microsoft.com/event?id=360079130&WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [New IDE features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-ide-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.26)</small>
 - `.NET 관련 소식` - [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.22)</small>
-<!--- `.NET 관련 소식` - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
+- `.NET 관련 소식` - [Supercharge your testing experience with MSTest.Analyzers](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/?WT_mc_id=DOP-MVP-4027259?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
 - `.NET 관련 소식` - [New C++ features in Visual Studio v17.11](https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.21)</small>
 - `.NET 관련 소식` - [New debugging and diagnostic features](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.20)</small>
 - `.NET 관련 소식` - [New git tooling features](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.19)</small>

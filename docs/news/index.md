@@ -5,6 +5,11 @@
 
 ## 2024
 
+- [Easily dock and float tool windows](https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.05)</small>
+- [Discover .NET at DEVintersection Las Vegas 2024](https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
+- [Incorporate GitHub Copilot into your daily flow](https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
+- [Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’](https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
+- [Enhancing your Visual Studio authentication experience](https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
