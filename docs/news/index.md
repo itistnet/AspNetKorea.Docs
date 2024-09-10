@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
+- [Supercharge C++ Debugging with AI-Generated breakpoint expressions](https://devblogs.microsoft.com/visualstudio/supercharge-c-debugging-with-ai-generated-breakpoint-expressions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
 - [Easily dock and float tool windows](https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.05)</small>
 - [Discover .NET at DEVintersection Las Vegas 2024](https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
 - [Incorporate GitHub Copilot into your daily flow](https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.04)</small>
