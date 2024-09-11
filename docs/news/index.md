@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
+- [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
 - [Supercharge C++ Debugging with AI-Generated breakpoint expressions](https://devblogs.microsoft.com/visualstudio/supercharge-c-debugging-with-ai-generated-breakpoint-expressions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
 - [Easily dock and float tool windows](https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.05)</small>

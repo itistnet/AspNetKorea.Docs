@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
+- `.NET 관련 소식` - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small>
 - `행사 소식` - [Microsoft Dynamics 365 Virtual Training Day: 기본 사항(CRM)](https://mktoevents.com/microsoft+event/445839/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.23 ~ 24)</small>
 - `.NET 관련 소식` - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
@@ -25,9 +27,9 @@
 - `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
-- `.NET 관련 소식` - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
+<!--- `.NET 관련 소식` - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
 - `.NET 관련 소식` - [C++ Gaming Productivity Update for Visual Studio 2022 version 17.11](https://devblogs.microsoft.com/visualstudio/c-gaming-productivity-update-for-visual-studio-2022-version-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
-<!--- `.NET 관련 소식` - [Introducing the Pinecone .NET SDK](https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
+- `.NET 관련 소식` - [Introducing the Pinecone .NET SDK](https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `.NET 관련 소식` - [.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `.NET 관련 소식` - [C# Dev Kit update brings enhanced Razor IntelliSense, Project Status, and New Config Options](https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
 - `행사 소식` - [Innovate with AI: Azure Bootcamp](https://www.microsoft.com/ko-kr/koreaazurebootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24 ~ 26)</small>
