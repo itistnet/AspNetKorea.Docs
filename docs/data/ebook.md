@@ -4,6 +4,8 @@
 
 ## Azure
 
+- <img src="image/ebook/book_default.png" class="imgEbookCover"> [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
+- <img src="image/ebook/book_default.png" class="imgEbookCover"> [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/microsoft_copilot_studio로_AI_혁신_가속화하기.png" class="imgEbookCover"> [Microsoft Copilot Studio로 AI 혁신 가속화하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcBukmbd/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/AI에서_받은_영감_6가지_Copilot_사용_사례.png" class="imgEbookCover"> [AI에서 받은 영감 : 6가지 Copilot 사용 사례](https://clouddamcdnprodep.azureedge.net/gdc/gdc2WK7dX/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/how_microsoft_secures_generative_ai.png" class="imgEbookCover"> [How Microsoft Secures Generative AI](https://clouddamcdnprodep.azureedge.net/gdc/gdcw4PfwZ/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>

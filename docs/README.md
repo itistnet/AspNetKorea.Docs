@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
+- `e-Book` - [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - `.NET 관련 소식` - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
@@ -25,9 +27,9 @@
 - `.NET 관련 소식` - [Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’](https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `.NET 관련 소식` - [Enhancing your Visual Studio authentication experience](https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/445776/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.30)</small>
-- `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
+<!--- `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
-<!--- `.NET 관련 소식` - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
+- `.NET 관련 소식` - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
 - `.NET 관련 소식` - [C++ Gaming Productivity Update for Visual Studio 2022 version 17.11](https://devblogs.microsoft.com/visualstudio/c-gaming-productivity-update-for-visual-studio-2022-version-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
 - `.NET 관련 소식` - [Introducing the Pinecone .NET SDK](https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.27)</small>
