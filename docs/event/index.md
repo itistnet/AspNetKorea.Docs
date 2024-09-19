@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Dynamics 365 Virtual Training Day: 기본 사항(CRM)](https://mktoevents.com/microsoft+event/445839/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/445776/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.30)</small> <span class="spnBadgeType1">온라인</span>
