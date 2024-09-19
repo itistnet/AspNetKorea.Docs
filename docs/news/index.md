@@ -5,6 +5,16 @@
 
 ## 2024
 
+- [Improving GitHub Copilot Completions in Visual Studio for C# Developers](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
+- [Multi-Project Launch Configuration](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
+- [How to run .NET apps natively on Arm64 devices](https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.17)</small>
+- [Understanding the behavior of the XAML Designer with abstract base classes](https://devblogs.microsoft.com/visualstudio/understanding-the-behavior-of-the-xaml-designer-with-abstract-base-classes/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.16)</small>
+- [VisualStudio.Extensibility 17.11: Settings and more Remote UI support](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-11-settings-and-more-remote-ui-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.12)</small>
+- [Android Asset Packs for .NET & .NET MAUI Android Apps](https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.12)</small>
+- [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.12)</small>
+- [Search scoping helps you find what you’re looking for](https://devblogs.microsoft.com/visualstudio/search-scoping-helps-you-find-what-youre-looking-for/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
+- [.NET 9 Release Candidate 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-release-candidate-1-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
+- [GitHub Models and .NET: Building Generative AI apps for engineers](https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
 - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>

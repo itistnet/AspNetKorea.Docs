@@ -12,12 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Improving GitHub Copilot Completions in Visual Studio for C# Developers](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
+- `.NET 관련 소식` - [Multi-Project Launch Configuration](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
+- `.NET 관련 소식` - [How to run .NET apps natively on Arm64 devices](https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.17)</small>
+- `.NET 관련 소식` - [Understanding the behavior of the XAML Designer with abstract base classes](https://devblogs.microsoft.com/visualstudio/understanding-the-behavior-of-the-xaml-designer-with-abstract-base-classes/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.16)</small>
+- `.NET 관련 소식` - [VisualStudio.Extensibility 17.11: Settings and more Remote UI support](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-11-settings-and-more-remote-ui-support/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.12)</small>
+- `.NET 관련 소식` - [Android Asset Packs for .NET & .NET MAUI Android Apps](https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.12)</small>
+- `.NET 관련 소식` - [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.12)</small>
+- `.NET 관련 소식` - [Search scoping helps you find what you’re looking for](https://devblogs.microsoft.com/visualstudio/search-scoping-helps-you-find-what-youre-looking-for/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
+- `.NET 관련 소식` - [.NET 9 Release Candidate 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-release-candidate-1-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
+- `.NET 관련 소식` - [GitHub Models and .NET: Building Generative AI apps for engineers](https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
 - `e-Book` - [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `e-Book` - [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - `.NET 관련 소식` - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
-- `행사 소식` - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small>
+<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small>
 - `행사 소식` - [Microsoft Dynamics 365 Virtual Training Day: 기본 사항(CRM)](https://mktoevents.com/microsoft+event/445839/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.23 ~ 24)</small>
 - `.NET 관련 소식` - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
 - `.NET 관련 소식` - [Supercharge C++ Debugging with AI-Generated breakpoint expressions](https://devblogs.microsoft.com/visualstudio/supercharge-c-debugging-with-ai-generated-breakpoint-expressions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
@@ -27,7 +37,7 @@
 - `.NET 관련 소식` - [Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’](https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `.NET 관련 소식` - [Enhancing your Visual Studio authentication experience](https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.03)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Azure OpenAI Service를 통해 생성형 앱 구축](https://mktoevents.com/Microsoft+Event/445776/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.30)</small>
-<!--- `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
+- `행사 소식` - [AI 시대의 클라우드 보안](https://msevents.microsoft.com/event?id=3301262255&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.13)</small>
 - `.NET 관련 소식` - [Announcing .NET Aspire 8.2 – Goodbye Components, Hello Integrations!](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [New GitHub Copilot features in Visual Studio 2022 17.11](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.29)</small>
 - `.NET 관련 소식` - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.08.28)</small>
