@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [Join the .NET Smart Components ecosystem](https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.19)</small>
 - [Improving GitHub Copilot Completions in Visual Studio for C# Developers](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
 - [Multi-Project Launch Configuration](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
 - [How to run .NET apps natively on Arm64 devices](https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.17)</small>
