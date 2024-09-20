@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/book_default.png" class="imgEbookCover"> [When It Comes to AI, Don’t Build 'Islands of Intelligence'](https://www.microsoft.com/en-us/worklab/when-it-comes-to-ai-do-not-build-islands-of-intelligence?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/book_default.png" class="imgEbookCover"> [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/book_default.png" class="imgEbookCover"> [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/microsoft_copilot_studio로_AI_혁신_가속화하기.png" class="imgEbookCover"> [Microsoft Copilot Studio로 AI 혁신 가속화하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcBukmbd/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>

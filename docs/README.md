@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [When It Comes to AI, Don’t Build 'Islands of Intelligence'](https://www.microsoft.com/en-us/worklab/when-it-comes-to-ai-do-not-build-islands-of-intelligence?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `행사 소식` - [Discovery Hour: Microsoft Copilot과 함께 새로운 AI 비즈니스 기회와 가치 창출](https://msevents.microsoft.com/event?id=2161240065&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24)</small>
 - `.NET 관련 소식` - [Improving GitHub Copilot Completions in Visual Studio for C# Developers](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
 - `.NET 관련 소식` - [Multi-Project Launch Configuration](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
@@ -26,8 +27,8 @@
 - `e-Book` - [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `e-Book` - [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
-- `.NET 관련 소식` - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
-<!--- `.NET 관련 소식` - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
+<!--- `.NET 관련 소식` - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
+- `.NET 관련 소식` - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small>
 - `행사 소식` - [Microsoft Dynamics 365 Virtual Training Day: 기본 사항(CRM)](https://mktoevents.com/microsoft+event/445839/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.23 ~ 24)</small>
 - `.NET 관련 소식` - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.09)</small>
