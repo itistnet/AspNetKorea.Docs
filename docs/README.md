@@ -12,7 +12,23 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `.NET 관련 소식` - [Join the .NET Smart Components ecosystem](https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.19)</small>
+- `.NET 관련 소식` - [Introducing a new, more conversational way to chat with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/conversational-way-to-chat-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.06)</small>
+- `.NET 관련 소식` - [Learn how to create a Client-Server Application in under 45 Minutes in the new Season of AI](https://devblogs.microsoft.com/visualstudio/learn-how-to-create-a-client-server-application-in-under-45-minutes-in-the-new-season-of-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.05)</small>
+- `.NET 관련 소식` - [The making of Bring Back Plus/Minus](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.04)</small>
+- `.NET 관련 소식` - [Unlocking the Power of GitHub Models in .NET with Semantic Kernel](https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.31)</small>
+- `.NET 관련 소식` - [Unreal Engine Toolbar in Visual Studio](https://devblogs.microsoft.com/visualstudio/unreal-engine-toolbar-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.30)</small>
+- `.NET 관련 소식` - [Introducing Microsoft.Extensions.VectorData Preview](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.29)</small>
+- `.NET 관련 소식` - [Create Unreal Engine modules faster](https://devblogs.microsoft.com/visualstudio/create-unreal-engine-modules-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.29)</small>
+- `.NET 관련 소식` - [Easily add Unreal Engine classes to your C++ project](https://devblogs.microsoft.com/visualstudio/easily-add-unreal-engine-classes-to-your-c-project/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.28)</small>
+- `.NET 관련 소식` - [.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement](https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.24)</small>
+- `.NET 관련 소식` - [Upgrade Your Windows Forms .NET Projects to the Latest .NET Version for Enhanced Security](https://devblogs.microsoft.com/visualstudio/upgrade-your-windows-forms-net-projects-to-the-latest-net-version-for-enhanced-security/?WT_mc_id=DOP-MVP-4027259) - `.NET 관련 소식` <small>(2024.10.24)</small>
+- `.NET 관련 소식` - [eShop infused with AI – a comprehensive intelligent app sample](https://devblogs.microsoft.com/dotnet/e-shop-infused-with-ai-comprehensive-intelligent-dotnet-app-sample/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.23)</small>
+- `.NET 관련 소식` - [Get Hands-On with Visual Studio, .NET, AI, and More at Live! 360 next month.](https://devblogs.microsoft.com/visualstudio/live-360-orlando-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.23)</small>
+- `.NET 관련 소식` - [.NET MAUI Welcomes Syncfusion Open-source Contributions](https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.22)</small>
+- `.NET 관련 소식` - [Debug CMake Scripts on Linux with Visual Studio](https://devblogs.microsoft.com/visualstudio/debug-cmake-scripts-on-linux-with-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.22)</small>
+- `.NET 관련 소식` - [MongoDB EF Core Provider: What’s New?](https://devblogs.microsoft.com/dotnet/mongodb-ef-core-provider-whats-new/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.21)</small>
+
+<!--- `.NET 관련 소식` - [Join the .NET Smart Components ecosystem](https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.19)</small>
 - `e-Book` - [When It Comes to AI, Don’t Build 'Islands of Intelligence'](https://www.microsoft.com/en-us/worklab/when-it-comes-to-ai-do-not-build-islands-of-intelligence?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `행사 소식` - [Discovery Hour: Microsoft Copilot과 함께 새로운 AI 비즈니스 기회와 가치 창출](https://msevents.microsoft.com/event?id=2161240065&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24)</small>
 - `.NET 관련 소식` - [Improving GitHub Copilot Completions in Visual Studio for C# Developers](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
@@ -27,7 +43,7 @@
 - `.NET 관련 소식` - [GitHub Models and .NET: Building Generative AI apps for engineers](https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.11)</small>
 - `e-Book` - [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `e-Book` - [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
-<!--- `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Learn to Build Your First Blazor Hybrid App!](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - `.NET 관련 소식` - [Break for Async User-Unhandled exceptions in the Visual Studio Debugger](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.10)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small>

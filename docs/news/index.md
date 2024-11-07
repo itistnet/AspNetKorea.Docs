@@ -5,6 +5,31 @@
 
 ## 2024
 
+- [Introducing a new, more conversational way to chat with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/conversational-way-to-chat-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.06)</small>
+- [Learn how to create a Client-Server Application in under 45 Minutes in the new Season of AI](https://devblogs.microsoft.com/visualstudio/learn-how-to-create-a-client-server-application-in-under-45-minutes-in-the-new-season-of-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.05)</small>
+- [The making of Bring Back Plus/Minus](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.04)</small>
+- [Unlocking the Power of GitHub Models in .NET with Semantic Kernel](https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.31)</small>
+- [Unreal Engine Toolbar in Visual Studio](https://devblogs.microsoft.com/visualstudio/unreal-engine-toolbar-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.30)</small>
+- [Introducing Microsoft.Extensions.VectorData Preview](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.29)</small>
+- [Create Unreal Engine modules faster](https://devblogs.microsoft.com/visualstudio/create-unreal-engine-modules-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.29)</small>
+- [Easily add Unreal Engine classes to your C++ project](https://devblogs.microsoft.com/visualstudio/easily-add-unreal-engine-classes-to-your-c-project/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.28)</small>
+- [.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement](https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.24)</small>
+- [Upgrade Your Windows Forms .NET Projects to the Latest .NET Version for Enhanced Security](https://devblogs.microsoft.com/visualstudio/upgrade-your-windows-forms-net-projects-to-the-latest-net-version-for-enhanced-security/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.24)</small>
+- [eShop infused with AI – a comprehensive intelligent app sample](https://devblogs.microsoft.com/dotnet/e-shop-infused-with-ai-comprehensive-intelligent-dotnet-app-sample/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.23)</small>
+- [Get Hands-On with Visual Studio, .NET, AI, and More at Live! 360 next month.](https://devblogs.microsoft.com/visualstudio/live-360-orlando-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.23)</small>
+- [.NET MAUI Welcomes Syncfusion Open-source Contributions](https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.22)</small>
+- [Debug CMake Scripts on Linux with Visual Studio](https://devblogs.microsoft.com/visualstudio/debug-cmake-scripts-on-linux-with-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.22)</small>
+- [MongoDB EF Core Provider: What’s New?](https://devblogs.microsoft.com/dotnet/mongodb-ef-core-provider-whats-new/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.21)</small>
+- [.NET Conf 2024 Student Zone](https://devblogs.microsoft.com/dotnet/dotnetconf-2024-student-zone/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.17)</small>
+- [How we build GitHub Copilot into Visual Studio](https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.16)</small>
+- [What’s new in System.Text.Json in .NET 9](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.15)</small>
+- [Catch the highlights from Azure Developers – .NET Aspire Day 2024!](https://devblogs.microsoft.com/dotnet/azure-developers-dotnet-aspire-day-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.14)</small>
+- [Engineering the Scalable Vector Extension in .NET](https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.10)</small>
+- [.NET 9 Release Candidate 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.08)</small>
+- [Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.08)</small>
+- [.NET and .NET Framework October 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.08)</small>
+- [Announcing the stable release of the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.01)</small>
+- [Getting started with testing and .NET Aspire](https://devblogs.microsoft.com/dotnet/getting-started-with-testing-and-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25)</small>
 - [Join the .NET Smart Components ecosystem](https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.19)</small>
 - [Improving GitHub Copilot Completions in Visual Studio for C# Developers](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
 - [Multi-Project Launch Configuration](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.18)</small>
