@@ -5,6 +5,11 @@
 
 ## 2024
 
+- [Visual Studio 2022 v17.12 with .NET 9](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-12-with-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.12)</small>
+- [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.12)</small>
+- [.NET and .NET Framework November 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.12)</small>
+- [Better GitHub Copilot Completions for C#](https://devblogs.microsoft.com/visualstudio/better-github-copilot-completions-for-c/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.11)</small>
+- [Get Ready for .NET Conf 2024!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.07)</small>
 - [Introducing a new, more conversational way to chat with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/conversational-way-to-chat-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.06)</small>
 - [Learn how to create a Client-Server Application in under 45 Minutes in the new Season of AI](https://devblogs.microsoft.com/visualstudio/learn-how-to-create-a-client-server-application-in-under-45-minutes-in-the-new-season-of-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.05)</small>
 - [The making of Bring Back Plus/Minus](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.04)</small>
