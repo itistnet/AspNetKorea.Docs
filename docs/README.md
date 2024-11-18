@@ -12,7 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- [Join Us at Microsoft Ignite: Unlock GitHub Copilot’s New Potential in Visual Studio](https://devblogs.microsoft.com/visualstudio/join-us-at-microsoft-ignite-unlock-github-copilots-new-potential-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.15)</small>
+- `.NET 관련 소식` - [Join Us at Microsoft Ignite: Unlock GitHub Copilot’s New Potential in Visual Studio](https://devblogs.microsoft.com/visualstudio/join-us-at-microsoft-ignite-unlock-github-copilots-new-potential-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.15)</small>
 - `.NET 관련 소식` - [Fix Code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/fix-code-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
 - `.NET 관련 소식` - [Calling methods is easier and faster with C# 13 params collections](https://devblogs.microsoft.com/dotnet/csharp13-calling-methods-is-easier-and-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
 - `.NET 관련 소식` - [Nullable Reference Types in F# 9](https://devblogs.microsoft.com/dotnet/nullable-reference-types-in-fsharp-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
