@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19 ~ 21)</small>
+- `행사 소식` - [[Microsoft Tech Brief] AI 툴을 활용한 개발자 생산성 향상](https://msevents.microsoft.com/event?id=2444027560&WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small>
 - `.NET 관련 소식` - [Join Us at Microsoft Ignite: Unlock GitHub Copilot’s New Potential in Visual Studio](https://devblogs.microsoft.com/visualstudio/join-us-at-microsoft-ignite-unlock-github-copilots-new-potential-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.15)</small>
 - `.NET 관련 소식` - [Fix Code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/fix-code-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
 - `.NET 관련 소식` - [Calling methods is easier and faster with C# 13 params collections](https://devblogs.microsoft.com/dotnet/csharp13-calling-methods-is-easier-and-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
@@ -25,9 +27,9 @@
 - `.NET 관련 소식` - [Get Ready for .NET Conf 2024!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.07)</small>
 - `.NET 관련 소식` - [Introducing a new, more conversational way to chat with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/conversational-way-to-chat-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.06)</small>
 - `.NET 관련 소식` - [Learn how to create a Client-Server Application in under 45 Minutes in the new Season of AI](https://devblogs.microsoft.com/visualstudio/learn-how-to-create-a-client-server-application-in-under-45-minutes-in-the-new-season-of-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.05)</small>
-- `.NET 관련 소식` - [The making of Bring Back Plus/Minus](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.04)</small>
+<!--- `.NET 관련 소식` - [The making of Bring Back Plus/Minus](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.04)</small>
 - `.NET 관련 소식` - [Unlocking the Power of GitHub Models in .NET with Semantic Kernel](https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.31)</small>
-<!--- `.NET 관련 소식` - [Unreal Engine Toolbar in Visual Studio](https://devblogs.microsoft.com/visualstudio/unreal-engine-toolbar-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.30)</small>
+- `.NET 관련 소식` - [Unreal Engine Toolbar in Visual Studio](https://devblogs.microsoft.com/visualstudio/unreal-engine-toolbar-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.30)</small>
 - `.NET 관련 소식` - [Introducing Microsoft.Extensions.VectorData Preview](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.29)</small>
 - `.NET 관련 소식` - [Create Unreal Engine modules faster](https://devblogs.microsoft.com/visualstudio/create-unreal-engine-modules-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.29)</small>
 - `.NET 관련 소식` - [Easily add Unreal Engine classes to your C++ project](https://devblogs.microsoft.com/visualstudio/easily-add-unreal-engine-classes-to-your-c-project/?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.28)</small>

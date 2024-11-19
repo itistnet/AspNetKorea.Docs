@@ -4,6 +4,8 @@
 
 ## 2024
 
+- [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
+- [[Microsoft Tech Brief] AI 툴을 활용한 개발자 생산성 향상](https://msevents.microsoft.com/event?id=2444027560&WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small> <span class="spnBadgeType1">온라인</span>
 - [Discovery Hour: Microsoft Copilot과 함께 새로운 AI 비즈니스 기회와 가치 창출](https://msevents.microsoft.com/event?id=2161240065&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 생성형 AI 기본 사항](https://mktoevents.com/Microsoft+Event/450554/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.10.07)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/microsoft+event/445795/157-gqe-382?WT_mc_id=DOP-MVP-4027259) <small>(2024.09.25 ~ 26)</small> <span class="spnBadgeType1">온라인</span>
