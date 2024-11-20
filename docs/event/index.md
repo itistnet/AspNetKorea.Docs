@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft AI Transformation Week](https://event-us.kr/ttimes/event/94451) <small>(2024.12.03 ~ 04)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
 - [[Microsoft Tech Brief] AI 툴을 활용한 개발자 생산성 향상](https://msevents.microsoft.com/event?id=2444027560&WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small> <span class="spnBadgeType1">온라인</span>
 - [Discovery Hour: Microsoft Copilot과 함께 새로운 AI 비즈니스 기회와 가치 창출](https://msevents.microsoft.com/event?id=2161240065&WT_mc_id=DOP-MVP-4027259) <small>(2024.09.24)</small> <span class="spnBadgeType1">온라인</span>

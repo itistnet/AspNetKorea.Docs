@@ -5,6 +5,7 @@
 
 ## 2024
 
+- [VisualStudio.Extensibility 17.12: CodeLens support is here!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19)</small>
 - [Git tooling updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/git-tooling-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
 - [Enhance Your .NET Developer Productivity with GitHub Copilot](https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
 - [Join Us at Microsoft Ignite: Unlock GitHub Copilot’s New Potential in Visual Studio](https://devblogs.microsoft.com/visualstudio/join-us-at-microsoft-ignite-unlock-github-copilots-new-potential-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.15)</small>
