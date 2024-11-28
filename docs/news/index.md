@@ -14,7 +14,7 @@
 - [Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024](https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.22)</small>
 - [Making you more productive with Visual Studio v17.12](https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.21)</small>
 - [Copy files across instances of Visual Studio](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
-- [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
+- [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/visualstudio/copy-files-across-instances-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
 - [VisualStudio.Extensibility 17.12: CodeLens support is here!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19)</small>
 - [Git tooling updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/git-tooling-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
 - [Enhance Your .NET Developer Productivity with GitHub Copilot](https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
