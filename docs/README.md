@@ -12,12 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Updates for C++ developers in Visual Studio 2022 17.12](https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
+- `.NET 관련 소식` - [Dramatically faster package restores with .NET 9’s new NuGet resolver](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
+- `.NET 관련 소식` - [Evaluate the quality of your AI applications with ease](https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
+- `.NET 관련 소식` - [Debugger and Diagnostics updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
+- `.NET 관련 소식` - [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
+- `.NET 관련 소식` - [Copying error messages just got easier](https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
+- `.NET 관련 소식` - [Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024](https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.22)</small>
+- `.NET 관련 소식` - [Making you more productive with Visual Studio v17.12](https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.21)</small>
+- `.NET 관련 소식` - [Copy files across instances of Visual Studio](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
+- `.NET 관련 소식` - [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
 - `행사 소식` - [Microsoft AI Transformation Week](https://event-us.kr/ttimes/event/94451) <small>(2024.12.03 ~ 04)</small>
 - `.NET 관련 소식` - [VisualStudio.Extensibility 17.12: CodeLens support is here!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19)</small>
 - `행사 소식` - [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19 ~ 21)</small>
 - `행사 소식` - [[Microsoft Tech Brief] AI 툴을 활용한 개발자 생산성 향상](https://msevents.microsoft.com/event?id=2444027560&WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small>
 - `.NET 관련 소식` - [Git tooling updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/git-tooling-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
-- `.NET 관련 소식` - [Enhance Your .NET Developer Productivity with GitHub Copilot](https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
+<!--- `.NET 관련 소식` - [Enhance Your .NET Developer Productivity with GitHub Copilot](https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
 - `.NET 관련 소식` - [Join Us at Microsoft Ignite: Unlock GitHub Copilot’s New Potential in Visual Studio](https://devblogs.microsoft.com/visualstudio/join-us-at-microsoft-ignite-unlock-github-copilots-new-potential-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.15)</small>
 - `.NET 관련 소식` - [Fix Code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/fix-code-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
 - `.NET 관련 소식` - [Calling methods is easier and faster with C# 13 params collections](https://devblogs.microsoft.com/dotnet/csharp13-calling-methods-is-easier-and-faster/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.14)</small>
@@ -27,7 +37,7 @@
 - `.NET 관련 소식` - [Visual Studio 2022 v17.12 with .NET 9](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-12-with-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.12)</small>
 - `.NET 관련 소식` - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.12)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework November 2024 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2024-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.12)</small>
-<!--- `.NET 관련 소식` - [Better GitHub Copilot Completions for C#](https://devblogs.microsoft.com/visualstudio/better-github-copilot-completions-for-c/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.11)</small>
+- `.NET 관련 소식` - [Better GitHub Copilot Completions for C#](https://devblogs.microsoft.com/visualstudio/better-github-copilot-completions-for-c/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.11)</small>
 - `.NET 관련 소식` - [Get Ready for .NET Conf 2024!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.07)</small>
 - `.NET 관련 소식` - [Introducing a new, more conversational way to chat with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/conversational-way-to-chat-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.06)</small>
 - `.NET 관련 소식` - [Learn how to create a Client-Server Application in under 45 Minutes in the new Season of AI](https://devblogs.microsoft.com/visualstudio/learn-how-to-create-a-client-server-application-in-under-45-minutes-in-the-new-season-of-ai/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.05)</small>

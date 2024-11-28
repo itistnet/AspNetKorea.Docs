@@ -5,6 +5,16 @@
 
 ## 2024
 
+- [Updates for C++ developers in Visual Studio 2022 17.12](https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
+- [Dramatically faster package restores with .NET 9’s new NuGet resolver](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
+- [Evaluate the quality of your AI applications with ease](https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
+- [Debugger and Diagnostics updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
+- [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
+- [Copying error messages just got easier](https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
+- [Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024](https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.22)</small>
+- [Making you more productive with Visual Studio v17.12](https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.21)</small>
+- [Copy files across instances of Visual Studio](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
+- [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
 - [VisualStudio.Extensibility 17.12: CodeLens support is here!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19)</small>
 - [Git tooling updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/git-tooling-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
 - [Enhance Your .NET Developer Productivity with GitHub Copilot](https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.18)</small>
