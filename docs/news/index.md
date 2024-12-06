@@ -5,6 +5,12 @@
 
 ## 2024
 
+- [Using Dependabot to Manage .NET SDK Updates](https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
+- [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
+- [How Inline Return Values Simplify Debugging in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.04)</small>
+- [Introducing the Copy Git Permalink Feature in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/introducing-the-copy-git-permalink-feature-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.03)</small>
+- [AI-Powered Insights: Streamlining Variable Analysis with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/ai-powered-insights-streamlining-variable-analysis-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.02)</small>
+- [Transform your debugging experience with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/transform-your-debugging-experience-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small>
 - [Updates for C++ developers in Visual Studio 2022 17.12](https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
 - [Dramatically faster package restores with .NET 9’s new NuGet resolver](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
 - [Evaluate the quality of your AI applications with ease](https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
