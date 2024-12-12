@@ -5,6 +5,11 @@
 
 ## 2024
 
+- [Effortless publishing with Azure Functions Flex Consumption](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.11)</small>
+- [Effortless publishing to Azure WebJobs on Linux](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
+- [Invoking Async Power: What Awaits WinForms in .NET 9](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
+- [Keep working with non-blocking Code Cleanup](https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
+- [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
 - [Using Dependabot to Manage .NET SDK Updates](https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
 - [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
 - [How Inline Return Values Simplify Debugging in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.04)</small>

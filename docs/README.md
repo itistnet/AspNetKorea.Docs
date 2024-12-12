@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Effortless publishing with Azure Functions Flex Consumption](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.11)</small>
+- `.NET 관련 소식` - [Effortless publishing to Azure WebJobs on Linux](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
+- `.NET 관련 소식` - [Invoking Async Power: What Awaits WinForms in .NET 9](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
+- `.NET 관련 소식` - [Keep working with non-blocking Code Cleanup](https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
+- `.NET 관련 소식` - [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
 - `.NET 관련 소식` - [Using Dependabot to Manage .NET SDK Updates](https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
 - `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
 - `.NET 관련 소식` - [How Inline Return Values Simplify Debugging in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.04)</small>
@@ -22,12 +27,12 @@
 - `.NET 관련 소식` - [Dramatically faster package restores with .NET 9’s new NuGet resolver](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
 - `.NET 관련 소식` - [Evaluate the quality of your AI applications with ease](https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
 - `.NET 관련 소식` - [Debugger and Diagnostics updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
-- `.NET 관련 소식` - [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
+<!--- `.NET 관련 소식` - [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
 - `.NET 관련 소식` - [Copying error messages just got easier](https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
 - `.NET 관련 소식` - [Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024](https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.22)</small>
 - `.NET 관련 소식` - [Making you more productive with Visual Studio v17.12](https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.21)</small>
 - `.NET 관련 소식` - [Copy files across instances of Visual Studio](https://devblogs.microsoft.com/visualstudio/copy-files-across-instances-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
-<!--- `.NET 관련 소식` - [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
+- `.NET 관련 소식` - [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.20)</small>
 - `행사 소식` - [Microsoft AI Transformation Week](https://event-us.kr/ttimes/event/94451) <small>(2024.12.03 ~ 04)</small>
 - `.NET 관련 소식` - [VisualStudio.Extensibility 17.12: CodeLens support is here!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19)</small>
 - `행사 소식` - [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19 ~ 21)</small>
