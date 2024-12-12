@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2024.12.08 ~ 09)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft AI Transformation Week](https://event-us.kr/ttimes/event/94451) <small>(2024.12.03 ~ 04)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.19 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
 - [[Microsoft Tech Brief] AI 툴을 활용한 개발자 생산성 향상](https://msevents.microsoft.com/event?id=2444027560&WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small> <span class="spnBadgeType1">온라인</span>

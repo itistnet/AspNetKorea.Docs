@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2024.12.08 ~ 09)</small>
 - `.NET 관련 소식` - [Effortless publishing with Azure Functions Flex Consumption](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.11)</small>
 - `.NET 관련 소식` - [Effortless publishing to Azure WebJobs on Linux](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
 - `.NET 관련 소식` - [Invoking Async Power: What Awaits WinForms in .NET 9](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Updates for C++ developers in Visual Studio 2022 17.12](https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
 - `.NET 관련 소식` - [Dramatically faster package restores with .NET 9’s new NuGet resolver](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
 - `.NET 관련 소식` - [Evaluate the quality of your AI applications with ease](https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
-- `.NET 관련 소식` - [Debugger and Diagnostics updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
-<!--- `.NET 관련 소식` - [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
+<!--- `.NET 관련 소식` - [Debugger and Diagnostics updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.26)</small>
+- `.NET 관련 소식` - [OpenAPI document generation in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
 - `.NET 관련 소식` - [Copying error messages just got easier](https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.25)</small>
 - `.NET 관련 소식` - [Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024](https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.22)</small>
 - `.NET 관련 소식` - [Making you more productive with Visual Studio v17.12](https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.21)</small>
