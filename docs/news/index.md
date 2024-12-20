@@ -5,6 +5,12 @@
 
 ## 2024
 
+- [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
+- [.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
+- [Create internal GitHub repos for your team](https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>
+- [Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search](https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>
+- [Boost your Git confidence with the new file rename notification](https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.12)</small>
+- [Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.12)</small>
 - [Effortless publishing with Azure Functions Flex Consumption](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.11)</small>
 - [Effortless publishing to Azure WebJobs on Linux](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
 - [Invoking Async Power: What Awaits WinForms in .NET 9](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
