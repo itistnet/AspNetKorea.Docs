@@ -5,6 +5,8 @@
 
 ## 2024
 
+- [Security updates to Azure publishing from Visual Studio](https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
+- [Top .NET Blogs Posts of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - [.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - [Create internal GitHub repos for your team](https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>

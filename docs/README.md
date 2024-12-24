@@ -12,6 +12,8 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Security updates to Azure publishing from Visual Studio](https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
+- `.NET 관련 소식` - [Top .NET Blogs Posts of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - `.NET 관련 소식` - [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - `.NET 관련 소식` - [.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - `.NET 관련 소식` - [Create internal GitHub repos for your team](https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>
@@ -25,9 +27,9 @@
 - `.NET 관련 소식` - [Keep working with non-blocking Code Cleanup](https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
 - `.NET 관련 소식` - [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
 - `.NET 관련 소식` - [Using Dependabot to Manage .NET SDK Updates](https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
-- `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
+<!--- `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
 - `.NET 관련 소식` - [How Inline Return Values Simplify Debugging in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.04)</small>
-<!--- `.NET 관련 소식` - [Introducing the Copy Git Permalink Feature in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/introducing-the-copy-git-permalink-feature-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.03)</small>
+- `.NET 관련 소식` - [Introducing the Copy Git Permalink Feature in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/introducing-the-copy-git-permalink-feature-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.03)</small>
 - `.NET 관련 소식` - [AI-Powered Insights: Streamlining Variable Analysis with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/ai-powered-insights-streamlining-variable-analysis-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.02)</small>
 - `.NET 관련 소식` - [Transform your debugging experience with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/transform-your-debugging-experience-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.28)</small>
 - `.NET 관련 소식` - [Updates for C++ developers in Visual Studio 2022 17.12](https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.11.27)</small>
