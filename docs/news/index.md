@@ -5,6 +5,10 @@
 
 ## 2024
 
+- [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
+- [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
+- [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
+- [Connect securely to your Azure resources](https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.24)</small>
 - [Security updates to Azure publishing from Visual Studio](https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - [Top .NET Blogs Posts of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
