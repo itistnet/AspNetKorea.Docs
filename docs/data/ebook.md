@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/AI_지원_IT_자산_구축.png" class="imgEbookCover"> [AI 지원 IT 자산 구축](https://clouddamcdnprodep.azureedge.net/gdc/gdccCF1Yb/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/book_default.png" class="imgEbookCover"> [When It Comes to AI, Don’t Build 'Islands of Intelligence'](https://www.microsoft.com/en-us/worklab/when-it-comes-to-ai-do-not-build-islands-of-intelligence?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/book_default.png" class="imgEbookCover"> [A Guide to Generative AI with Microsoft](https://clouddamcdnprodep.azureedge.net/gdc/gdc1g3KcY/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/book_default.png" class="imgEbookCover"> [The Key to a Thriving Wokforce? A Smart Approach to AI](https://www.microsoft.com/en-us/worklab/the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>

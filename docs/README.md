@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [AI 지원 IT 자산 구축](https://clouddamcdnprodep.azureedge.net/gdc/gdccCF1Yb/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - `.NET 관련 소식` - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - `.NET 관련 소식` - [.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - `.NET 관련 소식` - [Create internal GitHub repos for your team](https://devblogs.microsoft.com/visualstudio/create-internal-github-repos-for-your-team/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>
-- `.NET 관련 소식` - [Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search](https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>
-<!--- `.NET 관련 소식` - [Boost your Git confidence with the new file rename notification](https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.12)</small>
+<!--- `.NET 관련 소식` - [Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search](https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.16)</small>
+- `.NET 관련 소식` - [Boost your Git confidence with the new file rename notification](https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.12)</small>
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.12)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2024.12.08 ~ 09)</small>
 - `.NET 관련 소식` - [Effortless publishing with Azure Functions Flex Consumption](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.11)</small>
