@@ -12,6 +12,11 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/461327/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.22)</small>
+- `행사 소식` - [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.08 ~ 09)</small>
+- `행사 소식` - [Azure 기반 지능형 AI 애플리케이션 아키텍쳐 알아보기](https://msevents.microsoft.com/event?id=3055846252&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
+- `행사 소식` - [AI Apps in Action: Build Your Own Copilot](https://info.microsoft.com/ww-thankyou-ai-apps-in-action-build-your-own-copilot-video.html?WT_mc_id=DOP-MVP-4027259) <small>(상시)</small>
 - `.NET 관련 소식` - [Security updates to Azure publishing from Visual Studio](https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - `.NET 관련 소식` - [Top .NET Blogs Posts of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - `.NET 관련 소식` - [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
@@ -22,12 +27,12 @@
 - `.NET 관련 소식` - [Announcing .NET Community Toolkit 8.4! Partial properties support for MVVM, new analyzers, and more!](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-840/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.12)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2024.12.08 ~ 09)</small>
 - `.NET 관련 소식` - [Effortless publishing with Azure Functions Flex Consumption](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.11)</small>
-- `.NET 관련 소식` - [Effortless publishing to Azure WebJobs on Linux](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
+<!--- `.NET 관련 소식` - [Effortless publishing to Azure WebJobs on Linux](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
 - `.NET 관련 소식` - [Invoking Async Power: What Awaits WinForms in .NET 9](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.10)</small>
 - `.NET 관련 소식` - [Keep working with non-blocking Code Cleanup](https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
 - `.NET 관련 소식` - [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.09)</small>
 - `.NET 관련 소식` - [Using Dependabot to Manage .NET SDK Updates](https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
-<!--- `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
+- `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.05)</small>
 - `.NET 관련 소식` - [How Inline Return Values Simplify Debugging in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.04)</small>
 - `.NET 관련 소식` - [Introducing the Copy Git Permalink Feature in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/introducing-the-copy-git-permalink-feature-in-visual-studio-17-12/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.03)</small>
 - `.NET 관련 소식` - [AI-Powered Insights: Streamlining Variable Analysis with GitHub Copilot in Visual Studio](https://devblogs.microsoft.com/visualstudio/ai-powered-insights-streamlining-variable-analysis-with-github-copilot-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.02)</small>
