@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Join us at VS Live! 2025 Las Vegas](https://devblogs.microsoft.com/visualstudio/vs-live-2025-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework January 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
+- `.NET 관련 소식` - [Enhanced Change Signature in C++](https://devblogs.microsoft.com/visualstudio/enhanced-change-signature-in-c/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.13)</small>
+- `.NET 관련 소식` - [Benchmarking with Visual Studio Profiler](https://devblogs.microsoft.com/visualstudio/benchmarking-with-visual-studio-profiler/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
+- `.NET 관련 소식` - [.NET Aspire Quick Tip – Managing Container & Data Lifetime](https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
+- `.NET 관련 소식` - [Unlocking insights with Meter Histogram in the profiler](https://devblogs.microsoft.com/visualstudio/unlocking-insights-with-meter-histogram-in-the-profiler/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.06)</small>
+- `.NET 관련 소식` - [Dock the Code Search window in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.31)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/Microsoft+Event/461504/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [[Azure 워크샵] Copilot Stack으로 지능형 애플리케이션 개발하기 실습](https://msevents.microsoft.com/event?id=347432874&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType2">오프라인</span>
 - `행사 소식` - [AI Horizons Episode 1: AI Agents & AI Reasoning Models](https://msevents.microsoft.com/event?id=2286920277%20&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.21)</small> <span class="spnBadgeType1">온라인</span>
@@ -20,14 +27,14 @@
 - `e-Book` - [AI 지원 IT 자산 구축](https://clouddamcdnprodep.azureedge.net/gdc/gdccCF1Yb/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
-- `.NET 관련 소식` - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
+<!--- `.NET 관련 소식` - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
 - `.NET 관련 소식` - [Connect securely to your Azure resources](https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.24)</small>
 - `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/461327/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.22)</small>
 - `행사 소식` - [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.08 ~ 09)</small>
 - `행사 소식` - [Azure 기반 지능형 AI 애플리케이션 아키텍쳐 알아보기](https://msevents.microsoft.com/event?id=3055846252&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
 - `행사 소식` - [AI Apps in Action: Build Your Own Copilot](https://info.microsoft.com/ww-thankyou-ai-apps-in-action-build-your-own-copilot-video.html?WT_mc_id=DOP-MVP-4027259) <small>(상시)</small>
-<!--- `.NET 관련 소식` - [Security updates to Azure publishing from Visual Studio](https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
+- `.NET 관련 소식` - [Security updates to Azure publishing from Visual Studio](https://devblogs.microsoft.com/visualstudio/security-updates-to-azure-publishing-from-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - `.NET 관련 소식` - [Top .NET Blogs Posts of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.23)</small>
 - `.NET 관련 소식` - [Refresh your Find results](https://devblogs.microsoft.com/visualstudio/refresh-your-find-results/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>
 - `.NET 관련 소식` - [.NET Conf 2024 Recap – Celebrating .NET 9, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.17)</small>

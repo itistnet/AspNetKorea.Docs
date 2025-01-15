@@ -5,6 +5,13 @@
 
 ## 2024
 
+- [Join us at VS Live! 2025 Las Vegas](https://devblogs.microsoft.com/visualstudio/vs-live-2025-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
+- [.NET and .NET Framework January 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
+- [Enhanced Change Signature in C++](https://devblogs.microsoft.com/visualstudio/enhanced-change-signature-in-c/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.13)</small>
+- [Benchmarking with Visual Studio Profiler](https://devblogs.microsoft.com/visualstudio/benchmarking-with-visual-studio-profiler/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
+- [.NET Aspire Quick Tip – Managing Container & Data Lifetime](https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
+- [Unlocking insights with Meter Histogram in the profiler](https://devblogs.microsoft.com/visualstudio/unlocking-insights-with-meter-histogram-in-the-profiler/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.06)</small>
+- [Dock the Code Search window in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.31)</small>
 - [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
