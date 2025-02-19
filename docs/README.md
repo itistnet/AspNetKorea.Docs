@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Tech Brief: AI 기반 업무 환경 준비하기](https://msevents.microsoft.com/event?id=228242974&WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
 - `e-Book` - [가치를 창출하는 AI 솔루션 구축하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcTeWnYw/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `.NET 관련 소식` - [Join us at VS Live! 2025 Las Vegas](https://devblogs.microsoft.com/visualstudio/vs-live-2025-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework January 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>

@@ -4,6 +4,7 @@
 
 ## 2024
 
+- [Microsoft Tech Brief: AI 기반 업무 환경 준비하기](https://msevents.microsoft.com/event?id=228242974&WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/Microsoft+Event/461504/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span>
 - [[Azure 워크샵] Copilot Stack으로 지능형 애플리케이션 개발하기 실습](https://msevents.microsoft.com/event?id=347432874&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType2">오프라인</span>
 - [AI Horizons Episode 1: AI Agents & AI Reasoning Models](https://msevents.microsoft.com/event?id=2286920277%20&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.21)</small> <span class="spnBadgeType1">온라인</span>
