@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [가치를 창출하는 AI 솔루션 구축하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcTeWnYw/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `.NET 관련 소식` - [Join us at VS Live! 2025 Las Vegas](https://devblogs.microsoft.com/visualstudio/vs-live-2025-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework January 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
 - `.NET 관련 소식` - [Enhanced Change Signature in C++](https://devblogs.microsoft.com/visualstudio/enhanced-change-signature-in-c/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.13)</small>
@@ -26,8 +27,8 @@
 - `행사 소식` - [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small> <span class="spnBadgeType1">온라인</span>
 - `e-Book` - [AI 지원 IT 자산 구축](https://clouddamcdnprodep.azureedge.net/gdc/gdccCF1Yb/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
-- `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
-<!--- `.NET 관련 소식` - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
+<!--- `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
+- `.NET 관련 소식` - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
 - `.NET 관련 소식` - [Connect securely to your Azure resources](https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.24)</small>
 - `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/461327/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.22)</small>
 - `행사 소식` - [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small>
