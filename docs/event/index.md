@@ -2,6 +2,20 @@
 
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
+## 2025
+
+- [Microsoft Tech Brief: AI 기반 업무 환경 준비하기](https://msevents.microsoft.com/event?id=228242974&WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/Microsoft+Event/461504/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span>
+- [[Azure 워크샵] Copilot Stack으로 지능형 애플리케이션 개발하기 실습](https://msevents.microsoft.com/event?id=347432874&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType2">오프라인</span>
+- [AI Horizons Episode 1: AI Agents & AI Reasoning Models](https://msevents.microsoft.com/event?id=2286920277%20&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.21)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: Microsoft Fabric을 통해 데이터 레이크하우스 구현](https://mktoevents.com/Microsoft+Event/461460/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.20 ~ 21)</small> <span class="spnBadgeType1">온라인</span>
+- [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/461327/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.22)</small> <span class="spnBadgeType1">온라인</span>
+- [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=528405035&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.08 ~ 09)</small> <span class="spnBadgeType1">온라인</span>
+- [Azure 기반 지능형 AI 애플리케이션 아키텍쳐 알아보기](https://msevents.microsoft.com/event?id=3055846252&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small> <span class="spnBadgeType1">온라인</span>
+- [AI Apps in Action: Build Your Own Copilot](https://info.microsoft.com/ww-thankyou-ai-apps-in-action-build-your-own-copilot-video.html?WT_mc_id=DOP-MVP-4027259) <small>(상시)</small> <span class="spnBadgeType1">온라인</span>
+
 ## 2024
 
 - [Microsoft Tech Brief: AI 기반 업무 환경 준비하기](https://msevents.microsoft.com/event?id=228242974&WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small> <span class="spnBadgeType1">온라인</span>

@@ -3,7 +3,7 @@
 > .NET 관련 새로운 소식과 이슈 모음입니다.
 > <br><br> > [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
-## 2024
+## 2025
 
 - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
 - [New restrictions on package loading](https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
@@ -32,6 +32,9 @@
 - [Benchmarking with Visual Studio Profiler](https://devblogs.microsoft.com/visualstudio/benchmarking-with-visual-studio-profiler/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
 - [.NET Aspire Quick Tip – Managing Container & Data Lifetime](https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.07)</small>
 - [Unlocking insights with Meter Histogram in the profiler](https://devblogs.microsoft.com/visualstudio/unlocking-insights-with-meter-histogram-in-the-profiler/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.06)</small>
+
+## 2024
+
 - [Dock the Code Search window in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/dock-the-code-search-window-in-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.31)</small>
 - [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
