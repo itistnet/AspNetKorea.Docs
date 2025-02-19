@@ -12,6 +12,27 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
+- `.NET 관련 소식` - [New restrictions on package loading](https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
+- `.NET 관련 소식` - [New Features for Enhanced Razor Productivity!](https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
+- `.NET 관련 소식` - [Announcing Generative AI for Beginners – .NET](https://devblogs.microsoft.com/dotnet/announcing-generative-ai-for-beginners-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.12)</small>
+- `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.14](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-14/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.12)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework February 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
+- `.NET 관련 소식` - [C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!](https://devblogs.microsoft.com/dotnet/csharp-on-visual-studio-code-just-got-better-with-enhancements-to-csharp-dev-kit/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 v17.13 is Now Available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-13-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
+- `.NET 관련 소식` - [Microsoft.Testing.Platform: Now Supported by All Major .NET Test Frameworks](https://devblogs.microsoft.com/dotnet/mtp-adoption-frameworks/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.10)</small>
+- `.NET 관련 소식` - [VisualStudio.Extensibility: Managing .NET runtime versions](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-managing-net-runtime-versions/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.10)</small>
+- `.NET 관련 소식` - [.NET 9 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-9-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.06)</small>
+- `.NET 관련 소식` - [HTTP File updates for Request Variables and more](https://devblogs.microsoft.com/visualstudio/http-file-updates-for-request-variables-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.06)</small>
+- `.NET 관련 소식` - [ASP.NET Core on .NET Framework servicing release advisory: ASP.NET Core 2.3](https://devblogs.microsoft.com/dotnet/servicing-release-advisory-aspnetcore-23/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.04)</small>
+- `.NET 관련 소식` - [Your fonts are now preserved when changing theme](https://devblogs.microsoft.com/visualstudio/your-fonts-are-now-preserved-when-changing-theme/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.04)</small>
+- `.NET 관련 소식` - [Customize your AI-generated git commit messages](https://devblogs.microsoft.com/visualstudio/customize-your-ai-generated-git-commit-messages/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.03)</small>
+<!--- `.NET 관련 소식` - [Build Intelligent Apps with .NET and DeepSeek R1 Today!](https://devblogs.microsoft.com/dotnet/start-building-an-intelligent-app-with-dotnet-and-deep-seek/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.31)</small>
+- `.NET 관련 소식` - [Customizing collapsed text Indicators](https://devblogs.microsoft.com/visualstudio/customizing-collapsed-text-indicators/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.30)</small>
+- `.NET 관련 소식` - [Iterate across multiple files more efficiently with GitHub Copilot Edits](https://devblogs.microsoft.com/visualstudio/iterate-across-multiple-files-more-efficiently-with-github-copilot-edits-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.28)</small>
+- `.NET 관련 소식` - [WinForms: Analyze This (Me in Visual Basic)](https://devblogs.microsoft.com/dotnet/introducing-winforms-analyzers/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.21)</small>
+- `.NET 관련 소식` - [Meet the .NET Team at NDC London 2025](https://devblogs.microsoft.com/dotnet/meet-the-dotnet-team-at-ndc-london-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small>
+- `.NET 관련 소식` - [Our Favorite NEW Visual Studio Features of 2024](https://devblogs.microsoft.com/visualstudio/our-favorite-new-visual-studio-features-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small>
 - `행사 소식` - [Microsoft Tech Brief: AI 기반 업무 환경 준비하기](https://msevents.microsoft.com/event?id=228242974&WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
 - `e-Book` - [가치를 창출하는 AI 솔루션 구축하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcTeWnYw/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `.NET 관련 소식` - [Join us at VS Live! 2025 Las Vegas](https://devblogs.microsoft.com/visualstudio/vs-live-2025-las-vegas/?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.14)</small>
@@ -28,7 +49,7 @@
 - `행사 소식` - [데이터 애널리틱스 플랫폼을 한 곳으로 통합하여 스마트하게 비즈니스 데이터 관리하기](https://msevents.microsoft.com/event?id=3126482450&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.16)</small> <span class="spnBadgeType1">온라인</span>
 - `e-Book` - [AI 지원 IT 자산 구축](https://clouddamcdnprodep.azureedge.net/gdc/gdccCF1Yb/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - `.NET 관련 소식` - [Go to line anywhere with Code Search for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
-<!--- `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
+- `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2024](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2024/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.30)</small>
 - `.NET 관련 소식` - [Critical: .NET Install links are changing](https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.26)</small>
 - `.NET 관련 소식` - [Connect securely to your Azure resources](https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources/?WT_mc_id=DOP-MVP-4027259) <small>(2024.12.24)</small>
 - `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://mktoevents.com/Microsoft+Event/461327/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.22)</small>
