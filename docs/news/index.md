@@ -5,6 +5,10 @@
 
 ## 2025
 
+- [Unlocking More Power: Tool Calling in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/function-calling-is-now-enabled-in-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
+- [.NET MAUI Performance Features in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
+- [Introducing Code Referencing for GitHub Copilot Completions in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-completions-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
+- [Building .NET AI apps with Chroma](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
 - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
 - [New restrictions on package loading](https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
 - [New Features for Enhanced Razor Productivity!](https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>

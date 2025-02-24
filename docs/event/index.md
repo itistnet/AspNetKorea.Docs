@@ -4,6 +4,10 @@
 
 ## 2025
 
+- [Azure AI Foundry 에서 나만의 HPC 에이전트 만들기](https://developer.microsoft.com/en-us/reactor/events/25045/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.07)</small> <span class="spnBadgeType1">온라인</span>
+- [Copilot과 함께하는 업무 맞춤형 데이터 분석](https://developer.microsoft.com/en-us/reactor/events/25044/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.06)</small> <span class="spnBadgeType1">온라인</span>
+- [Databricks에서 엔드투엔드 데이터 파이프라인 빌드](https://developer.microsoft.com/en-us/reactor/events/25043/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05)</small> <span class="spnBadgeType1">온라인</span>
+- [Synapse Studio에서 Azure Open Datasets 분석](https://developer.microsoft.com/en-us/reactor/events/25042/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.04)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Tech Brief: AI 기반 업무 환경 준비하기](https://msevents.microsoft.com/event?id=228242974&WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: 데이터 기본 사항](https://mktoevents.com/Microsoft+Event/461504/157-GQE-382?WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType1">온라인</span>
 - [[Azure 워크샵] Copilot Stack으로 지능형 애플리케이션 개발하기 실습](https://msevents.microsoft.com/event?id=347432874&WT_mc_id=DOP-MVP-4027259) <small>(2025.01.23 ~ 24)</small> <span class="spnBadgeType2">오프라인</span>
