@@ -12,6 +12,13 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft 365 Virtual Training Day: Microsoft 365 Copilot을 위한 조직 준비](https://msevents.microsoft.com/event?id=3319250483&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small>
+- `행사 소식` - [Microsoft Security Virtual Training Day: 보안, 규정 준수, ID 기본 사항](https://msevents.microsoft.com/event?id=2209837765&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.27~28)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=863926727&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19~20)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=1130622864&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.17~18)</small>
+- `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=2899911732&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+- `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=4237064273&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: Windows Server 및 SQL Server 워크로드 마이그레이션 및 보안](https://msevents.microsoft.com/event?id=3827213027&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05~06)</small>
 - `행사 소식` - [Azure AI Foundry 에서 나만의 HPC 에이전트 만들기](https://developer.microsoft.com/en-us/reactor/events/25045/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.07)</small>
 - `행사 소식` - [Copilot과 함께하는 업무 맞춤형 데이터 분석](https://developer.microsoft.com/en-us/reactor/events/25044/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.06)</small>
 - `행사 소식` - [Databricks에서 엔드투엔드 데이터 파이프라인 빌드](https://developer.microsoft.com/en-us/reactor/events/25043/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05)</small>
@@ -20,14 +27,14 @@
 - `.NET 관련 소식` - [.NET MAUI Performance Features in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
 - `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Completions in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-completions-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
 - `.NET 관련 소식` - [Building .NET AI apps with Chroma](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
-- `.NET 관련 소식` - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
+<!--- `.NET 관련 소식` - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
 - `.NET 관련 소식` - [New restrictions on package loading](https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
 - `.NET 관련 소식` - [New Features for Enhanced Razor Productivity!](https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
 - `.NET 관련 소식` - [Announcing Generative AI for Beginners – .NET](https://devblogs.microsoft.com/dotnet/announcing-generative-ai-for-beginners-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.12)</small>
 - `.NET 관련 소식` - [First preview of Visual Studio 2022 v17.14](https://devblogs.microsoft.com/visualstudio/first-preview-of-visual-studio-2022-v17-14/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.12)</small>
 - `.- `.NET 관련 소식` - [.NET and .NET Framework February 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
 - `.NET 관련 소식` - [C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!](https://devblogs.microsoft.com/dotnet/csharp-on-visual-studio-code-just-got-better-with-enhancements-to-csharp-dev-kit/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
-<!--- `.NET 관련 소식` - [Visual Studio 2022 v17.13 is Now Available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-13-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
+- `.NET 관련 소식` - [Visual Studio 2022 v17.13 is Now Available!](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-13-is-now-available/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.11)</small>
 - `.NET 관련 소식` - [Microsoft.Testing.Platform: Now Supported by All Major .NET Test Frameworks](https://devblogs.microsoft.com/dotnet/mtp-adoption-frameworks/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.10)</small>
   NET 관련 소식` - [VisualStudio.Extensibility: Managing .NET runtime versions](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-managing-net-runtime-versions/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.10)</small>
 - `.NET 관련 소식` - [.NET 9 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-9-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.06)</small>

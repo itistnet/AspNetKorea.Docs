@@ -4,6 +4,13 @@
 
 ## 2025
 
+- [Microsoft 365 Virtual Training Day: Microsoft 365 Copilot을 위한 조직 준비](https://msevents.microsoft.com/event?id=3319250483&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Security Virtual Training Day: 보안, 규정 준수, ID 기본 사항](https://msevents.microsoft.com/event?id=2209837765&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.27~28)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=863926727&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19~20)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=1130622864&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.17~18)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Power Platform Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=2899911732&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft 365 Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=4237064273&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: Windows Server 및 SQL Server 워크로드 마이그레이션 및 보안](https://msevents.microsoft.com/event?id=3827213027&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05~06)</small> <span class="spnBadgeType1">온라인</span>
 - [Azure AI Foundry 에서 나만의 HPC 에이전트 만들기](https://developer.microsoft.com/en-us/reactor/events/25045/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.07)</small> <span class="spnBadgeType1">온라인</span>
 - [Copilot과 함께하는 업무 맞춤형 데이터 분석](https://developer.microsoft.com/en-us/reactor/events/25044/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.06)</small> <span class="spnBadgeType1">온라인</span>
 - [Databricks에서 엔드투엔드 데이터 파이프라인 빌드](https://developer.microsoft.com/en-us/reactor/events/25043/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05)</small> <span class="spnBadgeType1">온라인</span>
