@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [생성형 AI 시대의 데이터 보호](https://clouddamcdnprodep.azureedge.net/gdc/gdcj9ArMz/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `행사 소식` - [Microsoft 365 Virtual Training Day: Microsoft 365 Copilot을 위한 조직 준비](https://msevents.microsoft.com/event?id=3319250483&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small>
 - `행사 소식` - [Microsoft Security Virtual Training Day: 보안, 규정 준수, ID 기본 사항](https://msevents.microsoft.com/event?id=2209837765&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.27~28)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=863926727&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19~20)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Unlocking More Power: Tool Calling in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/function-calling-is-now-enabled-in-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
 - `.NET 관련 소식` - [.NET MAUI Performance Features in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
 - `.NET 관련 소식` - [Introducing Code Referencing for GitHub Copilot Completions in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-completions-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
-- `.NET 관련 소식` - [Building .NET AI apps with Chroma](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
-<!--- `.NET 관련 소식` - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
+<!--- `.NET 관련 소식` - [Building .NET AI apps with Chroma](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
+- `.NET 관련 소식` - [VisualStudio.Extensibility: Tagger support and updates to settings](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-tagger-support-and-updates-to-settings/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.18)</small>
 - `.NET 관련 소식` - [New restrictions on package loading](https://devblogs.microsoft.com/visualstudio/new-restrictions-on-package-loading/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
 - `.NET 관련 소식` - [New Features for Enhanced Razor Productivity!](https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.13)</small>
 - `.NET 관련 소식` - [Announcing Generative AI for Beginners – .NET](https://devblogs.microsoft.com/dotnet/announcing-generative-ai-for-beginners-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.12)</small>

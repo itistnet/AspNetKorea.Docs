@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/생성형_AI_시대의_데이터_보호.png" class="imgEbookCover"> [생성형 AI 시대의 데이터 보호](https://clouddamcdnprodep.azureedge.net/gdc/gdcj9ArMz/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - <img src="image/ebook/가치를_창출하는_AI_솔루션_구축하기.png" class="imgEbookCover"> [가치를 창출하는 AI 솔루션 구축하기](https://clouddamcdnprodep.azureedge.net/gdc/gdcTeWnYw/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - <img src="image/ebook/AI_지원_IT_자산_구축.png" class="imgEbookCover"> [AI 지원 IT 자산 구축](https://clouddamcdnprodep.azureedge.net/gdc/gdccCF1Yb/original?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
 - <img src="image/ebook/book_default.png" class="imgEbookCover"> [When It Comes to AI, Don’t Build 'Islands of Intelligence'](https://www.microsoft.com/en-us/worklab/when-it-comes-to-ai-do-not-build-islands-of-intelligence?WT_mc_id=DOP-MVP-4027259) <small>(2024)</small>
