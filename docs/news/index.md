@@ -5,6 +5,15 @@
 
 ## 2025
 
+- [New Debugging and Profiling Features in Visual Studio (v17.13)](https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.5)</small>
+- [Great new productivity features in Visual Studio](https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.3)</small>
+- [Unlock new possibilities for AI Evaluations for .NET](https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.3)</small>
+- [Catch issues before you commit to Git](https://devblogs.microsoft.com/visualstudio/catch-issues-before-you-commit-to-git/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.27)</small>
+- [.NET 10 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.25)</small>
+- [NET Aspire 9.1 is here with six great new dashboard features, and more!](https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.25)</small>
+- [Let’s Learn .NET: GitHub Copilot Event](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-github-copilot-event/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
+- [Leverage vision in Copilot Chat](https://devblogs.microsoft.com/visualstudio/attach-images-in-github-copilot-chat/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
+- [Claude 3.7 Now Available in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/claude-3-7-now-available-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
 - [Unlocking More Power: Tool Calling in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/function-calling-is-now-enabled-in-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
 - [.NET MAUI Performance Features in .NET 9](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.20)</small>
 - [Introducing Code Referencing for GitHub Copilot Completions in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-completions-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.19)</small>
