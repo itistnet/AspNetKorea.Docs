@@ -12,14 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `.NET 관련 소식` - [New Debugging and Profiling Features in Visual Studio (v17.13)](https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.5)</small>
-- `.NET 관련 소식` - [Great new productivity features in Visual Studio](https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.3)</small>
-- `.NET 관련 소식` - [Unlock new possibilities for AI Evaluations for .NET](https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.3)</small>
+- `.NET 관련 소식` - [New, Simpler Solution File Format](https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+- `.NET 관련 소식` - [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+- `.NET 관련 소식` - [Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications](https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
+- `.NET 관련 소식` - [Make more sense of multithreaded debugging](https://devblogs.microsoft.com/visualstudio/make-more-sense-of-multithreaded-debugging/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework March 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
+- `.NET 관련 소식` - [GPT-4o Copilot code completion model available now in Visual Studio public preview](https://devblogs.microsoft.com/visualstudio/gpt-4o-copilot-code-completion-model-available-now-in-visual-studio-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
+- `.NET 관련 소식` - [Unlock Free Access to Cloud Academy: A New Benefit for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/cloud-academy-visual-studio-subscription-benefit/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.10)</small>
+- `.NET 관련 소식` - [.NET AI Template Now Available in Preview](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.06)</small>
+- `.NET 관련 소식` - [New Debugging and Profiling Features in Visual Studio (v17.13)](https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05)</small>
+- `.NET 관련 소식` - [Great new productivity features in Visual Studio](https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.03)</small>
+- `.NET 관련 소식` - [Unlock new possibilities for AI Evaluations for .NET](https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.03)</small>
 - `.NET 관련 소식` - [Catch issues before you commit to Git](https://devblogs.microsoft.com/visualstudio/catch-issues-before-you-commit-to-git/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.27)</small>
 - `.NET 관련 소식` - [.NET 10 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.25)</small>
 - `.NET 관련 소식` - [NET Aspire 9.1 is here with six great new dashboard features, and more!](https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.25)</small>
 - `.NET 관련 소식` - [Let’s Learn .NET: GitHub Copilot Event](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-github-copilot-event/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
-- `.NET 관련 소식` - [Leverage vision in Copilot Chat](https://devblogs.microsoft.com/visualstudio/attach-images-in-github-copilot-chat/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
+<!--- `.NET 관련 소식` - [Leverage vision in Copilot Chat](https://devblogs.microsoft.com/visualstudio/attach-images-in-github-copilot-chat/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
 - `.NET 관련 소식` - [Claude 3.7 Now Available in GitHub Copilot for Visual Studio](https://devblogs.microsoft.com/visualstudio/claude-3-7-now-available-in-github-copilot-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.24)</small>
 - `e-Book` - [Microsoft Purview 집중 강좌: 데이터 자산 보안 및 관리에 대한 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcIWWZMl/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `e-Book` - [생성형 AI 시대의 데이터 보호](https://clouddamcdnprodep.azureedge.net/gdc/gdcj9ArMz/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
@@ -27,7 +35,7 @@
 - `행사 소식` - [Microsoft Security Virtual Training Day: 보안, 규정 준수, ID 기본 사항](https://msevents.microsoft.com/event?id=2209837765&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.27~28)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=863926727&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19~20)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=1130622864&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.17~18)</small>
-<!--- `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=2899911732&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+- `행사 소식` - [Microsoft Power Platform Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=2899911732&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
 - `행사 소식` - [Microsoft 365 Virtual Training Day: 기본 사항](https://msevents.microsoft.com/event?id=4237064273&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: Windows Server 및 SQL Server 워크로드 마이그레이션 및 보안](https://msevents.microsoft.com/event?id=3827213027&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05~06)</small>
 - `행사 소식` - [Azure AI Foundry 에서 나만의 HPC 에이전트 만들기](https://developer.microsoft.com/en-us/reactor/events/25045/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.07)</small>

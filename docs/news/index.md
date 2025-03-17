@@ -5,9 +5,17 @@
 
 ## 2025
 
-- [New Debugging and Profiling Features in Visual Studio (v17.13)](https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.5)</small>
-- [Great new productivity features in Visual Studio](https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.3)</small>
-- [Unlock new possibilities for AI Evaluations for .NET](https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.3)</small>
+- [New, Simpler Solution File Format](https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+- [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+- [Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications](https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
+- [Make more sense of multithreaded debugging](https://devblogs.microsoft.com/visualstudio/make-more-sense-of-multithreaded-debugging/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
+- [.NET and .NET Framework March 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
+- [GPT-4o Copilot code completion model available now in Visual Studio public preview](https://devblogs.microsoft.com/visualstudio/gpt-4o-copilot-code-completion-model-available-now-in-visual-studio-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
+- [Unlock Free Access to Cloud Academy: A New Benefit for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/cloud-academy-visual-studio-subscription-benefit/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.10)</small>
+- [.NET AI Template Now Available in Preview](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.06)</small>
+- [New Debugging and Profiling Features in Visual Studio (v17.13)](https://devblogs.microsoft.com/visualstudio/new-debugging-and-profiling-features-in-visual-studio-v17-13/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.05)</small>
+- [Great new productivity features in Visual Studio](https://devblogs.microsoft.com/visualstudio/great-new-productivity-features-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.03)</small>
+- [Unlock new possibilities for AI Evaluations for .NET](https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.03)</small>
 - [Catch issues before you commit to Git](https://devblogs.microsoft.com/visualstudio/catch-issues-before-you-commit-to-git/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.27)</small>
 - [.NET 10 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.25)</small>
 - [NET Aspire 9.1 is here with six great new dashboard features, and more!](https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.02.25)</small>
