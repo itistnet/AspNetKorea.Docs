@@ -5,6 +5,14 @@
 
 ## 2025
 
+- [Introducing Visual Studio Hub](https://devblogs.microsoft.com/visualstudio/visual-studio-hub/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.24)</small>
+- [Xbox + .NET Aspire: Transforming Local Development Practices](https://devblogs.microsoft.com/dotnet/xboxs-usage-of-aspire-transforming-development-practices/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.24)</small>
+- [Enhance Pull Request Reviews with In-Depth Feedback](https://devblogs.microsoft.com/visualstudio/enhance-pull-request-reviews-with-in-depth-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.20)</small>
+- [Find the IDE features you need with GitHub Copilot and Search](https://devblogs.microsoft.com/visualstudio/find-the-ide-features-you-need-with-github-copilot-and-search/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19)</small>
+- [MSTest 3.8: Top 10 features to supercharge your .NET tests!](https://devblogs.microsoft.com/dotnet/mstest-3-8-highlights/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19)</small>
+- [.NET 10 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.18)</small>
+- [Boost your GitHub productivity with our new multi-account support!](https://devblogs.microsoft.com/visualstudio/boost-your-github-productivity-with-our-new-multi-account-support/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.18)</small>
+- [Introducing automatic documentation comment generation in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-automatic-documentation-comment-generation-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.17)</small>
 - [New, Simpler Solution File Format](https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
 - [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
 - [Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications](https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
