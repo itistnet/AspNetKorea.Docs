@@ -5,6 +5,9 @@
 
 ## 2025
 
+- [Debugging with the AI-powered IEnumerable visualizer](https://devblogs.microsoft.com/visualstudio/debugging-with-the-ai-powered-ienumerable-visualizer/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
+- [Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps](https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
+- [Exploring new .NET releases with Dev Containers](https://devblogs.microsoft.com/dotnet/dotnet-in-dev-container/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.25)</small>
 - [Introducing Visual Studio Hub](https://devblogs.microsoft.com/visualstudio/visual-studio-hub/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.24)</small>
 - [Xbox + .NET Aspire: Transforming Local Development Practices](https://devblogs.microsoft.com/dotnet/xboxs-usage-of-aspire-transforming-development-practices/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.24)</small>
 - [Enhance Pull Request Reviews with In-Depth Feedback](https://devblogs.microsoft.com/visualstudio/enhance-pull-request-reviews-with-in-depth-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.20)</small>
