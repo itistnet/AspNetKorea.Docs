@@ -4,6 +4,7 @@
 
 ## 2025
 
+- [Microsoft AI Skills Fest](https://aiskillsfest.event.microsoft.com/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08 ~ 05.28)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft 365 Virtual Training Day: Microsoft 365 Copilot을 위한 조직 준비](https://msevents.microsoft.com/event?id=3319250483&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Security Virtual Training Day: 보안, 규정 준수, ID 기본 사항](https://msevents.microsoft.com/event?id=2209837765&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.27~28)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=863926727&WT_mc_id=DOP-MVP-4027259) <small>(2025.03.19~20)</small> <span class="spnBadgeType1">온라인</span>
