@@ -12,6 +12,9 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Your Pluralsight Benefit Just Got Better](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.03)</small>
+- `.NET 관련 소식` - [Modernizing push notification API for Teams](https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.01)</small>
+- `.NET 관련 소식` - [View and manage git tags](https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small>
 - `.NET 관련 소식` - [Debugging with the AI-powered IEnumerable visualizer](https://devblogs.microsoft.com/visualstudio/debugging-with-the-ai-powered-ienumerable-visualizer/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
 - `.NET 관련 소식` - [Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps](https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
 - `.NET 관련 소식` - [Exploring new .NET releases with Dev Containers](https://devblogs.microsoft.com/dotnet/dotnet-in-dev-container/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.25)</small>
@@ -24,10 +27,10 @@
 - `.NET 관련 소식` - [Boost your GitHub productivity with our new multi-account support!](https://devblogs.microsoft.com/visualstudio/boost-your-github-productivity-with-our-new-multi-account-support/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.18)</small>
 - `.NET 관련 소식` - [Introducing automatic documentation comment generation in Visual Studio](https://devblogs.microsoft.com/visualstudio/introducing-automatic-documentation-comment-generation-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.17)</small>
 - `.NET 관련 소식` - [New, Simpler Solution File Format](https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
-- `.NET 관련 소식` - [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
+<!--- `.NET 관련 소식` - [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.13)</small>
 - `.NET 관련 소식` - [Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications](https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
 - `.NET 관련 소식` - [Make more sense of multithreaded debugging](https://devblogs.microsoft.com/visualstudio/make-more-sense-of-multithreaded-debugging/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.12)</small>
-<!--- `.NET 관련 소식` - [.NET and .NET Framework March 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework March 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
 - `.NET 관련 소식` - [GPT-4o Copilot code completion model available now in Visual Studio public preview](https://devblogs.microsoft.com/visualstudio/gpt-4o-copilot-code-completion-model-available-now-in-visual-studio-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.11)</small>
 - `.NET 관련 소식` - [Unlock Free Access to Cloud Academy: A New Benefit for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/cloud-academy-visual-studio-subscription-benefit/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.10)</small>
 - `.NET 관련 소식` - [.NET AI Template Now Available in Preview](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.06)</small>

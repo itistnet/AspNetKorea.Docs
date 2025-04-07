@@ -5,6 +5,9 @@
 
 ## 2025
 
+- [Your Pluralsight Benefit Just Got Better](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.03)</small>
+- [Modernizing push notification API for Teams](https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.01)</small>
+- [View and manage git tags](https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small>
 - [Debugging with the AI-powered IEnumerable visualizer](https://devblogs.microsoft.com/visualstudio/debugging-with-the-ai-powered-ienumerable-visualizer/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
 - [Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps](https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
 - [Exploring new .NET releases with Dev Containers](https://devblogs.microsoft.com/dotnet/dotnet-in-dev-container/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.25)</small>
