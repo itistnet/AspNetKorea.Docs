@@ -5,6 +5,13 @@
 
 ## 2025
 
+- [.NET 10 Preview 3 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.10)</small>
+- [.NET Aspire 9.2 is Now Available with New Ways to Deploy](https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.10)</small>
+- [.NET and .NET Framework April 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
+- [How we ended up rewriting NuGet Restore in .NET 9](https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
+- [.NET Aspire and Azure Functions integration preview](https://devblogs.microsoft.com/visualstudio/net-aspire-and-azure-functions-integration-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
+- [Multi-Process CPU Usage Analysis in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-process-cpu-usage-analysis-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08)</small>
+- [Build a Model Context Protocol (MCP) server in C#](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.07)</small>
 - [Your Pluralsight Benefit Just Got Better](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.03)</small>
 - [Modernizing push notification API for Teams](https://devblogs.microsoft.com/dotnet/modernizing-push-notification-api-for-teams/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.01)</small>
 - [View and manage git tags](https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small>
