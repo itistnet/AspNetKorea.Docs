@@ -5,6 +5,14 @@
 
 ## 2025
 
+- [Effortless adjustments with an adaptive paste](https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.23)</small>
+- [Building Real‑Time iOS Apps with SignalR: Introducing the Official Swift Client (Public Preview)](https://devblogs.microsoft.com/dotnet/building-real%E2%80%91time-ios-apps-with-signalr-introducing-the-official-swift-client-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
+- [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
+- [Preview 2 of the .NET AI Template Now Available](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.17)</small>
+- [Toolbox Support for Explicit Assembly References in Windows Forms Out-of-Process Designer](https://devblogs.microsoft.com/visualstudio/toolbox-support-for-explicit-assembly-references-in-windows-forms-out-of-process-designer/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.17)</small>
+- [Build MCP Remote Servers with Azure Functions](https://devblogs.microsoft.com/dotnet/build-mcp-remote-servers-with-azure-functions/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.16)</small>
+- [GitHub Copilot Highlights in Visual Studio 17.14 Preview 3 (Available Now)](https://devblogs.microsoft.com/visualstudio/github-copilot-highlights-in-visual-studio-17-14-preview-3-available-now/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.16)</small>
+- [Join the .NET & C# Teams at Microsoft Build 2025](https://devblogs.microsoft.com/dotnet/join-us-at-build-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.15)</small>
 - [.NET 10 Preview 3 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.10)</small>
 - [.NET Aspire 9.2 is Now Available with New Ways to Deploy](https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.10)</small>
 - [.NET and .NET Framework April 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>

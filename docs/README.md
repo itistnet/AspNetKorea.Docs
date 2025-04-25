@@ -12,6 +12,14 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Effortless adjustments with an adaptive paste](https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.23)</small>
+- `.NET 관련 소식` - [Building Real‑Time iOS Apps with SignalR: Introducing the Official Swift Client (Public Preview)](https://devblogs.microsoft.com/dotnet/building-real%E2%80%91time-ios-apps-with-signalr-introducing-the-official-swift-client-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
+- `.NET 관련 소식` - [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
+- `.NET 관련 소식` - [Preview 2 of the .NET AI Template Now Available](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.17)</small>
+- `.NET 관련 소식` - [Toolbox Support for Explicit Assembly References in Windows Forms Out-of-Process Designer](https://devblogs.microsoft.com/visualstudio/toolbox-support-for-explicit-assembly-references-in-windows-forms-out-of-process-designer/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.17)</small>
+- `.NET 관련 소식` - [Build MCP Remote Servers with Azure Functions](https://devblogs.microsoft.com/dotnet/build-mcp-remote-servers-with-azure-functions/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.16)</small>
+- `.NET 관련 소식` - [GitHub Copilot Highlights in Visual Studio 17.14 Preview 3 (Available Now)](https://devblogs.microsoft.com/visualstudio/github-copilot-highlights-in-visual-studio-17-14-preview-3-available-now/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.16)</small>
+- `.NET 관련 소식` - [Join the .NET & C# Teams at Microsoft Build 2025](https://devblogs.microsoft.com/dotnet/join-us-at-build-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.15)</small>
 - `.NET 관련 소식` - [.NET 10 Preview 3 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.10)</small>
 - `.NET 관련 소식` - [.NET Aspire 9.2 is Now Available with New Ways to Deploy](https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.10)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework April 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
@@ -19,7 +27,7 @@
 - `.NET 관련 소식` - [.NET Aspire and Azure Functions integration preview](https://devblogs.microsoft.com/visualstudio/net-aspire-and-azure-functions-integration-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
 - `.NET 관련 소식` - [Multi-Process CPU Usage Analysis in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-process-cpu-usage-analysis-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08)</small>
 - `.NET 관련 소식` - [Build a Model Context Protocol (MCP) server in C#](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.07)</small>
-- `행사 소식` - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>
+<!--- `행사 소식` - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [Copilot Developer Camp](https://msevents.microsoft.com/event?id=2186670205&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.25)</small> <span class="spnBadgeType2">오프라인</span>
 - `행사 소식` - [Microsoft AI Skills Fest](https://aiskillsfest.event.microsoft.com/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08 ~ 05.28)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Your Pluralsight Benefit Just Got Better](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.03)</small>
@@ -27,7 +35,7 @@
 - `.NET 관련 소식` - [View and manage git tags](https://devblogs.microsoft.com/visualstudio/view-and-manage-git-tags/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.31)</small>
 - `.NET 관련 소식` - [Debugging with the AI-powered IEnumerable visualizer](https://devblogs.microsoft.com/visualstudio/debugging-with-the-ai-powered-ienumerable-visualizer/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
 - `.NET 관련 소식` - [Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps](https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.26)</small>
-<!--- `.NET 관련 소식` - [Exploring new .NET releases with Dev Containers](https://devblogs.microsoft.com/dotnet/dotnet-in-dev-container/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.25)</small>
+- `.NET 관련 소식` - [Exploring new .NET releases with Dev Containers](https://devblogs.microsoft.com/dotnet/dotnet-in-dev-container/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.25)</small>
 - `.NET 관련 소식` - [Introducing Visual Studio Hub](https://devblogs.microsoft.com/visualstudio/visual-studio-hub/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.24)</small>
 - `.NET 관련 소식` - [Xbox + .NET Aspire: Transforming Local Development Practices](https://devblogs.microsoft.com/dotnet/xboxs-usage-of-aspire-transforming-development-practices/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.24)</small>
 - `.NET 관련 소식` - [Enhance Pull Request Reviews with In-Depth Feedback](https://devblogs.microsoft.com/visualstudio/enhance-pull-request-reviews-with-in-depth-feedback/?WT_mc_id=DOP-MVP-4027259) <small>(2025.03.20)</small>
