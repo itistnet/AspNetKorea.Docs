@@ -4,6 +4,7 @@
 
 ## 2025
 
+- [Microsoft Build 2025](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.19 ~ 22)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
 - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>
 - [Copilot Developer Camp](https://msevents.microsoft.com/event?id=2186670205&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.25)</small> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft AI Skills Fest](https://aiskillsfest.event.microsoft.com/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08 ~ 05.28)</small> <span class="spnBadgeType1">온라인</span>

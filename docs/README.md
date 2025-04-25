@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Build 2025](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.19 ~ 22)</small>
 - `.NET 관련 소식` - [Effortless adjustments with an adaptive paste](https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.23)</small>
 - `.NET 관련 소식` - [Building Real‑Time iOS Apps with SignalR: Introducing the Official Swift Client (Public Preview)](https://devblogs.microsoft.com/dotnet/building-real%E2%80%91time-ios-apps-with-signalr-introducing-the-official-swift-client-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
 - `.NET 관련 소식` - [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
