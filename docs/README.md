@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [성능과 혁신을 위한 마이그레이션](https://clouddamcdnprodep.azureedge.net/gdc/gdcqn50Fa/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `행사 소식` - [Microsoft Build 2025](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.19 ~ 22)</small>
 - `행사 소식` - [Microsoft AI Genius 시리즈](https://developer.microsoft.com/ko-kr/reactor/series/S-1530?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09 ~ 23)</small>
 - `.NET 관련 소식` - [Effortless adjustments with an adaptive paste](https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.23)</small>
