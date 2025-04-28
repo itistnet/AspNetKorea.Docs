@@ -13,6 +13,7 @@
 ## 신규 업데이트 <small>(최근 15개)</small>
 
 - `행사 소식` - [Microsoft Build 2025](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.19 ~ 22)</small>
+- `행사 소식` - [Microsoft AI Genius 시리즈](https://developer.microsoft.com/ko-kr/reactor/series/S-1530?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09 ~ 23)</small>
 - `.NET 관련 소식` - [Effortless adjustments with an adaptive paste](https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.23)</small>
 - `.NET 관련 소식` - [Building Real‑Time iOS Apps with SignalR: Introducing the Official Swift Client (Public Preview)](https://devblogs.microsoft.com/dotnet/building-real%E2%80%91time-ios-apps-with-signalr-introducing-the-official-swift-client-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
 - `.NET 관련 소식` - [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
@@ -27,8 +28,8 @@
 - `.NET 관련 소식` - [How we ended up rewriting NuGet Restore in .NET 9](https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
 - `.NET 관련 소식` - [.NET Aspire and Azure Functions integration preview](https://devblogs.microsoft.com/visualstudio/net-aspire-and-azure-functions-integration-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
 - `.NET 관련 소식` - [Multi-Process CPU Usage Analysis in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-process-cpu-usage-analysis-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08)</small>
-- `.NET 관련 소식` - [Build a Model Context Protocol (MCP) server in C#](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.07)</small>
-<!--- `행사 소식` - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>
+<!--- `.NET 관련 소식` - [Build a Model Context Protocol (MCP) server in C#](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.07)</small>
+- `행사 소식` - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [Copilot Developer Camp](https://msevents.microsoft.com/event?id=2186670205&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.25)</small> <span class="spnBadgeType2">오프라인</span>
 - `행사 소식` - [Microsoft AI Skills Fest](https://aiskillsfest.event.microsoft.com/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08 ~ 05.28)</small> <span class="spnBadgeType1">온라인</span>
 - `.NET 관련 소식` - [Your Pluralsight Benefit Just Got Better](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.03)</small>
