@@ -5,6 +5,33 @@
 
 ## 2025
 
+- [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
+- [.NET 10 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
+- [Next edit suggestions available in Visual Studio GitHub Copilot](https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.09)</small>
+- [Emit logs on-demand with log buffering](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.05)</small>
+- [Emit logs on-demand with log buffering](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.05)</small>
+- [How to filter C++ Build Insights by project](https://devblogs.microsoft.com/visualstudio/how-to-filter-c-build-insights-by-project/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.04)</small>
+- [Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career](https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.03)</small>
+- [Using AI Foundry with .NET MAUI](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.03)</small>
+- [Extension Manager updates in Visual Studio](https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.02)</small>
+- [Fine-tune the volume of logs your app produces](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.29)</small>
+- [Improve the commands in your extensions](https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.28)</small>
+- [Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.28)</small>
+- [VisualStudio.Extensibility: Editor classification and updates to user prompt](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.27)</small>
+- [Circuit Breaker Policy Fine-tuning Best Practice](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.27)</small>
+- [Connecting to Private NuGet Feeds Just Got Easier](https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
+- [AI and Vector Data Extensions are now Generally Available (GA)](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
+- [Faster .NET Upgrades Powered by GitHub Copilot](https://devblogs.microsoft.com/visualstudio/faster-net-upgrades-powered-by-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.19)</small>
+- [Accelerate Yo\ur .NET Upgrades with GitHub Copilot](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.19)</small>
+- [How to Watch Microsoft Build 2025 Online](https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.16)</small>
+- [Evaluating content safety in your .NET AI applications](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.15)</small>
+- [.NET and .NET Framework May 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.13)</small>
+- [Agent mode has arrived in preview for Visual Studio](https://devblogs.microsoft.com/visualstudio/agent-mode-has-arrived-in-preview-for-visual-studio?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.13)</small>
+- [.NET 10 Preview 4 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.13)</small>
+- [C# 14 – Exploring extension members](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.08)</small>
+- [Why we built our startup in C#](https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.07)</small>
+- [Packaging and Publishing a .NET MAUI Library with GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.30)</small>
+- [Set the default file encoding](https://devblogs.microsoft.com/visualstudio/set-the-default-file-encoding?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.28)</small>
 - [Effortless adjustments with an adaptive paste](https://devblogs.microsoft.com/visualstudio/effortless-adjustments-with-an-adaptive-paste/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.23)</small>
 - [Building Real‑Time iOS Apps with SignalR: Introducing the Official Swift Client (Public Preview)](https://devblogs.microsoft.com/dotnet/building-real%E2%80%91time-ios-apps-with-signalr-introducing-the-official-swift-client-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>
 - [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.22)</small>

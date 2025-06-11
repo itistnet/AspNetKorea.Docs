@@ -12,6 +12,33 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
+- `.NET 관련 소식` - [.NET 10 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
+- `.NET 관련 소식` - [Next edit suggestions available in Visual Studio GitHub Copilot](https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.09)</small>
+- `.NET 관련 소식` - [Emit logs on-demand with log buffering](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.05)</small>
+- `.NET 관련 소식` - [Emit logs on-demand with log buffering](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.05)</small>
+- `.NET 관련 소식` - [How to filter C++ Build Insights by project](https://devblogs.microsoft.com/visualstudio/how-to-filter-c-build-insights-by-project/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.04)</small>
+- `.NET 관련 소식` - [Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career](https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.03)</small>
+- `.NET 관련 소식` - [Using AI Foundry with .NET MAUI](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.03)</small>
+- `.NET 관련 소식` - [Extension Manager updates in Visual Studio](https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.02)</small>
+- `.NET 관련 소식` - [Fine-tune the volume of logs your app produces](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.29)</small>
+- `.NET 관련 소식` - [Improve the commands in your extensions](https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.28)</small>
+- `.NET 관련 소식` - [Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.28)</small>
+- `.NET 관련 소식` - [VisualStudio.Extensibility: Editor classification and updates to user prompt](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.27)</small>
+- `.NET 관련 소식` - [Circuit Breaker Policy Fine-tuning Best Practice](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.27)</small>
+<!--- `.NET 관련 소식` - [Connecting to Private NuGet Feeds Just Got Easier](https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
+- `.NET 관련 소식` - [AI and Vector Data Extensions are now Generally Available (GA)](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
+- `.NET 관련 소식` - [Faster .NET Upgrades Powered by GitHub Copilot](https://devblogs.microsoft.com/visualstudio/faster-net-upgrades-powered-by-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.19)</small>
+- `.NET 관련 소식` - [Accelerate Yo\ur .NET Upgrades with GitHub Copilot](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.19)</small>
+- `.NET 관련 소식` - [How to Watch Microsoft Build 2025 Online](https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.16)</small>
+- `.NET 관련 소식` - [Evaluating content safety in your .NET AI applications](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.15)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework May 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.13)</- `.NET 관련 소식` small>
+- `.NET 관련 소식` - [Agent mode has arrived in preview for Visual Studio](https://devblogs.microsoft.com/visualstudio/agent-mode-has-arrived-in-preview-for-visual-studio?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.13)</small>
+- `.NET 관련 소식` - [.NET 10 Preview 4 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.13)</small>
+- `.NET 관련 소식` - [C# 14 – Exploring extension members](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.08)</small>
+- `.NET 관련 소식` - [Why we built our startup in C#](https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.07)</small>
+- `.NET 관련 소식` - [Packaging and Publishing a .NET MAUI Library with GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.30)</small>
+- `.NET 관련 소식` - [Set the default file encoding](https://devblogs.microsoft.com/visualstudio/set-the-default-file-encoding?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.28)</small>
 - `e-Book` - [성능과 혁신을 위한 마이그레이션](https://clouddamcdnprodep.azureedge.net/gdc/gdcqn50Fa/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - `행사 소식` - [Microsoft Build 2025](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.19 ~ 22)</small>
 - `행사 소식` - [Microsoft AI Genius 시리즈](https://developer.microsoft.com/ko-kr/reactor/series/S-1530?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09 ~ 23)</small>
@@ -29,7 +56,7 @@
 - `.NET 관련 소식` - [How we ended up rewriting NuGet Restore in .NET 9](https://devblogs.microsoft.com/dotnet/rewriting-nuget-restore-in-dotnet-9/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
 - `.NET 관련 소식` - [.NET Aspire and Azure Functions integration preview](https://devblogs.microsoft.com/visualstudio/net-aspire-and-azure-functions-integration-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.09)</small>
 - `.NET 관련 소식` - [Multi-Process CPU Usage Analysis in Visual Studio](https://devblogs.microsoft.com/visualstudio/multi-process-cpu-usage-analysis-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08)</small>
-<!--- `.NET 관련 소식` - [Build a Model Context Protocol (MCP) server in C#](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.07)</small>
+- `.NET 관련 소식` - [Build a Model Context Protocol (MCP) server in C#](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.07)</small>
 - `행사 소식` - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>
 - `행사 소식` - [Copilot Developer Camp](https://msevents.microsoft.com/event?id=2186670205&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.25)</small> <span class="spnBadgeType2">오프라인</span>
 - `행사 소식` - [Microsoft AI Skills Fest](https://aiskillsfest.event.microsoft.com/?WT_mc_id=DOP-MVP-4027259) <small>(2025.04.08 ~ 05.28)</small> <span class="spnBadgeType1">온라인</span>
