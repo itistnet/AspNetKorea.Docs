@@ -12,7 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `.NET 관련 소식` - [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
+- `.NET 관련 소식` - [Fresh Learning Paths Now Available on Pluralsight for VS Subscribers](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
+- `.NET 관련 소식` - [MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
+- `.NET 관련 소식` - [Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.21)</small>
+- `.NET 관련 소식` - [Building Your First MCP Server with .NET and Publishing to NuGet](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.15)</small>
+- `.NET 관련 소식` - [.NET 10 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.15)</small>
+- `.NET 관련 소식` - [Customize AI responses from GitHub Copilot](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.10)</small>
+- `.NET 관련 소식` - [How the .NET MAUI Team uses GitHub Copilot for Productivity](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.09)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework July 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.08)</small>
+- `.NET 관련 소식` - [Local AI + .NET = AltText Magic in One C# Script](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.02)</small>
+- `.NET 관련 소식` - [Simpler XAML in .NET MAUI 10](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.26)</small>
+- `.NET 관련 소식` - [Better Models, Smarter Defaults: Claude Sonnet 4, GPT-4.1, and More Control in Visual Studio](https://devblogs.microsoft.com/visualstudio/better-models-smarter-defaults-claude-sonnet-4-gpt-4-1-and-more-control-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.25)</small>
+- `.NET 관련 소식` - [Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning](https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.23)</small>
+- `.NET 관련 소식` - [Multimodal Vision Intelligence with .NET MAUI](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.17)</small>
+- `.NET 관련 소식` - [Improve Your Productivity with New GitHub Copilot Features for .NET!](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.12)</small>
+- `.NET 관련 소식` - [Multimodal Voice Intelligence with .NET MAUI](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.11)</small>
+<!--- `.NET 관련 소식` - [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
 - `.NET 관련 소식` - [.NET 10 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
 - `.NET 관련 소식` - [Next edit suggestions available in Visual Studio GitHub Copilot](https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.09)</small>
 - `.NET 관련 소식` - [Emit logs on-demand with log buffering](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.05)</small>
@@ -26,7 +41,7 @@
 - `.NET 관련 소식` - [Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.28)</small>
 - `.NET 관련 소식` - [VisualStudio.Extensibility: Editor classification and updates to user prompt](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.27)</small>
 - `.NET 관련 소식` - [Circuit Breaker Policy Fine-tuning Best Practice](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.27)</small>
-<!--- `.NET 관련 소식` - [Connecting to Private NuGet Feeds Just Got Easier](https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
+- `.NET 관련 소식` - [Connecting to Private NuGet Feeds Just Got Easier](https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
 - `.NET 관련 소식` - [AI and Vector Data Extensions are now Generally Available (GA)](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.21)</small>
 - `.NET 관련 소식` - [Faster .NET Upgrades Powered by GitHub Copilot](https://devblogs.microsoft.com/visualstudio/faster-net-upgrades-powered-by-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.19)</small>
 - `.NET 관련 소식` - [Accelerate Yo\ur .NET Upgrades with GitHub Copilot](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet?WT_mc_id=DOP-MVP-4027259) <small>(2025.05.19)</small>

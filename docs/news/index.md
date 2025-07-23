@@ -5,6 +5,21 @@
 
 ## 2025
 
+- [Fresh Learning Paths Now Available on Pluralsight for VS Subscribers](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
+- [MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
+- [Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.21)</small>
+- [Building Your First MCP Server with .NET and Publishing to NuGet](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.15)</small>
+- [.NET 10 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.15)</small>
+- [Customize AI responses from GitHub Copilot](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.10)</small>
+- [How the .NET MAUI Team uses GitHub Copilot for Productivity](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.09)</small>
+- [.NET and .NET Framework July 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.08)</small>
+- [Local AI + .NET = AltText Magic in One C# Script](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.02)</small>
+- [Simpler XAML in .NET MAUI 10](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.26)</small>
+- [Better Models, Smarter Defaults: Claude Sonnet 4, GPT-4.1, and More Control in Visual Studio](https://devblogs.microsoft.com/visualstudio/better-models-smarter-defaults-claude-sonnet-4-gpt-4-1-and-more-control-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.25)</small>
+- [Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning](https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.23)</small>
+- [Multimodal Vision Intelligence with .NET MAUI](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.17)</small>
+- [Improve Your Productivity with New GitHub Copilot Features for .NET!](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.12)</small>
+- [Multimodal Voice Intelligence with .NET MAUI](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.11)</small>
 - [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
 - [.NET 10 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
 - [Next edit suggestions available in Visual Studio GitHub Copilot](https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.09)</small>
