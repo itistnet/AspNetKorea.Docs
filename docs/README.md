@@ -12,8 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Improving Codebase Awareness in Visual Studio Chat](https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.14)</small>
+- `.NET 관련 소식` - [Announcing the NuGet MCP Server Preview](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.14)</small>
+- `.NET 관련 소식` - [From Redmond to San Diego: VS Live! Highlights, Session Examples, and What’s Next](https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.13)</small>
+- `.NET 관련 소식` - [.NET 10 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.12)</small>
+- `.NET 관련 소식` - [GPT-5 Now Available in Visual Studio](https://devblogs.microsoft.com/visualstudio/gpt-5-now-available-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.12)</small>
+- `.NET 관련 소식` - [5 Copilot Chat Prompts .NET Devs Should Steal Today](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.06)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework August 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- `.NET 관련 소식` - [Exploring new Agent Quality and NLP evaluators for .NET AI applications](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- `.NET 관련 소식` - [Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- `.NET 관련 소식` - [.NET Conf 2025 – Announcing the Call for Content](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- `.NET 관련 소식` - [The new Dependabot NuGet updater: 65% faster with native .NET](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.04)</small>
+- `.NET 관련 소식` - [Smarter AI Edits in Visual Studio Copilot](https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.31)</small>
+- `.NET 관련 소식` - [Building a Full-Stack App with React and Aspire: A Step-by-Step Guide](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.30)</small>
+- `.NET 관련 소식` - [Watch Live: Visual Studio Toolbox at VS LIVE! Redmond 2025](https://devblogs.microsoft.com/visualstudio/watch-live-visual-studio-toolbox-at-vs-live-redmond-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.23)</small>
 - `.NET 관련 소식` - [Fresh Learning Paths Now Available on Pluralsight for VS Subscribers](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
-- `.NET 관련 소식` - [MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
+<!--- `.NET 관련 소식` - [MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
 - `.NET 관련 소식` - [Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.21)</small>
 - `.NET 관련 소식` - [Building Your First MCP Server with .NET and Publishing to NuGet](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.15)</small>
 - `.NET 관련 소식` - [.NET 10 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.15)</small>
@@ -27,7 +41,7 @@
 - `.NET 관련 소식` - [Multimodal Vision Intelligence with .NET MAUI](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.17)</small>
 - `.NET 관련 소식` - [Improve Your Productivity with New GitHub Copilot Features for .NET!](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.12)</small>
 - `.NET 관련 소식` - [Multimodal Voice Intelligence with .NET MAUI](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.11)</small>
-<!--- `.NET 관련 소식` - [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework June 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
 - `.NET 관련 소식` - [.NET 10 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.10)</small>
 - `.NET 관련 소식` - [Next edit suggestions available in Visual Studio GitHub Copilot](https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.09)</small>
 - `.NET 관련 소식` - [Emit logs on-demand with log buffering](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering?WT_mc_id=DOP-MVP-4027259) <small>(2025.06.05)</small>

@@ -5,6 +5,20 @@
 
 ## 2025
 
+- [Improving Codebase Awareness in Visual Studio Chat](https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.14)</small>
+- [Announcing the NuGet MCP Server Preview](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.14)</small>
+- [From Redmond to San Diego: VS Live! Highlights, Session Examples, and What’s Next](https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.13)</small>
+- [.NET 10 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.12)</small>
+- [GPT-5 Now Available in Visual Studio](https://devblogs.microsoft.com/visualstudio/gpt-5-now-available-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.12)</small>
+- [5 Copilot Chat Prompts .NET Devs Should Steal Today](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.06)</small>
+- [.NET and .NET Framework August 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- [Exploring new Agent Quality and NLP evaluators for .NET AI applications](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- [Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- [.NET Conf 2025 – Announcing the Call for Content](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.05)</small>
+- [The new Dependabot NuGet updater: 65% faster with native .NET](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/?WT_mc_id=DOP-MVP-4027259) <small>(2025.08.04)</small>
+- [Smarter AI Edits in Visual Studio Copilot](https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.31)</small>
+- [Building a Full-Stack App with React and Aspire: A Step-by-Step Guide](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.30)</small>
+- [Watch Live: Visual Studio Toolbox at VS LIVE! Redmond 2025](https://devblogs.microsoft.com/visualstudio/watch-live-visual-studio-toolbox-at-vs-live-redmond-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.23)</small>
 - [Fresh Learning Paths Now Available on Pluralsight for VS Subscribers](https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
 - [MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.22)</small>
 - [Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/?WT_mc_id=DOP-MVP-4027259) <small>(2025.07.21)</small>
