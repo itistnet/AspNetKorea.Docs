@@ -4,6 +4,10 @@
 
 ## 2025
 
+- [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18 ~ 20)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=2221542547&WT_mc_id=DOP-MVP-4027259) <small>(2025.11.24 ~ 25)</small> <span class="spnBadgeType1">온라인</span>
+- [Azure 및 GitHub에서 Copilot으로 DevOps를 강화하세요](https://developer.microsoft.com/en-us/reactor/events/26379/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small> <span class="spnBadgeType1">온라인</span>
+- [Secure AI Bootcamp: 프론티어 기업으로의 도약](https://www.microsoft.com/ko-kr/secureaibootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28 ~ 31)</small> <span class="spnBadgeType1">온라인</span>
 - [Microsoft Build 2025](https://build.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.19 ~ 22)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
 - [Microsoft AI Genius 시리즈](https://developer.microsoft.com/ko-kr/reactor/series/S-1530?WT_mc_id=DOP-MVP-4027259) <small>(2024.05.09 ~ 23)</small> <span class="spnBadgeType1">온라인</span>
 - [Azure로 완성하는 지능형 앱 아키텍처 – AI와 클라우드의 혁신적 결합](https://msevents.microsoft.com/event?id=726202594&WT_mc_id=DOP-MVP-4027259) <small>(2025.04.29)</small> <span class="spnBadgeType1">온라인</span>

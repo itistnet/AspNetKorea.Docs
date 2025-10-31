@@ -12,6 +12,10 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `행사 소식` - [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18 ~ 20)</small>
+- `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=2221542547&WT_mc_id=DOP-MVP-4027259) <small>(2025.11.24 ~ 25)</small>
+- `행사 소식` - [Azure 및 GitHub에서 Copilot으로 DevOps를 강화하세요](https://developer.microsoft.com/en-us/reactor/events/26379/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small>
+- `행사 소식` - [Secure AI Bootcamp: 프론티어 기업으로의 도약](https://www.microsoft.com/ko-kr/secureaibootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28 ~ 31)</small>
 - `.NET 관련 소식` - [Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
 - `.NET 관련 소식` - [Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
 - `.NET 관련 소식` - [Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
@@ -23,11 +27,11 @@
 - `.NET 관련 소식` - [Preparing for the .NET 10 GC](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.08)</small>
 - `.NET 관련 소식` - [Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.07)</small>
 - `.NET 관련 소식` - [Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.06)</small>
-- `.NET 관련 소식` - [Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.03)</small>
+<!--- `.NET 관련 소식` - [Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.03)</small>
 - `.NET 관련 소식` - [VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.02)</small>
 - `.NET 관련 소식` - [The $150 Secret Hiding in Plain Sight](https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.01)</small>
 - `.NET 관련 소식` - [Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.30)</small>
-<!--- `.NET 관련 소식` - [Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.26)</small>
+- `.NET 관련 소식` - [Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.26)</small>
 - `.NET 관련 소식` - [Announcing Aspire 9.5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.25)</small>
 - `.NET 관련 소식` - [Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.24)</small>
 - `.NET 관련 소식` - [Enhancements to XAML Live Preview in Visual Studio for .NET MAUI](https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.22)</small>
