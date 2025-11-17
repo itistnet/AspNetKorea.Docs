@@ -5,7 +5,16 @@
 
 ## 2025
 
-- [Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
+- [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
+- [A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.13)</small>
+- [Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.12)</small>
+- [Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.11)</small>
+- [Roadmap for AI in Visual Studio (November)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small>
+- [How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small>
+- [Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.04)</small>
+- [Join us at .NET Conf: Dive into the future of development with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.31)</small>
+- [Visual Studio October Update – new models, memories, planning, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.30)</small>
+- [Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28)</small>
 - [Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
 - [Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
 - [Introducing Planning in Visual Studio (Public Preview)](https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.22)</small>

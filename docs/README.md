@@ -12,13 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `.NET 관련 소식` - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
+- `.NET 관련 소식` - [A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.13)</small>
+- `.NET 관련 소식` - [Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.12)</small>
+- `.NET 관련 소식` - [Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.11)</small>
+- `.NET 관련 소식` - [Roadmap for AI in Visual Studio (November)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small>
+- `.NET 관련 소식` - [How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small>
+- `.NET 관련 소식` - [Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.04)</small>
+- `.NET 관련 소식` - [Join us at .NET Conf: Dive into the future of development with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.31)</small>
+- `.NET 관련 소식` - [Visual Studio October Update – new models, memories, planning, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.30)</small>
 - `행사 소식` - [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18 ~ 20)</small>
 - `행사 소식` - [Microsoft Azure Virtual Training Day: AI 기본 사항](https://msevents.microsoft.com/event?id=2221542547&WT_mc_id=DOP-MVP-4027259) <small>(2025.11.24 ~ 25)</small>
 - `행사 소식` - [Azure 및 GitHub에서 Copilot으로 DevOps를 강화하세요](https://developer.microsoft.com/en-us/reactor/events/26379/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.05)</small>
 - `행사 소식` - [Secure AI Bootcamp: 프론티어 기업으로의 도약](https://www.microsoft.com/ko-kr/secureaibootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28 ~ 31)</small>
-- `.NET 관련 소식` - [Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
+- `.NET 관련 소식` - [Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28)</small>
 - `.NET 관련 소식` - [Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
-- `.NET 관련 소식` - [Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
+<!--- `.NET 관련 소식` - [Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
 - `.NET 관련 소식` - [Introducing Planning in Visual Studio (Public Preview)](https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.22)</small>
 - `.NET 관련 소식` - [Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users](https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.21)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.14)</small>
@@ -27,7 +36,7 @@
 - `.NET 관련 소식` - [Preparing for the .NET 10 GC](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.08)</small>
 - `.NET 관련 소식` - [Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.07)</small>
 - `.NET 관련 소식` - [Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.06)</small>
-<!--- `.NET 관련 소식` - [Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.03)</small>
+- `.NET 관련 소식` - [Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.03)</small>
 - `.NET 관련 소식` - [VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.02)</small>
 - `.NET 관련 소식` - [The $150 Secret Hiding in Plain Sight](https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.01)</small>
 - `.NET 관련 소식` - [Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/?WT_mc_id=DOP-MVP-4027259) <small>(2025.09.30)</small>
