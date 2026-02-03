@@ -12,7 +12,22 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
-- `.NET 관련 소식` - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
+- `.NET 관련 소식` - [.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.28)</small>
+- `.NET 관련 소식` - [Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.27)</small>
+- `.NET 관련 소식` - [Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.26)</small>
+- `.NET 관련 소식` - [Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.15)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework January 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.13)</small>
+- `.NET 관련 소식` - [How to Build Android Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.12)</small>
+- `.NET 관련 소식` - [How We Synchronize .NET’s Virtual Monorepo](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.12)</small>
+- `.NET 관련 소식` - [Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.07)</small>
+- `.NET 관련 소식` - [Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.05)</small>
+- `.NET 관련 소식` - [Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.05)</small>
+- `.NET 관련 소식` - [Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.31)</small>
+- `.NET 관련 소식` - [Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.30)</small>
+- `.NET 관련 소식` - [How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.22)</small>
+- `.NET 관련 소식` - [Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
+- `.NET 관련 소식` - [Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
+<!--- `.NET 관련 소식` - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
 - `.NET 관련 소식` - [A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.13)</small>
 - `.NET 관련 소식` - [Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.12)</small>
 - `.NET 관련 소식` - [Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.11)</small>
@@ -27,7 +42,7 @@
 - `행사 소식` - [Secure AI Bootcamp: 프론티어 기업으로의 도약](https://www.microsoft.com/ko-kr/secureaibootcamp/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28 ~ 31)</small>
 - `.NET 관련 소식` - [Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.28)</small>
 - `.NET 관련 소식` - [Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
-<!--- `.NET 관련 소식` - [Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
+- `.NET 관련 소식` - [Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.23)</small>
 - `.NET 관련 소식` - [Introducing Planning in Visual Studio (Public Preview)](https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.22)</small>
 - `.NET 관련 소식` - [Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users](https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.21)</small>
 - `.NET 관련 소식` - [.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.10.14)</small>

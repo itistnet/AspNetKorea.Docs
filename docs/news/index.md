@@ -5,6 +5,44 @@
 
 ## 2025
 
+- [.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.28)</small>
+- [Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.27)</small>
+- [Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.26)</small>
+- [Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.15)</small>
+- [.NET and .NET Framework January 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.13)</small>
+- [How to Build Android Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.12)</small>
+- [How We Synchronize .NET’s Virtual Monorepo](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.12)</small>
+- [Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.07)</small>
+- [Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.05)</small>
+- [Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.05)</small>
+- [Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.31)</small>
+- [Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.30)</small>
+- [How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.22)</small>
+- [Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
+- [Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
+- [Behind the scenes of the Visual Studio feedback system](https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.15)</small>
+- [How to Build iOS Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.15)</small>
+- [Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.10)</small>
+- [.NET and .NET Framework December 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.09)</small>
+- [Implementing Cross-Platform In-App Billing in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.09)</small>
+- [Microsoft Learn MCP Server Elevates Development](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.08)</small>
+- [.NET 10 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.08)</small>
+- [Unlocking the Power of Web with Copilot Chat’s New URL Context](https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-web-with-copilot-chats-new-url-context/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.04)</small>
+- [.NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.04)</small>
+- [Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.03)</small>
+- [Why changing keyboard shortcuts in Visual Studio isn’t as simple as it seems](https://devblogs.microsoft.com/visualstudio/why-changing-keyboard-shortcuts-in-visual-studio-isnt-as-simple-as-it-seems/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.03)</small>
+- [Introducing Data Ingestion Building Blocks (Preview)](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.03)</small>
+- [Profiler Agent – Delegate the analysis, not the performance](https://devblogs.microsoft.com/visualstudio/delegate-the-analysis-not-the-performance/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.02)</small>
+- [Upgrade MSVC, improve C++ build performance, and refactor C++ code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/upgrade-msvc-improve-c-build-performance-and-refactor-c-code-with-github-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.01)</small>
+- [.NET Day on Agentic Modernization Coming Soon](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.26)</small>
+- [Visual Studio – Built for the Speed of Modern Development](https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.24)</small>
+- [Reinventing how .NET Builds and Ships (Again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.20)</small>
+- [Supercharge Your Test Coverage with GitHub Copilot Testing for .NET](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.19)</small>
+- [A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18)</small>
+- [Spend Less Time Upgrading, More Time Coding in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18)</small>
+- [Post-Quantum Cryptography in .NET](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18)</small>
+- [Introducing C# 14](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.17)</small>
+- [Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.17)</small>
 - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
 - [A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.13)</small>
 - [Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.12)</small>
