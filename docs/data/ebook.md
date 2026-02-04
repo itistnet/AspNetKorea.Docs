@@ -4,6 +4,7 @@
 
 ## Azure
 
+- <img src="image/ebook/AI_에이전트를_위한_프로덕션으로_가는_길.png" class="imgEbookCover"> [AI 에이전트를 위한 프로덕션으로 가는 길](https://marketingassets.microsoft.com/gdc/gdc0innkf/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
 - <img src="image/ebook/성능과_혁신을_위한_마이그레이션.png" class="imgEbookCover"> [성능과 혁신을 위한 마이그레이션](https://clouddamcdnprodep.azureedge.net/gdc/gdcqn50Fa/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - <img src="image/ebook/Micsoroft_Purview_집중_강좌.png" class="imgEbookCover"> [Microsoft Purview 집중 강좌: 데이터 자산 보안 및 관리에 대한 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcIWWZMl/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - <img src="image/ebook/생성형_AI_시대의_데이터_보호.png" class="imgEbookCover"> [생성형 AI 시대의 데이터 보호](https://clouddamcdnprodep.azureedge.net/gdc/gdcj9ArMz/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>

@@ -12,6 +12,7 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [AI 에이전트를 위한 프로덕션으로 가는 길](https://marketingassets.microsoft.com/gdc/gdc0innkf/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
 - `.NET 관련 소식` - [.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.28)</small>
 - `.NET 관련 소식` - [Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.27)</small>
 - `.NET 관련 소식` - [Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.26)</small>
@@ -26,8 +27,8 @@
 - `.NET 관련 소식` - [Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.30)</small>
 - `.NET 관련 소식` - [How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.22)</small>
 - `.NET 관련 소식` - [Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
-- `.NET 관련 소식` - [Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
-<!--- `.NET 관련 소식` - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
+<!--- `.NET 관련 소식` - [Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
+- `.NET 관련 소식` - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
 - `.NET 관련 소식` - [A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.13)</small>
 - `.NET 관련 소식` - [Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.12)</small>
 - `.NET 관련 소식` - [Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.11)</small>
