@@ -3,7 +3,7 @@
 > .NET 관련 새로운 소식과 이슈 모음입니다.
 > <br><br> > [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT_mc_id=DOP-MVP-4027259) 에 게시되는 내용 위주로 소개하며 주요한 뉴스나 이슈 등도 함께 소개합니다.
 
-## 2025
+## 2026
 
 - [Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.24)</small>
 - [Generative AI for Beginners .NET: Version 2 on .NET 10](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.23)</small>
@@ -39,6 +39,9 @@
 - [Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.07)</small>
 - [Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.05)</small>
 - [Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.05)</small>
+
+## 2025
+
 - [Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.31)</small>
 - [Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.30)</small>
 - [How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.22)</small>
