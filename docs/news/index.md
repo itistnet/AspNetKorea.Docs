@@ -5,6 +5,30 @@
 
 ## 2025
 
+- [Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.24)</small>
+- [Generative AI for Beginners .NET: Version 2 on .NET 10](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.23)</small>
+- [Ten Months with Copilot Coding Agent in dotnet/runtime](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.23)</small>
+- [Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.19)</small>
+- [RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.17)</small>
+- [Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox](https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.16)</small>
+- [Modernize .NET Anywhere with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.12)</small>
+- [.NET 10.0.5 Out-of-Band Release – macOS Debugger Fix](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.12)</small>
+- [.NET 11 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.10)</small>
+- [.NET and .NET Framework March 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.10)</small>
+- [Visual Studio Dev Essentials: Free, Practical Tools for Every Developer ](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.09)</small>
+- [Extend your coding agent with .NET Skills](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.09)</small>
+- [Release v1.0 of the official MCP C# SDK](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.05)</small>
+- [Vector Data in .NET – Building Blocks for AI Part 2](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.26)</small>
+- [The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.24)</small>
+- [Visual Studio February Update](https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.24)</small>
+- [Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.19)</small>
+- [GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.11)</small>
+- [Unlock language-specific rich symbol context using new find_symbol tool](https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.11)</small>
+- [.NET 11 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.10)</small>
+- [.NET and .NET Framework February 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.10)</small>
+- [.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.05)</small>
+- [Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.04)</small>
+- [Performance improvements to MEF-based editor productivity extensions](https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.03)</small>
 - [.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.28)</small>
 - [Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.27)</small>
 - [Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.26)</small>

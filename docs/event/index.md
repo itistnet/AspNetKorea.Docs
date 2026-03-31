@@ -2,6 +2,27 @@
 
 > 컨퍼런스, 세미나, 이벤트 등의 행사 소식입니다.
 
+## 2026
+
+- [Microsoft Security Virtual Training Day: Implement Data Security with Microsoft Purview](https://msevents.microsoft.com/event?id=2982652434&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.15 ~ 16)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft Defender for Cloud](https://msevents.microsoft.com/event?id=817391968&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.13 ~ 14)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft 365 Virtual Training Day: Manage Windows Endpoints with Microsoft Intune](https://msevents.microsoft.com/event?id=393347023&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.09 ~ 10)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Virtual Training Day: Introduction to Microsoft Power Platform](https://msevents.microsoft.com/event?id=2968793266&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.07 ~ 08)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Virtual Training Day: Predict and Defend Against Cybersecurity Threats](https://msevents.microsoft.com/event?id=1650427681&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.07 ~ 08)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Virtual Training Day: AI 에이전트 확산 시대, 안전한 Copilot 운영 전략](https://msevents.microsoft.com/event?id=870169528&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.01)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Virtual Training Day: Secure and Administer Microsoft 365 Copilot and Agents](https://msevents.microsoft.com/event?id=3377476551&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.01)</small> <span class="spnBadgeType1">온라인</span>
+- [멀티 에이전트 AI 설계하기: Microsoft Virtual Training Day](https://msevents.microsoft.com/event?id=3788527140&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.23)</small> <span class="spnBadgeType1">온라인</span>
+- [Azure AI Foundry로 생성형 AI 앱 개발 시작하기: Microsoft Virtual Training Day](https://msevents.microsoft.com/event?id=1337390144&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.18 ~ 19)</small> <span class="spnBadgeType1">온라인</span>
+- [AI 시대 데이터 보안 구현하기: Microsoft Security Virtual Training Day](https://msevents.microsoft.com/event?id=2113636456&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.16 ~ 17)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft AI Tour Seoul](https://aitour.microsoft.com/flow/microsoft/seoul26/landingpage/page/cityhome?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.26)</small> <span class="spnBadgeType1">온라인</span> <span class="spnBadgeType2">오프라인</span>
+- [Copilot Studio로 에이전트 구축 시작하기: Microsoft Virtual Training Day](https://msevents.microsoft.com/event?id=355463051&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.11 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
+- [Windows·SQL 워크로드 안전하게 Azure로 이전하기: Microsoft Azure Virtual Training Day](https://msevents.microsoft.com/event?id=2299780478&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.11 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
+- [Windows Server·SQL Server를 안전하게 클라우드로 이전하는 전략 : Microsoft Azure Virtual Training Day](https://msevents.microsoft.com/event?id=2299780478&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.11 ~ 12)</small> <span class="spnBadgeType1">온라인</span>
+- [로우코드와 자동화로 비즈니스 가치를 높이는 방법: Microsoft Virtual Training Day](https://msevents.microsoft.com/event?id=4244173838%20&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.09 ~ 10)</small> <span class="spnBadgeType1">온라인</span>
+- [Copilot과 에이전트를 안전하게 운영 및 확장하는 방법: Microsoft Virtual Training Day](https://msevents.microsoft.com/event?id=1380244061&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.06)</small> <span class="spnBadgeType1">온라인</span>
+- [데이터 기초부터 Azure 데이터 서비스까지 한 번에: Microsoft Azure Virtual Training Day](https://msevents.microsoft.com/event?id=2779352387%20&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.04 ~ 05)</small> <span class="spnBadgeType1">온라인</span>
+- [Microsoft Virtual Training Day: Azure AI Foundry로 에이전트형 AI 솔루션 구축하기](https://msevents.microsoft.com/event?id=388420063&WT_mc_id=DOP-MVP-4027259) <small>(2026.03.03)</small> <span class="spnBadgeType1">온라인</span>
+
 ## 2025
 
 - [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.18 ~ 20)</small> <span class="spnBadgeType1">온라인</span>

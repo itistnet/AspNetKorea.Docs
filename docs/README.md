@@ -12,6 +12,40 @@
 
 ## 신규 업데이트 <small>(최근 15개)</small>
 
+- `e-Book` - [자신 있게 .NET 및 JAVA 애플리케이션 현대화하기](https://marketingassets.microsoft.com/gdc/gdcidAO4j/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
+- `e-Book` - [앱 현대화 플레이북](https://marketingassets.microsoft.com/gdc/gdcVfUzdL/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
+- `e-Book` - [데이터 현대화 플레이북](https://marketingassets.microsoft.com/gdc/gdc5s8xMv/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
+- `행사 소식` - [Microsoft Security Virtual Training Day: Implement Data Security with Microsoft Purview](https://msevents.microsoft.com/event?id=2982652434&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.15 ~ 16)</small>
+- `행사 소식` - [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft Defender for Cloud](https://msevents.microsoft.com/event?id=817391968&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.13 ~ 14)</small>
+- `행사 소식` - [Microsoft 365 Virtual Training Day: Manage Windows Endpoints with Microsoft Intune](https://msevents.microsoft.com/event?id=393347023&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.09 ~ 10)</small>
+- `행사 소식` - [Microsoft Virtual Training Day: Introduction to Microsoft Power Platform](https://msevents.microsoft.com/event?id=2968793266&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.07 ~ 08)</small>
+- `행사 소식` - [Microsoft Virtual Training Day: Predict and Defend Against Cybersecurity Threats](https://msevents.microsoft.com/event?id=1650427681&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.07 ~ 08)</small>
+- `행사 소식` - [Microsoft Virtual Training Day: AI 에이전트 확산 시대, 안전한 Copilot 운영 전략](https://msevents.microsoft.com/event?id=870169528&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.01)</small>
+- `행사 소식` - [Microsoft Virtual Training Day: Secure and Administer Microsoft 365 Copilot and Agents](https://msevents.microsoft.com/event?id=3377476551&WT_mc_id=DOP-MVP-4027259) <small>(2026.04.01)</small>
+- `.NET 관련 소식` - [Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.24)</small>
+- `.NET 관련 소식` - [Generative AI for Beginners .NET: Version 2 on .NET 10](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.23)</small>
+- `.NET 관련 소식` - [Ten Months with Copilot Coding Agent in dotnet/runtime](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.23)</small>
+- `.NET 관련 소식` - [Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.19)</small>
+- `.NET 관련 소식` - [RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.17)</small>
+<!--- `.NET 관련 소식` - [Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox](https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.16)</small>
+- `.NET 관련 소식` - [Modernize .NET Anywhere with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.12)</small>
+- `.NET 관련 소식` - [.NET 10.0.5 Out-of-Band Release – macOS Debugger Fix](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.12)</small>
+- `.NET 관련 소식` - [.NET 11 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.10)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework March 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.10)</small>
+- `.NET 관련 소식` - [Visual Studio Dev Essentials: Free, Practical Tools for Every Developer ](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.09)</small>
+- `.NET 관련 소식` - [Extend your coding agent with .NET Skills](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.09)</small>
+- `.NET 관련 소식` - [Release v1.0 of the official MCP C# SDK](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/?WT_mc_id=DOP-MVP-4027259) <small>(2026.03.05)</small>
+- `.NET 관련 소식` - [Vector Data in .NET – Building Blocks for AI Part 2](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.26)</small>
+- `.NET 관련 소식` - [The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.24)</small>
+- `.NET 관련 소식` - [Visual Studio February Update](https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.24)</small>
+- `.NET 관련 소식` - [Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.19)</small>
+- `.NET 관련 소식` - [GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.11)</small>
+- `.NET 관련 소식` - [Unlock language-specific rich symbol context using new find_symbol tool](https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.11)</small>
+- `.NET 관련 소식` - [.NET 11 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.10)</small>
+- `.NET 관련 소식` - [.NET and .NET Framework February 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.10)</small>
+- `.NET 관련 소식` - [.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.05)</small>
+- `.NET 관련 소식` - [Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.04)</small>
+- `.NET 관련 소식` - [Performance improvements to MEF-based editor productivity extensions](https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/?WT_mc_id=DOP-MVP-4027259) <small>(2026.02.03)</small>
 - `e-Book` - [AI 에이전트를 위한 프로덕션으로 가는 길](https://marketingassets.microsoft.com/gdc/gdc0innkf/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
 - `.NET 관련 소식` - [.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.28)</small>
 - `.NET 관련 소식` - [Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/?WT_mc_id=DOP-MVP-4027259) <small>(2026.01.27)</small>
@@ -27,7 +61,7 @@
 - `.NET 관련 소식` - [Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.30)</small>
 - `.NET 관련 소식` - [How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.22)</small>
 - `.NET 관련 소식` - [Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
-<!--- `.NET 관련 소식` - [Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
+- `.NET 관련 소식` - [Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/?WT_mc_id=DOP-MVP-4027259) <small>(2025.12.16)</small>
 - `.NET 관련 소식` - [Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.14)</small>
 - `.NET 관련 소식` - [A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.13)</small>
 - `.NET 관련 소식` - [Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/?WT_mc_id=DOP-MVP-4027259) <small>(2025.11.12)</small>

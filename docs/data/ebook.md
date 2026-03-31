@@ -4,6 +4,9 @@
 
 ## Azure
 
+- <img src="image/ebook/자신_있게_.NET_및_JAVA_애플리케이션_현대화하기.png" class="imgEbookCover"> [자신 있게 .NET 및 JAVA 애플리케이션 현대화하기](https://marketingassets.microsoft.com/gdc/gdcidAO4j/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
+- <img src="image/ebook/앱_현대화_플레이북.png" class="imgEbookCover"> [앱 현대화 플레이북](https://marketingassets.microsoft.com/gdc/gdcVfUzdL/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
+- <img src="image/ebook/데이터_현대화_플레이북.png" class="imgEbookCover"> [데이터 현대화 플레이북](https://marketingassets.microsoft.com/gdc/gdc5s8xMv/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
 - <img src="image/ebook/AI_에이전트를_위한_프로덕션으로_가는_길.png" class="imgEbookCover"> [AI 에이전트를 위한 프로덕션으로 가는 길](https://marketingassets.microsoft.com/gdc/gdc0innkf/original?WT_mc_id=DOP-MVP-4027259) <small>(2026)</small>
 - <img src="image/ebook/성능과_혁신을_위한_마이그레이션.png" class="imgEbookCover"> [성능과 혁신을 위한 마이그레이션](https://clouddamcdnprodep.azureedge.net/gdc/gdcqn50Fa/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
 - <img src="image/ebook/Micsoroft_Purview_집중_강좌.png" class="imgEbookCover"> [Microsoft Purview 집중 강좌: 데이터 자산 보안 및 관리에 대한 가이드](https://clouddamcdnprodep.azureedge.net/gdc/gdcIWWZMl/original?WT_mc_id=DOP-MVP-4027259) <small>(2025)</small>
